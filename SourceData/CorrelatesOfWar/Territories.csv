@@ -1,4 +1,4 @@
-"EntityNumber",Name,Begin Year,End Year,Ending Political Status
+Entity Number,Name,Begin Year,End Year,Ending Political Status
 3,Alaska,1816,1867,Became colony of 365
 3,Alaska,1867,1959,Became colony of 2
 3,Alaska,1959,1993,Became part of 2
@@ -391,10 +391,10 @@
 1135,Viceroyalty of Peru,1817,1993,Became part of 135
 1151,Easter I.,1888,1965,Became colony of 155
 1151,Easter I.,1965,1993,Became part of 155
-1152,Free Surinam,1816,1987,Became part of 115
-1152,Juan Fernandez I.,-196,1965,Became possession of 155
-1152,Juan Fernandez I.,1965,1993,Became part of 155
-1152,Free Surinam,1991,1993,Became part of 115
+1152,Free Surinam (Juan Fernandez I.),1816,1987,Became part of 115
+1152,Free Surinam (Juan Fernandez I.),-196,1965,Became possession of 155
+1152,Free Surinam (Juan Fernandez I.),1965,1993,Became part of 155
+1152,Free Surinam (Juan Fernandez I.),1991,1993,Became part of 115
 1153,San Felix and San Ambrosio,-196,1965,Became possession of 155
 1153,San Felix and San Ambrosio,1965,1993,Became part of 155
 1154,Sala y Gomez,-196,1965,Became possession of 155
@@ -568,9 +568,9 @@
 355,Bulgaria,1878,1878,Occupied by 365
 355,Bulgaria,1918,1919,Occupied by 200
 355,Bulgaria,1944,1947,Occupied by 365
-359,"Moldova (Bessarabia) (MoldavianRepublic)",1816,1917,Became part of 365
-359,"Moldova (Bessarabia) (MoldavianRepublic)",1918,1940,Became part of 360
-359,"Moldova (Bessarabia) (MoldavianRepublic)",1940,1991,Became part of 365
+359,Moldova (Bessarabia) (Moldavian Republic),1816,1917,Became part of 365
+359,Moldova (Bessarabia) (Moldavian Republic),1918,1940,Became part of 360
+359,Moldova (Bessarabia) (Moldavian Republic),1940,1991,Became part of 365
 360,Rumania,1816,1860,Became part of 3361
 360,Rumania,1916,1918,Occupied by 255
 360,Rumania,1944,1949,Occupied by 365
@@ -601,9 +601,9 @@
 372,Georgia,1920,1991,Became part of 365
 373,Azerbaijan,1816,1918,Became part of 365
 373,Azerbaijan,1920,1991,Became part of 365
-374,Transcaucasia,1816,1917,Became part of 365
-374,Chechen-Ingush Republic,1859,1991,Became part of 365
-374,Transcaucasia,1918,1920,Became part of 371
+374,Transcaucasia (Chechen-Ingush Republic),1816,1917,Became part of 365
+374,Transcaucasia (Chechen-Ingush Republic),1859,1991,Became part of 365
+374,Transcaucasia (Chechen-Ingush Republic),1918,1920,Became part of 371
 375,Finland,1816,1918,Became part of 365
 385,Norway,1816,1905,Became part of 380
 385,Norway,1940,1945,Occupied by 255
@@ -689,7 +689,7 @@
 3326,Venezia-Giulia,1919,1945,Became part of 325
 3326,Venezia-Giulia,1945,1947,Occupied by 2
 3326,Venezia-Giulia,1947,1993,Became part of 325
-3327,"S.M.O.M.(Sovereign & Military Order ofJerusalem, Rhodes and Malta)",1816,1834,Became part of 327
+3327,"S.M.O.M. (Sovereign & Military Order of Jerusalem, Rhodes and Malta)",1816,1834,Became part of 327
 3340,Scutari,1831,1912,Became part of 640
 3340,Scutari,1912,1993,Became part of 339
 3341,Saseno,1816,1912,Became part of 640
@@ -709,13 +709,13 @@
 3349,Ionian Is.,1941,1943,Occupied by 325
 3349,Ionian Is.,1943,1944,Occupied by 255
 3349,Ionian Is.,1944,1993,Became part of 350
-3351,British Bases in Cyprus,1816,1960,Became part of 352
-3351,Corfu,1816,1864,Became part of 3349
-3351,Corfu,1864,1923,Became part of 350
-3351,Corfu,1916,1916,Occupied by 220
-3351,Corfu,1923,1941,Became part of 350
-3351,Corfu,1923,1923,Occupied by 325
-3351,British Bases in Cyprus,1960,1993,Became possession of 200
+3351,Corfu (British Bases in Cyprus),1816,1960,Became part of 352
+3351,Corfu (British Bases in Cyprus),1816,1864,Became part of 3349
+3351,Corfu (British Bases in Cyprus),1864,1923,Became part of 350
+3351,Corfu (British Bases in Cyprus),1916,1916,Occupied by 220
+3351,Corfu (British Bases in Cyprus),1923,1941,Became part of 350
+3351,Corfu (British Bases in Cyprus),1923,1923,Occupied by 325
+3351,Corfu (British Bases in Cyprus),1960,1993,Became possession of 200
 3352,Turkish  Republic of Northern Cyprus,1816,1975,Became part of 352
 3352,Turkish  Republic of Northern Cyprus,1974,1993,Occupied by 640
 3353,Dodecanese Is. (Aegean Is.),1816,1912,Became part of 640
@@ -754,12 +754,12 @@
 3375,Daghestan,1859,1992,Became part of 365
 3376,Nakhichevan,1816,1990,Became part of 365
 3376,Nakhichevan,1990,1991,Became part of 365
-3377,Hango,1816,1917,Became part of 365
-3377,"Mountaineers' Republic of the NorthCaucusus",1859,1918,Became part of 365
-3377,Hango,1917,1940,Became part of 375
-3377,"Mountaineers' Republic of the NorthCaucusus",1920,1992,Became part of 365
-3377,Hango,1940,1944,Leased to 365
-3377,Hango,1944,1993,Became part of 375
+3377,Mountaineers' Republic of the North Caucusus (Hango),1816,1917,Became part of 365
+3377,Mountaineers' Republic of the North Caucusus (Hango),1859,1918,Became part of 365
+3377,Mountaineers' Republic of the North Caucusus (Hango),1917,1940,Became part of 375
+3377,Mountaineers' Republic of the North Caucusus (Hango),1920,1992,Became part of 365
+3377,Mountaineers' Republic of the North Caucusus (Hango),1940,1944,Leased to 365
+3377,Mountaineers' Republic of the North Caucusus (Hango),1944,1993,Became part of 375
 3378,Porkkala,1816,1917,Became part of 365
 3378,Porkkala,1917,1944,Became part of 375
 3378,Porkkala,1944,1956,Claimed by 365
@@ -877,9 +877,9 @@
 430,French West Africa,1958,1993,Became part of 432
 431,Mali Federation,1895,1958,Became part of 430
 431,Mali Federation,1959,1960,Became colony of 220
-432,"Mali (French Sudan) (Upper Senegal andNiger)",1904,1958,Became part of 430
-432,"Mali (French Sudan) (Upper Senegal andNiger)",1904,1959,Became colony of 220
-432,"Mali (French Sudan) (Upper Senegal andNiger)",1959,1960,Became part of 431
+432,Mali (French Sudan) (Upper Senegal and Niger),1904,1958,Became part of 430
+432,Mali (French Sudan) (Upper Senegal and Niger),1904,1959,Became colony of 220
+432,Mali (French Sudan) (Upper Senegal and Niger),1959,1960,Became part of 431
 433,Senegal,1816,1817,Became colony of 200
 433,Senegal,1817,1959,Became colony of 220
 433,Senegal,1895,1958,Became part of 430
@@ -945,15 +945,15 @@
 482,Central African Republic,1910,1958,Became part of 480
 483,Chad,1910,1958,Became part of 480
 483,Chad,1920,1960,Became colony of 220
-484,"Congo (Brazzaville) (French Congo (MiddleCongo)",1882,1960,Became colony of 220
-484,"Congo (Brazzaville) (French Congo (MiddleCongo)",1910,1958,Became part of 480
+484,Congo (Brazzaville) (French Congo (Middle Congo),1882,1960,Became colony of 220
+484,Congo (Brazzaville) (French Congo (Middle Congo),1910,1958,Became part of 480
 490,Zaire (Kinshasa) (Belgian Congo),1885,1960,Became colony of 211
 500,Uganda,1894,1962,Became protectorate of 200
 501,Kenya (British East Africa Protectorate),1895,1920,Became protectorate of 200
 501,Kenya (British East Africa Protectorate),1895,1963,Became colony of 200
-510,"Tanzania (Tanganyika) (German eastAfrica)",1891,1916,Became colony of 255
-510,"Tanzania (Tanganyika) (German eastAfrica)",1916,1922,Occupied by 200
-510,"Tanzania (Tanganyika) (German eastAfrica)",1922,1961,Mandated to 200
+510,Tanzania (Tanganyika) (German east Africa),1891,1916,Became colony of 255
+510,Tanzania (Tanganyika) (German east Africa),1916,1922,Occupied by 200
+510,Tanzania (Tanganyika) (German east Africa),1922,1961,Mandated to 200
 511,Zanzibar,1816,1856,Became colony of 698
 511,Zanzibar,1891,1893,Occupied by 200
 511,Zanzibar,1895,1963,Became protectorate of 200
@@ -968,7 +968,7 @@
 521,British Somaliland (Somaliland Republic),1940,1941,Occupied by 325
 521,British Somaliland (Somaliland Republic),1941,1960,Became colony of 200
 521,British Somaliland (Somaliland Republic),1960,1993,Became part of 520
-522,"Djibouti (Afar and Issas) (FrenchSomaliland)",1884,1977,Became colony of 220
+522,Djibouti (Afar and Issas) (French Somaliland),1884,1977,Became colony of 220
 530,Ethiopia (Abyssinia),1816,1855,Became part of 5301
 530,Ethiopia (Abyssinia),1936,1941,Occupied by 325
 531,Eritrea,1882,1936,Became colony of 325
@@ -1009,10 +1009,10 @@
 564,Orange Free State (Orange River Colony),1848,1854,Became colony of 200
 564,Orange Free State (Orange River Colony),1900,1910,Became colony of 200
 564,Orange Free State (Orange River Colony),1910,1993,Became part of 560
-565,"South West Africa (German West Africa)(Namibia)",1885,1915,Became colony of 255
-565,"South West Africa (German West Africa)(Namibia)",1915,1922,Occupied by 560
-565,"South West Africa (German West Africa)(Namibia)",1922,1966,Mandated to 560
-565,"South West Africa (German West Africa)(Namibia)",1966,1990,Became colony of 560
+565,South West Africa (German West Africa) (Namibia),1885,1915,Became colony of 255
+565,South West Africa (German West Africa) (Namibia),1915,1922,Occupied by 560
+565,South West Africa (German West Africa) (Namibia),1922,1966,Mandated to 560
+565,South West Africa (German West Africa) (Namibia),1966,1990,Became colony of 560
 566,Transkei,1910,1976,Became part of 560
 566,Transkei,1994,1994,Became part of 560
 567,Bophuthatswana,1910,1977,Became part of 560
@@ -1679,8 +1679,8 @@
 6527,Jebel Druze,1816,1920,Became part of 640
 6527,Jebel Druze,1920,1993,Became part of 652
 6527,Jebel Druze,1921,1936,Became colony of 220
-6601,"South Lebanon Security Zone (Free Statefo South Lebanon)",1923,1979,Became part of 660
-6601,"South Lebanon Security Zone (Free Statefo South Lebanon)",1982,1993,Occupied by 666
+6601,South Lebanon Security Zone (Free State of South Lebanon),1923,1979,Became part of 660
+6601,South Lebanon Security Zone (Free State of South Lebanon),1982,1993,Occupied by 666
 6631,West Bank,1918,1948,Became part of 665
 6631,West Bank,1948,1950,Occupied by 663
 6631,West Bank,1950,1967,Became part of 663
@@ -2006,9 +2006,9 @@
 7113,Chinghai (Tsinghai),1940,1993,Became part of 710
 7114,Xinjiang (Sinkiang),1816,1937,Became part of 710
 7114,Xinjiang (Sinkiang),1945,1993,Became part of 710
-7115,"Provisional Government of the Republic ofChina",1816,1937,Became part of 710
-7115,"Provisional Government of the Republic ofChina",1937,1945,Occupied by 740
-7115,"Provisional Government of the Republic ofChina",1945,1993,Became part of 710
+7115,Provisional Government of the Republic of China,1816,1937,Became part of 710
+7115,Provisional Government of the Republic of China,1937,1945,Occupied by 740
+7115,Provisional Government of the Republic of China,1945,1993,Became part of 710
 7116,Reformed Government of China,1816,1937,Became part of 710
 7116,Reformed Government of China,1937,1945,Occupied by 740
 7116,Reformed Government of China,1945,1993,Became part of 710
@@ -2445,9 +2445,9 @@
 911,Papua,1888,1920,Became colony of 200
 911,Papua,1920,1949,Became colony of 900
 911,Papua,1949,1993,Became part of 910
-912,"New Guinea (German New Guinea) (KaiserWilhelmsland)",1884,1914,Became colony of 255
-912,"New Guinea (German New Guinea) (KaiserWilhelmsland)",1914,1921,Occupied by 900
-912,"New Guinea (German New Guinea) (KaiserWilhelmsland)",1949,1993,Became part of 910
+912,New Guinea (German New Guinea) (KaiserWilhelmsland),1884,1914,Became colony of 255
+912,New Guinea (German New Guinea) (KaiserWilhelmsland),1914,1921,Occupied by 900
+912,New Guinea (German New Guinea) (KaiserWilhelmsland),1949,1993,Became part of 910
 920,New Zealand,1840,1920,Became colony of 200
 925,Cook Is.,1888,1901,Became protectorate of 200
 925,Cook Is.,1901,1993,Became colony of 920
@@ -2623,7 +2623,7 @@
 9900,Samoa,1889,1900,Became protectorate of 2
 9900,Samoa,1900,1993,Became part of 990
 9960,Australian Antarctic Territory,1933,1993,Claimed by 900
-9970,"French and Southern Antarctic Territories(F.S.A.T.)",1955,1993,Became possession of 220
+9970,French and Southern Antarctic Territories (F.S.A.T.),1955,1993,Became possession of 220
 9971,Adelie Land,1840,1955,Claimed by 220
 9971,Adelie Land,1955,1993,Became part of 9970
 9972,St. Paul and New Amsterdam Is.,1843,1955,Became possession of 220

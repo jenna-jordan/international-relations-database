@@ -1,0 +1,655 @@
+WarID,WarShortName,WarLongName,WarType,WarTypeName,IsIntervention,IsInternational
+1,Franco-Spanish War,Franco-Spanish War of 1823,1,Inter-State War ,,
+4,First Russo-Turkish,First Russo-Turkish War of 1828-1829,1,Inter-State War ,,
+7,Mexican-American,Mexican-American War of 1846-1847,1,Inter-State War ,,
+10,Austro-Sardinian,Austro-Sardinian War of 1848-1849,1,Inter-State War ,,
+13,First Schleswig-Holstein,First Schleswig-Holstein War of 1848-1849,1,Inter-State War ,,
+16,Roman Republic,War of the Roman Republic of 1849,1,Inter-State War ,,
+19,La Plata,La Plata War of 1851-1852,1,Inter-State War ,,
+22,Crimean,Crimean War of 1853-1856,1,Inter-State War ,,
+25,Anglo-Persian,Anglo-Persian War of 1856-1857,1,Inter-State War ,,
+28,Italian Unification,War of Italian Unification of 1859,1,Inter-State War ,,
+31,First Spanish-Moroccan,First Spanish-Moroccan War of 1859-1860,1,Inter-State War ,,
+34,Italian-Roman,Italian-Roman War of 1860,1,Inter-State War ,,
+37,Neapolitan,Neapolitan War of 1860-1861,1,Inter-State War ,,
+40,Franco-Mexican,Franco-Mexican War of 1862-1867,1,Inter-State War ,,
+43,Ecuadorian-Colombian,Ecuadorian-Columbian War of 1863,1,Inter-State War ,,
+46,Second Schleswig-Holstein,Second Schleswig-Holstein War of 1864,1,Inter-State War ,,
+49,Lopez,Lopez War of 1864-1870,1,Inter-State War ,,
+52,Naval War,Naval War of 1865-1866,1,Inter-State War ,,
+55,Seven Weeks,Seven Weeks War of 1866,1,Inter-State War ,,
+58,Franco-Prussian,Franco-Prussian War of 1870-1871,1,Inter-State War ,,
+60,First Central American,First Central American War of 1876,1,Inter-State War ,,
+61,Second Russo-Turkish,Second Russo-Turkish War of 1877-1878,1,Inter-State War ,,
+64,War of the Pacific,War of the Pacific of 1879-1883,1,Inter-State War ,,
+65,Conquest of Egypt,Conquest of Egypt of 1882,1,Inter-State War ,,
+67,Sino-French,Sino-French War of 1884-1885,1,Inter-State War ,,
+70,Second Central American,Second Central American War of 1885,1,Inter-State War ,,
+73,First Sino-Japanese,First Sino-Japanese War of 1894-1895,1,Inter-State War ,,
+76,Greco-Turkish,Greco-Turkish War of 1897,1,Inter-State War ,,
+79,Spanish-American,Spanish-American War of 1898,1,Inter-State War ,,
+82,Boxer Rebellion,Boxer Rebellion of 1900,1,Inter-State War ,,
+83,Sino-Russian,Sino-Russian War of 1900,1,Inter-State War ,,
+85,Russo-Japanese,Russo-Japanese War of 1904-1905,1,Inter-State War ,,
+88,Third Central American,Third Central American War of 1906,1,Inter-State War ,,
+91,Fourth Central American,Fourth Central American War of 1907,1,Inter-State War ,,
+94,Second Spanish-Moroccan,Second Spanish-Moroccan War of 1909-1910,1,Inter-State War ,,
+97,Italian-Turkish,Italian-Turkish War of 1911-1912,1,Inter-State War ,,
+100,First Balkan,First Balkan War of 1912-1913,1,Inter-State War ,,
+103,Second Balkan,Second Balkan War of 1913,1,Inter-State War ,,
+106,World War I,World War I of 1914-1918,1,Inter-State War ,,
+107,Estonian Liberation,Estonian War of Liberation of 1918-1920,1,Inter-State War ,,
+108,Latvian Liberation,Latvian War of Liberation of 1918-1920,1,Inter-State War ,,
+109,Russo-Polish,Russo-Polish War of 1919-1920,1,Inter-State War ,,
+112,Hungarian Adversaries,Hungarian Adversaries War of 1919,1,Inter-State War ,,
+115,Second Greco-Turkish,Second Greco-Turkish War of 1919-1922,1,Inter-State War ,,
+116,Franco-Turkish,Franco-Turkish War of 1919-1921,1,Inter-State War ,,
+117,Lithuanian-Polish,Lithuanian-Polish War of 1920,1,Inter-State War ,,
+118,Manchurian,Manchurian War of 1929,1,Inter-State War ,,
+121,Second Sino-Japanese,Second Sino-Japanese War of 1931-1933,1,Inter-State War ,,
+124,Chaco,Chaco War of 1932-1935,1,Inter-State War ,,
+125,Saudi-Yemeni,Saudi-Yemeni War of 1934,1,Inter-State War ,,
+127,Conquest of Ethiopia,Conquest of Ethiopia of 1935-1936,1,Inter-State War ,,
+130,Third Sino-Japanese,Third Sino-Japanese War of 1937-1941,1,Inter-State War ,,
+133,Changkufeng,Changkufeng War of 1938,1,Inter-State War ,,
+136,Nomonhan,Nomonhan War of 1939,1,Inter-State War ,,
+139,World War II,World War II of 1939-1945,1,Inter-State War ,,
+142,Russo-Finnish,Russo-Finnish War of 1939-1940,1,Inter-State War ,,
+145,Franco-Thai,Franco-Thai War of 1940-1941,1,Inter-State War ,,
+147,First Kashmir,First Kashmir War of 1947-1949,1,Inter-State War ,,
+148,Arab-Israeli,Arab-Israeli War of 1948-1949,1,Inter-State War ,,
+151,Korean,Korean War of 1950-1953,1,Inter-State War ,,
+153,Off-shore Islands,Off-shore Islands War of 1954-1955,1,Inter-State War ,,
+155,Sinai War,Sinai War of 1956,1,Inter-State War ,,
+156,Soviet Invasion of Hungary,Soviet Invasion of Hungary of 1956,1,Inter-State War ,,
+158,IfniWar,Ifni War of 1957-1958,1,Inter-State War ,,
+159,Taiwan Straits,Taiwan Straits War of 1958,1,Inter-State War ,,
+160,Assam,War in Assam of 1962,1,Inter-State War ,,
+163,"Vietnam War, Phase 2",Vietnam War Phase 2 of 1965-1975,1,Inter-State War ,,
+166,Second Kashmir,Second Kashmir War of 1965,1,Inter-State War ,,
+169,Six Day War,Six Day War of 1967,1,Inter-State War ,,
+170,"Second Laotian, Phase 2",Second Laotian War Phase 2 of 1968-1973,1,Inter-State War ,,
+172,War of Attrition,War of Attrition of 1969-1970,1,Inter-State War ,,
+175,Football War,Football War of 1969,1,Inter-State War ,,
+176,Communist Coalition,War of the Communist Coalition of 1970-1971,1,Inter-State War ,,
+178,Bangladesh,War for Bangladesh of 1971,1,Inter-State War ,,
+181,Yom Kippur War,Yom Kippur War of 1973,1,Inter-State War ,,
+184,Turco-Cypriot,Turco-Cypriot War of 1974,1,Inter-State War ,,
+186,War over Angola,War over Angola of 1975-1976,1,Inter-State War ,,
+187,"Second Ogaden War, Phase 2",Second Ogaden War Phase 2 of 1977-1978,1,Inter-State War ,,
+189,Vietnamese-Cambodian,Vietnamese-Cambodian Border War of 1977-1979,1,Inter-State War ,,
+190,Ugandian-Tanzanian,Ugandan-Tanzanian War of 1978-1979,1,Inter-State War ,,
+193,Sino-Vietnamese Punitive,Sino-Vietnamese Punitive War of 1979,1,Inter-State War ,,
+199,Iran-Iraq,Iran-Iraq War of 1980-1988,1,Inter-State War ,,
+202,Falkland Islands,Falklands War of 1982,1,Inter-State War ,,
+205,War over Lebanon,War over Lebanon of 1982,1,Inter-State War ,,
+207,War over the Aouzou Strip,War over the Aouzou Strip of 1986-1987,1,Inter-State War ,,
+208,Sino-Vietnamese Border War,Sino-Vietnamese Border War of 1987,1,Inter-State War ,,
+211,Gulf War,Gulf War of 1990-1991,1,Inter-State War ,,
+215,Bosnian Independence,War of Bosnian Independence of 1992,1,Inter-State War ,,
+216,Azeri-Armenian,Azeri-Armenian War of 1993-1994,1,Inter-State War ,,
+217,Cenepa Valley,Cenepa Valley War of 1995,1,Inter-State War ,,
+219,Badme Border,Badme Border War of 1998-2000,1,Inter-State War ,,
+221,War for Kosovo,War for Kosovo of 1999,1,Inter-State War ,,
+223,Kargil War,Kargil War of 1999,1,Inter-State War ,,
+225,Invasion of Afghanistan,Invasion of Afghanistan of 2001,1,Inter-State War ,,
+227,Invasion of Iraq,Invasion of Iraq of 2003,1,Inter-State War ,,
+500,First Caucasus,First Caucasus War of 1818-1822,5,Intra-State War ,,0.0
+501,Sidon-Damascus,Sidon-Damascus War of 1820-1821,6,Intra-State War ,,0.0
+502,First Two Sicilies,First Two Sicilies War of 1820-1821,4,Intra-State War ,,1.0
+503,Spanish Royalists,Spanish Royalists War of 1821-1823,4,Intra-State War ,,0.0
+505,Sardinian Revolt,Sardinian Revolt of 1821,4,Intra-State War ,,1.0
+506,Greek Independence,Greek Independence War of 1821-1828,5,Intra-State War ,,1.0
+507,Egypt-Mehdi,Egypt-Mehdi War of 1824,6,Intra-State War ,,0.0
+508,Janissari Revolt,Janissari Revolt of 1826,4,Intra-State War ,,0.0
+510,Miguelite War,Miguelite War of 1828-1834,4,Intra-State War ,,1.0
+511,First Murid War,First Murid War of 1830-1832,5,Intra-State War ,,0.0
+512,First Albanian Revolt,First Albanian Revolt of 1830-1831,5,Intra-State War ,,0.0
+513,First French Insurrection,First French Insurrection of 1830,4,Intra-State War ,,0.0
+515,Belgian Independence,Belgian Independence War of 1830,5,Intra-State War ,,0.0
+516,Egyptian Taka Expedition,Egyptian Taka Expedition of 1831-1832,6,Intra-State War ,,0.0
+517,First Polish,First Polish War of 1831,5,Intra-State War ,,0.0
+518,First Syrian,First Syrian War of 1831-1832,5,Intra-State War ,,0.0
+520,First Mexican,First Mexican War of 1832,4,Intra-State War ,,0.0
+521,Egypt- Palestinian Anti-Conscription Revolt,Egypt-Palestinian Anti-Conscription Revolt of 1834,6,Intra-State War ,,0.0
+522,First Carlist War,First Carlist War of 1834-1840,4,Intra-State War ,,1.0
+523,Second Murid,Second Murid War of 1834,5,Intra-State War ,,0.0
+525,Cabanos Revolt,Cabanos Revolt of 1835-1837,5,Intra-State War ,,0.0
+526,Farroupilha War,Farroupilha War of 1835-1845,5,Intra-State War ,,0.0
+527,Texan,Texan War of 1835-1836,5,Intra-State War ,,0.0
+528,First Bosnian,First Bosnian War of 1836-1837,5,Intra-State War ,,0.0
+530,Third Murid,Third Murid War of 1836-1852,5,Intra-State War ,,0.0
+531,Sabinada Rebellion,Sabinada Rebellion of 1837-1838,5,Intra-State War ,,0.0
+532,Druze Rebellion,Druze Rebellion of 1837-1838,6,Intra-State War ,,0.0
+533,"Second Syrian, Phase 1",Second Syrian War Phase 1 of 1839,5,Intra-State War ,,0.0
+535,Lebanon Insurgency,Lebanon Insurgency of 1840,6,Intra-State War ,,0.0
+536,First Colombian,First Colombian War of 1840-1842,4,Intra-State War ,,0.0
+537,"Second Syrian, Phase 2",Second Syrian War Phase 2 of 1840,5,Intra-State War ,,1.0
+538,"First Argentina War, Phase 2",First Argentina War Phase 2 of 1841-1842,4,Intra-State War ,,0.0
+540,Second Bosnian,Second Bosnian War of 1841,5,Intra-State War ,,0.0
+541,Triangular Revolt,Triangular Revolt of 1841,4,Intra-State War ,,0.0
+542,Karbala Revolt,Karbala Revolt of 1842-1843,5,Intra-State War ,,0.0
+543,First Maronite-Druze,First Maronite-Druze War of 1845,7,Intra-State War ,,0.0
+545,"Mayan Caste War, Phase 1",Mayan Caste War Phase 1 of 1847-1848,6,Intra-State War ,,0.0
+546,Second Carlist,Second Carlist War of 1847-1849,4,Intra-State War ,,0.0
+547,Second Two Sicilies,Second Two Sicilies War of 1848-1849,4,Intra-State War ,,0.0
+548,First Venezuelan,First Venezuelan War of 1848-1849,4,Intra-State War ,,0.0
+550,Viennese Revolt,Viennese Revolt of 1848,4,Intra-State War ,,0.0
+551,Milan Five Day Revolt,Milan Five Day Revolt of 1848,5,Intra-State War ,,0.0
+552,Second French Insurrection,Second French Insurrection of 1848,4,Intra-State War ,,0.0
+553,"Mayan Caste War, Phase 2",Mayan Caste War Phase 2 of 1848-1855,5,Intra-State War ,,0.0
+554,Hungarian,Hungarian War of 1848-1849,5,Intra-State War ,,1.0
+555,First Chilean,First Chilean War of 1851,4,Intra-State War ,,0.0
+556,First Turco-Montenegrin,First Turco-Montenegrin War of 1852-1853,5,Intra-State War ,,0.0
+557,First Peru,First Peru War of 1853-1855,4,Intra-State War ,,0.0
+558,Puebla War,Puebla War of 1855-1856,4,Intra-State War ,,0.0
+560,Second Peru,Second Peru War of 1856-1858,4,Intra-State War ,,0.0
+561,Mexican Reform,Mexican Reform War of 1858-1861,4,Intra-State War ,,0.0
+562,Second Turco-Montenegrin,Second Turco-Montenegrin War of 1858-1859,5,Intra-State War ,,0.0
+563,Second Venezuelan/Federalist,Second Venezuelan/Federalist War of 1859-1863,4,Intra-State War ,,0.0
+565,Second Colombian,Second Colombian War of 1860-1861,4,Intra-State War ,,0.0
+566,Second Maronite-Druze,Second Maronite-Druze War of 1860,7,Intra-State War ,,0.0
+567,"Taiping Rebellion, Phase 2",Taiping Rebellion Phase 2 of 1860-1866,4,Intra-State War ,,1.0
+568,Second Nien Revolt,Second Nien Revolt of 1860-1868,5,Intra-State War ,,0.0
+570,Miao Revolt Phase 2,Miao Revolt Phase 2 of 1860-1872,5,Intra-State War ,,0.0
+571,Panthay Rebellion Phase 2,Panthay Rebellion Phase 2 of 1860-1872,5,Intra-State War ,,0.0
+572,U.S. Civil War,U.S. Civil War of 1861-1865,5,Intra-State War ,,0.0
+573,Third Buenos Aires,Third Buenos Aires War of 1861,5,Intra-State War ,,0.0
+575,Third Turco-Montenegrin,Third Turco-Montenegrin War of 1861-1862,5,Intra-State War ,,0.0
+576,Tungan Rebellion,Tungan Rebellion of 1862-1873,5,Intra-State War ,,0.0
+577,Sioux-Minnesota,Sioux-Minnesota War of 1862,6,Intra-State War ,,0.0
+578,Bolivan Perez Rebellion,Bolivan Pérez Rebellion of 1862,4,Intra-State War ,,0.0
+580,Second Polish,Second Polish War of 1863-1864,5,Intra-State War ,,0.0
+581,Second Argentina,Second Argentina War of 1863,4,Intra-State War ,,0.0
+582,Xinjiang Muslim Revolt,Xinjiang Muslim Revolt of 1864-1871,5,Intra-State War ,,1.0
+583,First  Cretan,First Cretan War of 1866-1867,5,Intra-State War ,,0.0
+585,Yellow Cliff Revolt,Yellow Cliff Revolt of 1866,5,Intra-State War ,,0.0
+586,Third Argentina,Third Argentina War of 1866-1867,4,Intra-State War ,,0.0
+587,Queretaro,Queretaro War of 1867,4,Intra-State War ,,0.0
+588,Meiji Restoration,Meiji Restoration of 1868,4,Intra-State War ,,0.0
+590,Third Venezuelan,Third Venezuelan War of 1868-1871,4,Intra-State War ,,0.0
+591,Spanish Liberals,Spanish Liberals War of 1868,4,Intra-State War ,,0.0
+592,Guerre des Cacos,Guerre des Cacos of 1869,4,Intra-State War ,,0.0
+593,Fourth Argentina,Fourth Argentina War of 1870-1871,5,Intra-State War ,,0.0
+595,Bolivia-Criollos,Bolivia-Criollos War of 1870-1871,4,Intra-State War ,,0.0
+596,Paris Commune,Paris Commune War of 1871,4,Intra-State War ,,0.0
+597,Third Carlist,Third Carlist War of 1872-1876,4,Intra-State War ,,0.0
+598,Catonalist Uprising,Catonalist Uprising of 1874-1875,5,Intra-State War ,,0.0
+600,Fifth Argentina,Fifth Argentina War of 1874,4,Intra-State War ,,0.0
+601,Bosnia and Bulgaria Revolt,Bosnia and Bulgaria Revolt of 1875-1876,5,Intra-State War ,,0.0
+602,Diaz Revolt,Diaz Revolt of 1876,4,Intra-State War ,,0.0
+603,Defeat of Xinjiang Muslims,Defeat of Xinjiang Muslims of 1876-1877,5,Intra-State War ,,0.0
+605,Third Colombian,Third Colombian War of 1876-1877,4,Intra-State War ,,0.0
+607,Satsuma Rebellion,Satsuma Rebellion of 1877,5,Intra-State War ,,0.0
+608,Argentine Indians,Argentine Indians War of 1879-1880,5,Intra-State War ,,0.0
+610,Fourth Buenos Aires,Fourth Buenos Aires War of 1880,5,Intra-State War ,,0.0
+611,Haitian Civil War,Haitian Civil War of 1883-1884,4,Intra-State War ,,0.0
+612,Fourth Colombian,Fourth Colombian War of 1884-1885,4,Intra-State War ,,0.0
+613,Peru's National Problem,Peru's National Problem of 1885,5,Intra-State War ,,0.0
+616,First Yemen Rebellion,First Yemeni Rebellion of 1890-1892,5,Intra-State War ,,0.0
+617,Second Chilean,Second Chilean War of 1891,4,Intra-State War ,,0.0
+618,Zaili-Jinden Revolt,Zaili-Jinden Revolt of 1891,5,Intra-State War ,,0.0
+620,Brazil Federalists,Brazil Federalists War of 1893-1894,5,Intra-State War ,,0.0
+621,Brazil Naval,Brazil Naval War of 1893-1894,4,Intra-State War ,,0.0
+623,Tonghak Rebellion,Tonghak Rebellion of 1894,4,Intra-State War ,,1.0
+625,Third Peru,Third Peru War of 1894-1895,4,Intra-State War ,,0.0
+626,Fifth Colombian,Fifth Colombian War of 1895,4,Intra-State War ,,0.0
+627,Ecuador Liberals,Ecuador Liberals War of 1895,4,Intra-State War ,,0.0
+628,First Gansu Muslim,First Gansu Muslim War of 1895-1896,5,Intra-State War ,,0.0
+630,Druze-Turkish,Druze-Turkish War of 1895-1896,5,Intra-State War ,,0.0
+631,Second Cretan,Second Cretan War of 1896-1897,5,Intra-State War ,,0.0
+632,Third Brazil-Canudos,Third Brazil-Canudos War of 1896-1897,5,Intra-State War ,,0.0
+633,Fourth Venezuelan,Fourth Venezuelan War of 1899,4,Intra-State War ,,0.0
+635,Second Yaqui War,Second Yaqui War of 1899-1900,5,Intra-State War ,,0.0
+636,Sixth Colombian (War of the 1000 Days),"Sixth Colombian (War of the 1,000 Days) of 1899-1902",4,Intra-State War ,,0.0
+638,Fifth Venezuelan,Fifth Venezuelan War of 1901-1903,4,Intra-State War ,,0.0
+640,Ilinden,Ilinden War of 1903,5,Intra-State War ,,0.0
+641,First Uruguay,First Uruguay War of 1904,4,Intra-State War ,,0.0
+642,Second Yemen Rebellion,Second Yemeni Rebellion of 1904-1906,5,Intra-State War ,,0.0
+643,Bloody Sunday,Bloody Sunday War of 1905-1906,4,Intra-State War ,,0.0
+645,Romanian Peasant Revolt,Romanian Peasant Revolt of 1907,4,Intra-State War ,,0.0
+646,Overthrow of Abd el-Aziz,Overthrow of Abd el-Aziz of 1907-1908,4,Intra-State War ,,1.0
+647,Iranian Constitution War,Iranian Constitution War of 1908-1909,4,Intra-State War ,,1.0
+648,Young Turks Counter-coup,Young Turks Counter-coup of 1909,4,Intra-State War ,,0.0
+650,Second Albanian Revolt,Second Albanian Revolt of 1910-1912,5,Intra-State War ,,0.0
+651,Asir-Yemen Revolt,Asir-Yemen Revolt of 1910-1911,5,Intra-State War ,,0.0
+652,Third Mexican,Third Mexican War of 1910-1914,4,Intra-State War ,,0.0
+656,Paraguay,Paraguay War of 1911-1912,4,Intra-State War ,,0.0
+657,First Nationalist,First Nationalists War of 1911,4,Intra-State War ,,0.0
+658,Cuban Black Uprising,Cuban Black Uprising of 1912,5,Intra-State War ,,0.0
+670,Ecuadorian Civil War,Ecuadorian Civil War of 1912-1914,5,Intra-State War ,,0.0
+671,Second Nationalist,Second Nationalists War of 1913,4,Intra-State War ,,0.0
+672,China Pai Ling (White Wolf),China Pai Ling (White Wolf) War of 1914,5,Intra-State War ,,0.0
+673,Fourth Mexican,Fourth Mexican War of 1914-1920,4,Intra-State War ,,1.0
+675,Southern China Revolt,Southern China Revolt of 1916-1918,5,Intra-State War ,,0.0
+676,Russia-Turkestan,Russia-Turkestan War of 1916-1917,5,Intra-State War ,,0.0
+677,Russian Civil War,Russian Civil War of 1917-1921,4,Intra-State War ,,1.0
+680,Finnish Civil War,Finnish Civil War of 1918,4,Intra-State War ,,1.0
+681,Western Ukrainian,Western Ukrainian War of 1918-1919,6,Intra-State War ,,0.0
+682,Sparticist Rising,Sparticist Rising of 1919,7,Intra-State War ,,0.0
+683,Hungary's Red Terror,Hungary's Red Terror War of 1919-1920,4,Intra-State War ,,0.0
+685,First Chinese Warlord,First Chinese Warlord War of 1920,7,Intra-State War ,,0.0
+686,Green Rebellion,Green Rebellion of 1920-1921,5,Intra-State War ,,0.0
+687,Gilan Marxists,Gilan Marxists War of 1920-1921,4,Intra-State War ,,1.0
+688,Italian Fascist,Italian Fascist War of 1920-1922,7,Intra-State War ,,0.0
+690,Kronstadt Rebellion,Kronstadt Rebellion of 1921,5,Intra-State War ,,0.0
+691,Bashmachi in Turkestan,Bashmachi in Turkestan War of 1921-1923,5,Intra-State War ,,0.0
+692,Second Chinese Warlord,Second Chinese Warlord War of 1922,7,Intra-State War ,,0.0
+693,Agrarian Rising,Agrarian Rising of 1923,4,Intra-State War ,,0.0
+695,De La Huerta Rebellion,De La Huerta Rebellion of 1923-1924,4,Intra-State War ,,0.0
+696,Honduran Conservative,Honduran Conservative War of 1924,4,Intra-State War ,,0.0
+697,First Afghan Anti-Reform,First Afghan Anti-Reform War of 1924-1925,4,Intra-State War ,,0.0
+698,Third Chinese Warlord,Third Chinese Warlord War of 1925-1926,6,Intra-State War ,,0.0
+700,Chinese Northern Expedition,Chinese Northern Expedition War of 1926-1928,4,Intra-State War ,,1.0
+701,Cristeros Revolt,Cristeros Revolt of 1926-1929,4,Intra-State War ,,0.0
+702,Ethiopian Northern Resistance,Ethiopian Northern Resistance of 1928-1930,5,Intra-State War ,,0.0
+703,Second Gansu Muslim,Second Gansu Muslim War of 1928-1930,5,Intra-State War ,,0.0
+705,Second Afghan Anti-Reform,Second Afghan Anti-Reform War of 1928-1929,4,Intra-State War ,,0.0
+706,Intra-Guomindang,Intra-Guomindang War of 1929-1930,4,Intra-State War ,,0.0
+707,Escobar Rebellion,Escoban Rebellion of 1929,4,Intra-State War ,,0.0
+708,Ikhwan Revolt,Ikhwan Revolt of 1929-1930,4,Intra-State War ,,0.0
+710,"Chinese Civil War, Phase 1",Chinese Civil War Phase 1 of 1930-1936,4,Intra-State War ,,0.0
+711,Xinjiang Muslim Revolt,Xinjiang Muslim Revolt of 1931-1934,5,Intra-State War ,,1.0
+712,Matanza,Matanza War of 1932,4,Intra-State War ,,0.0
+713,Aprista Revolt,Aprista Revolt of 1932,4,Intra-State War ,,0.0
+715,Paulista Rebellion,Paulista Rebellion of 1932,4,Intra-State War ,,0.0
+716,Fukien Revolt,Fukien Revolt of 1934,4,Intra-State War ,,0.0
+717,Spanish Miners,Spanish Miners War of 1934,5,Intra-State War ,,0.0
+718,Spanish Civil War,Spanish Civil War of 1936-1939,4,Intra-State War ,,1.0
+720,Greek Civil War,Greek Civil War of 1944-1949,4,Intra-State War ,,1.0
+721,Polish Ukrainians,Polish Ukrainians War of 1945-1947,5,Intra-State War ,,1.0
+722,Ukrainian Partisans,Ukrainian Partisans War of 1945-1947,5,Intra-State War ,,0.0
+723,Forest Brethren,Forest Brethren War of 1945-1951,5,Intra-State War ,,0.0
+725,"Chinese Civil War, Phase 2",Chinese Civil War Phase 2 of 1946-1950,4,Intra-State War ,,0.0
+726,Taiwan Revolt,Taiwan Revolt of 1947,5,Intra-State War ,,0.0
+727,Paraguay,Paraguay War of 1947,4,Intra-State War ,,0.0
+728,Yemeni Imamate,Yemeni Imamate War of 1948,4,Intra-State War ,,0.0
+730,Costa Rica,Costa Rica War of 1948,4,Intra-State War ,,0.0
+731,"Seventh Colombian ""La Violencia""","Seventh Colombian (""La Violencia"") War of 1948-1958",4,Intra-State War ,,0.0
+732,First Burmese,First Burmese War of 1948-1951,5,Intra-State War ,,0.0
+733,South Moluccas,South Moluccas War of 1950,5,Intra-State War ,,0.0
+735,Hukbalahap Rebellion,Hukbalahap Rebellion of 1950-1954,4,Intra-State War ,,0.0
+737,Bolivia,Bolivia War of 1952,4,Intra-State War ,,0.0
+738,Indonesia Darul Islam,Indonesia-Darul Islam War of 1953,4,Intra-State War ,,0.0
+740,Argentine Military,Argentine Military War of 1955,4,Intra-State War ,,0.0
+741,Tibetan Khamba Rebellion,Tibetan Khamba Rebellion of 1956-1959,5,Intra-State War ,,0.0
+742,Indonesian Leftists,Indonesian Leftists War of 1956-1962,4,Intra-State War ,,0.0
+743,First Lebanese,First Lebanese War of 1958,4,Intra-State War ,,1.0
+745,Cuban Revolution,Cuban Revolution of 1958-1959,4,Intra-State War ,,0.0
+746,Second Burmese,Second Burmese War of 1958-1960,4,Intra-State War ,,0.0
+747,Iraq-Shammar,Iraq-Shammar War of 1959,4,Intra-State War ,,0.0
+748,Vietnam Phase 1,Vietnam War Phase 1 of 1960-1965,4,Intra-State War ,,1.0
+750,First DRC (Zaire),First DRC (Zaire) War of 1960-1963,5,Intra-State War ,,1.0
+751,First Laotian,First Laotian War of 1960-1962,4,Intra-State War ,,1.0
+752,First Iraqi Kurd,First Iraqi Kurds War of 1961-1963,5,Intra-State War ,,0.0
+753,Algerian Revolutionaries,Algerian Revolutionaries War of 1962-1963,4,Intra-State War ,,0.0
+755,North Yemen,North Yemen War of 1962-1969,4,Intra-State War ,,1.0
+756,Second Laotian Phase 1,Second Laotian War Phase 1 of 1963-1968,4,Intra-State War ,,1.0
+757,First Ogaden,First Ogaden War of 1963-1964,5,Intra-State War ,,1.0
+758,First South Sudan,First South Sudan War of 1963-1972,5,Intra-State War ,,0.0
+760,Second DRC (Jeunesse),Second DRC (Jeunesse) War of 1963-1965,5,Intra-State War ,,0.0
+761,First Rwanda,First Rwanda War of 1963-1964,4,Intra-State War ,,0.0
+762,Third DRC (Simba) Rebellion,Third DRC (Simba) Rebellion of 1964-1965,4,Intra-State War ,,1.0
+763,Zanzibar Arab-African,Zanzibar Arab-African War of 1964,4,Intra-State War ,,0.0
+765,Second Iraqi Kurds,Second Iraqi Kurds War of 1965-1966,5,Intra-State War ,,0.0
+766,Dominican Republic,Dominican Republic War of 1965,4,Intra-State War ,,1.0
+767,First West Papua,First West Papua War of 1965-1969,5,Intra-State War ,,0.0
+768,First Uganda,First Uganda War of 1966,5,Intra-State War ,,0.0
+770,First Guatemala,First Guatemala War of 1966-1968,4,Intra-State War ,,1.0
+771,First Chad (FROLINAT) Rebellion,First Chad (FROLINAT) Rebellion of 1966-1971,5,Intra-State War ,,1.0
+772,Cultural Revolution Phase 1,Cultural Revolution Phase 1 of 1967,6,Intra-State War ,,0.0
+773,Third Burmese,Third Burmese War of 1967-1980,5,Intra-State War ,,0.0
+775,Biafra,Biafra War of 1967-1970,5,Intra-State War ,,0.0
+776,Cultural Revolution Phase 2,Cultural Revolution Phase 2 of 1967-1968,4,Intra-State War ,,0.0
+777,Third Iraqi Kurds,Third Iraqi Kurds War of 1969-1970,5,Intra-State War ,,0.0
+778,Naxalite Rebellion,Naxalite Rebellion of 1970-1971,5,Intra-State War ,,0.0
+780,Black September,Black September War of 1970,4,Intra-State War ,,1.0
+781,Second Guatemala,Second Guatemala War of 1970-1971,4,Intra-State War ,,0.0
+782,Pakistan-Bengal,Pakistan-Bengal War of 1971,5,Intra-State War ,,0.0
+783,First Sri Lanka-JVP,First Sri Lanka-JVP War of 1971,4,Intra-State War ,,0.0
+785,Khmer Rouge,Khmer Rouge War of 1971-1975,4,Intra-State War ,,1.0
+786,First Philippine-Moro,First Philippine-Moro War of 1972-1981,5,Intra-State War ,,0.0
+787,Communist Insurgency,Communist Insurgency of 1972-1973,4,Intra-State War ,,0.0
+788,Eritrean Split,Eritrean Split of 1972-1974,7,Intra-State War ,,0.0
+789,First Burundi,First Burundi War of 1972,4,Intra-State War ,,0.0
+790,Philippines-NPA,Philippines-NPA War of 1972-1992,4,Intra-State War ,,0.0
+791,Rhodesia,Rhodesia War of 1972-1979,4,Intra-State War ,,0.0
+792,Baluchi Separatists,Baluchi Separatists War of 1973-1977,5,Intra-State War ,,0.0
+793,Chilean Coup of 1973,Chilean Coup of 1973,4,Intra-State War ,,0.0
+795,Dhofar Rebellion Phase 2,Dhofar Rebellion Phase 2 of 1973-1975,5,Intra-State War ,,1.0
+797,Fourth Iraqi Kurds,Fourth Iraqi Kurds War of 1974-1975,5,Intra-State War ,,1.0
+798,Eritrean War,Eritrean War of 1975-1978,5,Intra-State War ,,1.0
+800,Argentine Leftists,Argentine Leftists War of 1975-1977,4,Intra-State War ,,0.0
+801,Second Lebanese,Second Lebanese War of 1975-1976,7,Intra-State War ,,1.0
+802,Second West Papua,Second West Papua War of 1976-1978,5,Intra-State War ,,0.0
+803,Third Laotian,Third Laotian War of 1976-1979,5,Intra-State War ,,1.0
+804,Angolan Control,Angolan Control War of 1976-1991,4,Intra-State War ,,1.0
+805,Second Ogaden Phase 1,Second Ogaden War Phase 1 of 1976-1977,5,Intra-State War ,,1.0
+806,East Timorese War Phase 3,East Timorese War Phase 3 of 1976-1979,5,Intra-State War ,,0.0
+807,Third Lebanese,Third Lebanese War of 1978,7,Intra-State War ,,1.0
+808,Second Ogaden Phase 3,Second Ogaden War Phase 3 of 1978-1980,5,Intra-State War ,,1.0
+809,Third Guatemala,Third Guatemala War of 1978-1984,4,Intra-State War ,,0.0
+810,Saur Revolution,Saur Revolution of 1978,4,Intra-State War ,,0.0
+811,Fourth DRC (Shaba),Fourth DRC (Shaba) War of 1978,4,Intra-State War ,,1.0
+812,First Afghan Mujahideen Uprising,First Afghan Mujahideen Uprising of 1978-1980,4,Intra-State War ,,1.0
+813,Overthrow of the Shah,Overthrow of the Shah of 1978-1979,4,Intra-State War ,,0.0
+815,Sandinista Rebellion,Sandinista Rebellion of 1978-1979,4,Intra-State War ,,0.0
+816,Anti-Khomeini Coalition,Anti-Khomeini Coalition War of 1979-1984,4,Intra-State War ,,0.0
+817,El Salvador,El Salvador War of 1979-1992,4,Intra-State War ,,0.0
+818,Mozambique,Mozambique War of 1979-1992,4,Intra-State War ,,1.0
+820,Second Chad (Habre Revolt),Second Chad (Habre Revolt) War of 1980-1984,5,Intra-State War ,,1.0
+822,Second Uganda,Second Uganda War of 1980-1986,5,Intra-State War ,,0.0
+823,Nigeria-Muslim,Nigeria-Muslim War of 1980-1981,5,Intra-State War ,,0.0
+825,Hama,Hama War of 1981-1982,4,Intra-State War ,,0.0
+826,Tigrean and Eritrean,Tigrean and Eritrean War of 1982-1991,5,Intra-State War ,,0.0
+827,Shining Path,Shining Path War of 1982-1992,4,Intra-State War ,,0.0
+828,Contra War,Contra War of 1982-1990,4,Intra-State War ,,0.0
+831,Matabeleland,Matabeleland War of 1983-1987,4,Intra-State War ,,0.0
+832,Fourth Burmese,Fourth Burmese War of 1983-1988,5,Intra-State War ,,0.0
+833,Fourth Lebanese Civil,Fourth Lebanese Civil War of 1983-1984,4,Intra-State War ,,1.0
+835,First Sri Lanka Tamil,First Sri Lanka Tamil War of 1983-2002,5,Intra-State War ,,1.0
+836,Second South Sudan,Second South Sudan War of 1983-2005,4,Intra-State War ,,0.0
+837,Indian Golden Temple,Indian Golden Temple War of 1984,5,Intra-State War ,,0.0
+838,First Turkish Kurds,First Turkish Kurds War of 1984-1986,5,Intra-State War ,,0.0
+840,Fifth Iraqi  Kurds,Fifth Iraqi Kurds War of 1985-1988,5,Intra-State War ,,1.0
+842,South Yemen,South Yemen War of 1986,4,Intra-State War ,,0.0
+843,Holy Spirit Movement,Holy Spirit Movement War of 1986-1987,4,Intra-State War ,,0.0
+845,Second Sri Lanka-JVP,Second Sri Lanka-JVP War of 1987-1989,4,Intra-State War ,,0.0
+846,Inkatha-ANC,Inkatha-ANC War of 1987-1994,7,Intra-State War ,,0.0
+847,Fifth Burmese,Fifth Burmese War of 1988,4,Intra-State War ,,0.0
+848,First Somalia,First Somalia War of 1988-1991,4,Intra-State War ,,0.0
+850,Fifth Lebanese,Fifth Lebanese War of 1989-1990,4,Intra-State War ,,1.0
+851,Second Afghan Mujahideen Uprising,Second Afghan Mujahideen Uprising of 1989-2001,4,Intra-State War ,,0.0
+852,Third Chad (Deby Coup),Third Chad (Deby Coup) War of 1989-1990,4,Intra-State War ,,0.0
+853,First Aceh,First Aceh War of 1989-1991,5,Intra-State War ,,0.0
+854,Bougainville Secession,Bougainville Secession War of 1989-1992,5,Intra-State War ,,0.0
+856,Eighth Colombia,Eighth Colombian War of 1989-present,5,Intra-State War ,,0.0
+857,First Cambodian Civil War,First Cambodian Civil War of 1989-1991,4,Intra-State War ,,0.0
+858,Romania,Romania War of 1989,4,Intra-State War ,,0.0
+860,First Liberia,The First Liberia War of 1989-1990,4,Intra-State War ,,1.0
+861,Kashmir Insurgents,Kashmir Insurgents War of 1990-2005,5,Intra-State War ,,0.0
+862,Shiite and Kurdish,Shiite and Kurdish War of 1991,5,Intra-State War ,,0.0
+863,First Sierra Leone,First Sierra Leone War of 1991-1996,4,Intra-State War ,,0.0
+864,Croatian Independence,Croatian Independence War of 1991-1992,5,Intra-State War ,,0.0
+865,Second Turkish Kurds,Second Turkish Kurds War of 1991-1999,5,Intra-State War ,,0.0
+866,The SPLA Division (Dinka-Nuer) War,SPLA Division (Dinka-Nuer) War of 1991-1992,7,Intra-State War ,,0.0
+868,Jukun-Tiv War,Jukun-Tiv War of 1991-1992,7,Intra-State War ,,0.0
+870,Second Somalia,Second Somalia War of 1991-1997,4,Intra-State War ,,1.0
+871,Georgia,Georgia War of 1991-1992,4,Intra-State War ,,0.0
+872,Nagorno-Karabakh,Nagorno-Karabakh War of 1991-1993,5,Intra-State War ,,1.0
+873,Dniestrian Independence,Dniestrian Independence War of 1991-1992,5,Intra-State War ,,0.0
+875,Algerian Islamic Front,Algerian Islamic Front War of 1992-1999,4,Intra-State War ,,0.0
+876,Tajikistan,Tajikistan War of 1992-1997,4,Intra-State War ,,1.0
+877,Bosnian-Serb Rebellion,Bosnian-Serb Rebellion of 1992-1995,5,Intra-State War ,,1.0
+878,Second Liberia,Second Liberia War of 1992-1995,4,Intra-State War ,,1.0
+880,Angolan War of the Cities,Angolan War of Cities of 1992-1994,4,Intra-State War ,,0.0
+881,Second Cambodia Civil,Second Cambodia Civil War of 1993-1997,4,Intra-State War ,,0.0
+882,Abkhazia Revolt,Abkhazia Revolt of 1993-1994,5,Intra-State War ,,0.0
+883,Second Burundi,Second Burundi War of 1993-1998,4,Intra-State War ,,0.0
+885,South Yemeni Secessionist,South Yemeni Secessionist War of 1994,5,Intra-State War ,,0.0
+886,Second Rwanda,Second Rwanda War of 1994,4,Intra-State War ,,0.0
+888,First Chechnya,First Chechnya War of 1994-1996,5,Intra-State War ,,0.0
+890,Iraqi Kurd Internecine,Iraqi Kurd Internecine War of 1994-1995,7,Intra-State War ,,0.0
+891,Croatia-Krajina War,Croatia-Krajina War of 1995,5,Intra-State War ,,0.0
+892,Third Liberia,Third Liberia War of 1996,4,Intra-State War ,,0.0
+893,Sixth Iraqi Kurds,Sixth Iraqi Kurds War of 1996,5,Intra-State War ,,0.0
+895,Fifth DRC,Fifth DRC War of 1996-1997,4,Intra-State War ,,1.0
+896,Third Rwanda,Third Rwanda War of 1997-1998,4,Intra-State War ,,0.0
+897,First Congo (Brazzaville),First Congo Brazzaville War of 1997,4,Intra-State War ,,1.0
+898,Second Sierra Leone,Second Sierra Leone War of 1998-2000,4,Intra-State War ,,1.0
+900,Kosovo Independence,Kosovo Independence War of 1998-1999,5,Intra-State War ,,0.0
+902,Guinea-Bissau Military,Guinea-Bissau Military War of 1998-1999,4,Intra-State War ,,1.0
+905,Africa's World War,Africa's World War of 1998-2002,4,Intra-State War ,,1.0
+906,Fourth Chad (Togoimi Revolt),Fourth Chad (Togoimi Revolt) War of 1998-2000,4,Intra-State War ,,0.0
+907,Third Angolan,Third Angolan War of 1998-2002,4,Intra-State War ,,0.0
+908,Second Congo (Brazzaville),Second Congo (Brazzaville) War of 1998-1999,4,Intra-State War ,,0.0
+910,Moluccas Sectarian,Moluccas Sectarian War of 1999-2000,7,Intra-State War ,,0.0
+911,First Nigeria Christian-Muslim,First Nigeria Christian-Muslim War of 1999-2000,7,Intra-State War ,,0.0
+912,Second Aceh,Second Aceh War of 1999-2002,5,Intra-State War ,,0.0
+913,Oromo Liberation,Oromo Liberation War of 1999,5,Intra-State War ,,0.0
+915,Second Chechen,Second Chechnya War of 1999-2003,5,Intra-State War ,,0.0
+916,Second Philippine-Moro,Second Philippine-Moro War of 2000-2001,5,Intra-State War ,,0.0
+917,Guinean,Guinean War of 2000-2001,4,Intra-State War ,,0.0
+918,Third Burundi,Third Burundi War of 2001-2003,4,Intra-State War ,,0.0
+920,Fourth Rwanda,Fourth Rwanda War of 2001,4,Intra-State War ,,0.0
+921,First Nepal Maoist Insurgency,First Nepal Maoist Insurgency of 2001-2003,4,Intra-State War ,,0.0
+922,Fourth Liberian,Fourth Liberia War of 2002-2003,4,Intra-State War ,,0.0
+923,Ethiopian Anyuaa-Nuer,Ethiopian Anyuaa-Nuer War of 2002-2003,7,Intra-State War ,,0.0
+925,Cote d'Ivoire Military,Cote d'Ivoire Military War of 2002-2004,4,Intra-State War ,,1.0
+926,Third Philippine-Moro,Third Philippine-Moro War of 2003,5,Intra-State War ,,0.0
+927,Darfur,Darfur War of 2003-2006,5,Intra-State War ,,0.0
+930,Third Aceh,Third Aceh War of 2003-2004,5,Intra-State War ,,0.0
+931,Second Nepal Maoists,Second Nepal Maoists War of 2003-2006,4,Intra-State War ,,0.0
+932,Waziristan,Waziristan War of 2004-2006,5,Intra-State War ,,1.0
+933,Second Nigeria Christian-Muslim,Second Nigeria Christian-Muslim War of 2004,7,Intra-State War ,,0.0
+935,First Yemeni Cleric,First Yemeni Cleric War of 2004-2005,4,Intra-State War ,,0.0
+936,Philippine Joint Offensive,Philippine Joint Offensive of 2005-2006,5,Intra-State War ,,0.0
+937,Fifth Chad,Fifth Chad War of 2005-2006,4,Intra-State War ,,0.0
+938,Third Somalia,Third Somalia War of 2006-2008,4,Intra-State War ,,1.0
+940,Second Sri Lanka Tamil,Second Sri Lanka Tamil War of 2006-present,5,Intra-State War ,,0.0
+941,Second Yemeni Cleric,Second Yemeni Cleric War of 2007,4,Intra-State War ,,0.0
+1500,First Maori Tribal War,First Maori Tribal War of 1818-1824,8,Non-State War ,,
+1501,Shaka Zulu-Bantu War,Shaka Zulu-Bantu War of 1819-1828,8,Non-State War ,,
+1502,Burma-Assam War,Burma-Assam War of 1819-1822,8,Non-State War ,,
+1503,Buenos Aires War,Buenos Aires War of 1820,8,Non-State War ,,
+1505,Second Maori Tribal War,Second Maori Tribal War of 1821-1823,8,Non-State War ,,
+1506,Siam-Kedah War,Siam-Kedah War of 1821,8,Non-State War ,,
+1508,China-Kashgaria War,China-Kashgaria War of 1825-1828,8,Non-State War ,,
+1509,Mexico-Yaqui Indian War,Mexico-Yaqui Indian War of 1825-1827,8,Non-State War ,,
+1510,Central American Confederation War,Central American Confederation War of 1826-1829,8,Non-State War ,,
+1511,Viang Chan- Siamese War,Viang Chan-Siamese War of 1826-1827,8,Non-State War ,,
+1512,Peru-Gran Colombia War,Peru-Gran Colombia War of 1828-1829,8,Non-State War ,,
+1513,Argentine War for Unity,Argentine War for Unity of 1829-1831,8,Non-State War ,,
+1514,Sayyid Said War,Sayyid Said War of 1829-1830,8,Non-State War ,,
+1515,China-Kokand War,China-Kokand War of 1830-1831,8,Non-State War ,,
+1516,Siam-Cambodia-Vietnam War,Siam-Cambodia-Vietnam War of 1831-1834,8,Non-State War ,,
+1518,Argentina-Ranqueles Indian War,Argentine-Ranqueles Indian War of 1833-1834,8,Non-State War ,,
+1520,Bolivia Conquest of Peru,Bolivia Conquest of Peru in 1835-1836,8,Non-State War ,,
+1521,Boer-Matabele War,Boer-Matabele War of 1836-1837,8,Non-State War ,,
+1523,Dissolution of the Bolivia-Peru Confederation,Dissolution of the Bolivia-Peru Confederation of 1837-1839,8,Non-State War ,,
+1524,Persian Siege of Heart,Persian Siege of Herat of 1837-1838,8,Non-State War ,,
+1525,Boer-Zulu War,Boer-Zulu War of 1838,8,Non-State War ,,
+1527,Anti-Rosas War,Anti-Rosas War of 1839-1840,8,Non-State War ,,
+1528,Dissolution of  the Central American Confederation,Dissolution of the Central American Confederation of 1839-1840,8,Non-State War ,,
+1530,Dogra-Tibet War,Dogra-Tibet War of 1841-1842,8,Non-State War ,,
+1531,First Haiti-Santo Domingo War,First Haiti-Santo Domingo War of 1844-1845,8,Non-State War ,,
+1533,War of  Seven Khojas,War of Seven Khojas 1847,8,Non-State War ,,
+1534,Taiping Rebellion Phase 1,Taiping Rebellion Phase 1 of 1850-1860,8,Non-State War ,,
+1535,First Tukulor War,First Tukulor War of 1852-1854,8,Non-State War ,,
+1536,Kashmir-Dards of Chilas War,Kashmir-Dards of Chilas War of 1852,8,Non-State War ,,
+1537,Han-Miao War Phase 1,Han-Miao War of 1854-1860,8,Non-State War ,,
+1538,Second Haiti-Santo Domingo War,Second Haiti-Santo Domingo War of 1855-1856,8,Non-State War ,,
+1539,Han-Nien War,Han-Nien War of 1855-1858,8,Non-State War ,,
+1540,Filibuster War,Filibuster War of 1856-1857,8,Non-State War ,,
+1541,Han-Panthay War Phase 1,Han-Panthay War Phase 1 of 1856-1860,8,Non-State War ,,
+1542,First Zulu Internecine War,First Zulu Internecine War of 1856,8,Non-State War ,,
+1543,Kucha and Khoja Uprising,Kucha and Khoja Uprising of 1857,8,Non-State War ,,
+1544,First Boer-Basuto War,First Boer-Basuto War of 1858,8,Non-State War ,,
+1545,First Ethiopian War,First Ethiopian War of 1858-1861,8,Non-State War ,,
+1546,Second Tukulor War,Second Tukulor War of 1860-1862,8,Non-State War ,,
+1548,Transvaal War,Transvaal War of 1862-1864,8,Non-State War ,,
+1550,Central American War,Central American War of 1863,8,Non-State War ,,
+1551,First Australian Aboriginal War,First Australian Aboriginal War of 1864-1865,8,Non-State War ,,
+1552,Second Boer-Basuto War,Second Boer-Basuto War of 1865-1866,8,Non-State War ,,
+1553,Second Ethiopian War,Second Ethiopian War of 1868-1872,8,Non-State War ,,
+1554,Uruguay Colorados-Blancos War,Uruguay Colorados-Blancos War of 1870-1872,8,Non-State War ,,
+1556,Second Zulu Internecine War,Second Zulu Internecine War of 1883-1884,8,Non-State War ,,
+1557,Oman-Ibadi War,Oman-Ibadi War of 1883-1884,8,Non-State War ,,
+1558,Second Australian Aboriginal War,Second Australian Aboriginal War of 1884-1894,8,Non-State War ,,
+1559,Ethiopia-Mahdi War,Ethiopia-Mahdi War of 1885-1889,8,Non-State War ,,
+1560,German East Africa Company War,German East Africa Company War of 1888-1889,8,Non-State War ,,
+1561,Rabih Zubayr-Bornu War,Rabih Zubayr-Bornu War of 1893,8,Non-State War ,,
+1567,First Nejd-Hejaz War,First Nejd-Hejaz War of 1919,8,Non-State War ,,
+1568,Second Nejd-Hejaz War,Second Nejd-Hejaz War of 1924-1925,8,Non-State War ,,
+1570,Partition Communal War,Partition Communal War of 1946-1947,8,Non-State War ,,
+1571,Hyderabad War,Hyderabad War of 1947-1948,8,Non-State War ,,
+1572,Palestine War,Palestine War of 1947-1948,8,Non-State War ,,
+1573,Cheju Rebellion,Cheju Rebellion of 1948-1949,8,Non-State War ,,
+1574,Rwandan Social Revolution,Rwandan Social Revolution of 1959-1962,8,Non-State War ,,
+1577,Dhofar Rebellion Phase 1,Dhofar Rebellion Phase 1 of 1968-1971,8,Non-State War ,,
+1581,Angola Guerilla War,Angola Guerilla War of 1974-1975,8,Non-State War ,,
+1582,East Timorese War Phase 1,East Timorese War Phase 1 of 1975,8,Non-State War ,,
+1594,Hemda-Lendu War,Hema-Lendu War of 1999-2005,9,Non-State War ,,
+300,Allied Bombardment of Algiers,Allied Bombardment of Algiers of 1816,3,Extra-State War ,1.0,
+301,Ottoman-Wahhabi,Ottoman-Wahhabi Revolt of 1816-1818,3,Extra-State War ,0.0,
+302,Liberation of Chile,Liberation of Chile of 1817-1818,2,Extra-State War ,0.0,
+303,First Bolivar Expedition,First Bolivar Expedition of 1817-1819,2,Extra-State War ,0.0,
+304,Mexican Independence,War of Mexican Independence of 1817-1818,2,Extra-State War ,0.0,
+305,British-Kandyan,British-Kandyan War of 1817-1818,2,Extra-State War ,0.0,
+306,British-Maratha,British-Maratha of 1817-1818,2,Extra-State War ,0.0,
+307,Ottoman Conquest of Sudan,Ottoman Conquest of Sudan of 1820-1821,3,Extra-State War ,0.0,
+308,Second Bolivar Expedition,Second Bolívar Expedition of 1821-1822,2,Extra-State War ,0.0,
+309,Turco-Persian,Turco-Persian War of 1821-1823,3,Extra-State War ,0.0,
+310,First British-Burmese,First British-Burmese War of 1823-1826,3,Extra-State War ,0.0,
+311,First British-Ashanti,First British-Ashanti War of 1824-1826,3,Extra-State War ,0.0,
+312,Liberation of Peru,Liberation of Peru of 1824-1825,2,Extra-State War ,0.0,
+313,Dutch - Javanese,Dutch-Javanese War of 1825-1830,2,Extra-State War ,0.0,
+314,British-Bharatpuran,British-Bharatpuran War of 1825-1826,2,Extra-State War ,0.0,
+315,Brazil-Argentine,Brazil-Argentine War of 1826-1828,3,Extra-State War ,0.0,
+316,Russo-Persian,Russo-Persian War of 1826-1828,3,Extra-State War ,0.0,
+317,Spanish Reconquest of Mexico,Spanish Reconquest of Mexico of 1829,3,Extra-State War ,0.0,
+319,French Occupation of Algiers,French Occupation of Algiers of 1830,3,Extra-State War ,0.0,
+320,Ottoman-Bilmez-Asiri War,Ottoman-Bilmez-Asiri War of 1832-1837,3,Extra-State War ,0.0,
+321,First British-Zulu,First British-Zulu War of 1838,3,Extra-State War ,0.0,
+322,First British-Afghan,First British-Afghan War of 1839-1842,3,Extra-State War ,0.0,
+323,First Opium,First Opium War of 1839-1842,3,Extra-State War ,0.0,
+324,First Franco-Algerian,First Franco-Algerian War 1839-1847,3,Extra-State War ,0.0,
+325,Peru-Bolivian,Peru-Bolivian War of 1841,3,Extra-State War ,0.0,
+326,British-Sind,British-Sind War of 1843,3,Extra-State War ,0.0,
+327,Uruguay War,Uruguay War of 1843-1851,3,Extra-State War ,1.0,
+329,Gwalior,Gwalior War of 1843,3,Extra-State War ,0.0,
+330,Franco-Moroccan,Franco-Moroccan War of 1844,3,Extra-State War ,0.0,
+331,First British-Sikh,First British-Sikh War of 1845-1846,3,Extra-State War ,0.0,
+332,Cracow Revolt,Cracow Revolt of 1846,3,Extra-State War ,1.0,
+333,First British-Xhosa,First British-Xhosa War of 1846-1847,3,Extra-State War ,0.0,
+334,First Dutch-Bali,First Dutch-Bali War of 1848-1849,3,Extra-State War ,0.0,
+335,Second British-Sikh,Second British-Sikh War of 1848-1849,3,Extra-State War ,0.0,
+336,Chinese Pirates,Chinese Pirates War of 1849,3,Extra-State War ,0.0,
+337,Second British-Xhosa,Second British-Xhosa War of 1850-1852,2,Extra-State War ,0.0,
+338,Ottoman-Yam,Ottoman-Yam Rebellion of 1851,3,Extra-State War ,0.0,
+339,Second British-Burmese,Second British-Burmese War of 1852,3,Extra-State War ,0.0,
+340,French-Tukulor War,French-Tukulor War of 1854-1857,3,Extra-State War ,0.0,
+341,British-Santal,British-Santal War of 1855-1856,2,Extra-State War ,0.0,
+342,Hodeida Seige,Hodeida Seige of 1856,2,Extra-State War ,0.0,
+343,Second Opium,Second Opium War of 1856-1860,3,Extra-State War ,1.0,
+345,French Conquest of Kabylia,French Conquest of Kabylia of 1856-1857,2,Extra-State War ,0.0,
+347,Indian Mutiny,Indian Mutiny of 1857-1859,2,Extra-State War ,0.0,
+349,First Franco-Vietnamese,First Franco-Vietnamese War of 1858-1862,3,Extra-State War ,0.0,
+350,Netherlands-Bone,Netherlands-Bone War of 1859-1860,3,Extra-State War ,0.0,
+351,Argentine-Buenos Aires,Argentine-Buenos Aires War of 1859,3,Extra-State War ,0.0,
+352,Garibaldi Expedition,Garibaldi Expedition of 1860,3,Extra-State War ,0.0,
+353,Spanish-Santo Dominican,Spanish-Santo Dominican War of 1863-1865,2,Extra-State War ,0.0,
+355,British-Maori,British-Maori War of 1863-1866,2,Extra-State War ,0.0,
+356,Shimonoseki War,Shimonoseki War of 1863-1864,3,Extra-State War ,1.0,
+357,British Umbeyla Campaign,British Umbeyla Campaign of 1863,3,Extra-State War ,0.0,
+359,Russian-Kokand,Russian-Kokand War of 1864-1865,3,Extra-State War ,0.0,
+360,British-Bhutanese,British-Bhutanese War of 1865,3,Extra-State War ,0.0,
+361,Russian-Bukharan,Russian-Bukharan War of 1866,3,Extra-State War ,0.0,
+362,British-Ethiopian,British-Ethiopian War of 1867-1868,3,Extra-State War ,0.0,
+363,First Spanish-Cuban,First Spanish-Cuban War of 1868-1878,2,Extra-State War ,0.0,
+364,Attack on Bahr el-Ghazal,Attack on Bahr el-Ghazal of 1869-1870,3,Extra-State War ,0.0,
+365,Ottoman Conquest of Arabia,Ottoman Conquest of Arabia of 1870-1872,3,Extra-State War ,0.0,
+366,Second Franco-Algerian,Second Franco-Algerian War of 1871-1872,2,Extra-State War ,0.0,
+367,Second British-Ashanti,Second British-Ashanti War of 1873-1874,3,Extra-State War ,0.0,
+369,Second Franco-Vietnamese,Second Franco-Vietnamese War of 1873-1874,3,Extra-State War ,0.0,
+370,First Dutch-Achinese,First Dutch-Achinese War of 1873-1878,3,Extra-State War ,0.0,
+371,Kokand Rebellion,Kokand Rebellion of 1875-1876,3,Extra-State War ,0.0,
+372,Egyptian-Ethiopian,Egypt-Ethiopian War of 1875-1876,3,Extra-State War ,0.0,
+373,Serbian-Turkish,Serbian-Turkish War of 1876-1877,3,Extra-State War ,0.0,
+374,Third British-Xhosa,Third British-Xhosa War of 1877-1878,2,Extra-State War ,0.0,
+375,Egypt-Sudanese Slavers,Egypt-Sudanese Slavers War of 1878-1879,3,Extra-State War ,0.0,
+376,Russo-Turkoman,Russo-Turkoman War of 1878-1881,3,Extra-State War ,0.0,
+377,Austrian-Bosnian,Austrian-Bosnian War of 1878,3,Extra-State War ,0.0,
+379,Second British-Afghan,Second British-Afghan War of 1878-1880,3,Extra-State War ,0.0,
+380,Second British-Zulu,Second British-Zulu War of 1879,3,Extra-State War ,0.0,
+381,Gun War,Gun War of 1880-1881,2,Extra-State War ,0.0,
+382,First Boer War,First Boer War of 1880-1881,2,Extra-State War ,0.0,
+383,Franco-Tunisian,Franco-Tunisian War of 1881-1882,3,Extra-State War ,0.0,
+384,First British-Mahdi,First British-Mahdi War of 1881-1885,2,Extra-State War ,1.0,
+385,Third Franco-Vietnamese,Third Franco-Vietnamese War of 1882-1884,3,Extra-State War ,1.0,
+386,First Franco-Madagascan,First Franco-Madagascan War of 1883-1885,3,Extra-State War ,0.0,
+387,Third British-Burmese,Third British-Burmese War of 1885-1889,3,Extra-State War ,0.0,
+389,French-Mandinka,French Mandinka War of 1885-1886,3,Extra-State War ,0.0,
+390,Russo-Afghan,Russo-Afgan War of 1885,3,Extra-State War ,0.0,
+391,Serbian-Bulgarian,Serbian-Bulgarian War of 1885,3,Extra-State War ,0.0,
+392,First Italian-Ethiopian,First Italian-Ethiopian War of 1887,3,Extra-State War ,0.0,
+393,Zambezi Conquest,Zambezi Conquest of 1888,3,Extra-State War ,0.0,
+394,First Franco-Dahomeyan,First Franco-Dahomeyan War of 1890,3,Extra-State War ,0.0,
+395,Franco-Jolof,Franco-Jolof War of 1890-1891,3,Extra-State War ,0.0,
+396,Second Franco-Dahomeyan,Second Franco-Dahomeyan War of 1892-1893,3,Extra-State War ,0.0,
+397,Belgian-Tib,Belgian-TibWar of 1892-1894,3,Extra-State War ,0.0,
+398,Third British-Ashanti,Third British-Ashanti War of 1893-1894,3,Extra-State War ,0.0,
+399,Melilla War,Melilla War of 1893-1894,3,Extra-State War ,0.0,
+400,Mahdist-Italian,Mahdist-Italian War of 1893-1894,3,Extra-State War ,0.0,
+401,Second Franco-Madagascan,Second Franco-Madagascan War of 1894-1895,3,Extra-State War ,0.0,
+402,Second Dutch-Bali,Second Dutch-Bali War of 1894,3,Extra-State War ,0.0,
+403,Portuguese-Gaza Empire,Portuguese-Gaza Empire War of 1895,3,Extra-State War ,0.0,
+404,Second Spanish-Cuban,Second Spanish-Cuban War of 1895-1898,2,Extra-State War ,0.0,
+405,Japan-Taiwanese,Japan-Taiwanese War of 1895,2,Extra-State War ,0.0,
+406,Mazrui Rebellion,Mazrui Rebellion of 1895-1896,3,Extra-State War ,0.0,
+407,Second Italian-Ethiopian,Second Italian-Ethiopian War of 1895-1896,3,Extra-State War ,0.0,
+409,Second British-Mahdi,Second Second British-Mahdi War of 1896-1899,3,Extra-State War ,0.0,
+410,Spanish-Philippine,Spanish-Philippine War of 1896-1898,2,Extra-State War ,0.0,
+411,British-South Nigerian,British-South Nigerian War of 1897,3,Extra-State War ,0.0,
+412,British-Pathan,British-Pathan War of 1897-1898,2,Extra-State War ,0.0,
+413,Hut Tax,Hut Tax War of 1898,2,Extra-State War ,0.0,
+414,American-Philippine,American-Philippine War of 1899-1902,2,Extra-State War ,0.0,
+415,French Conquest of Chad,French Conquest of Chad of 1899-1900,3,Extra-State War ,0.0,
+416,Second Boer War,Second Boer War of 1899-1902,3,Extra-State War ,0.0,
+417,Last Ashanti War,Last Ashanti War of 1900,3,Extra-State War ,0.0,
+419,Somali Rebellion,Somali Rebellion of 1901-1904,2,Extra-State War ,1.0,
+420,Bailundu Revolt,Bailundu Revolt of 1902-1903,3,Extra-State War ,0.0,
+421,Kuanhama Rebellion,Kuanhama Rebellion of 1902-1904,3,Extra-State War ,0.0,
+422,British Conquest of Kano and Sokoto,British Conquest of Kano and Sokoto of 1903,3,Extra-State War ,0.0,
+423,South West African Revolt,South West African Revolt of 1904-1906,2,Extra-State War ,0.0,
+424,Second Dutch-Achinese,Second Dutch-Achinese War of 1904-1907,2,Extra-State War ,0.0,
+425,Younghusband Expedition,Younghusband Expedition of 1904,3,Extra-State War ,0.0,
+426,Maji-Maji Revolt,Maji-Maji Revolt of 1905-1906,2,Extra-State War ,0.0,
+427,Sokoto Uprising,Sokoto Uprising of 1906,2,Extra-State War ,0.0,
+429,Third British-Zulu,Third British-Zulu War of 1906,2,Extra-State War ,0.0,
+430,Dembos War,Dembos War of 1907-1910,3,Extra-State War ,0.0,
+431,Anti-Foreign Revolt,Anti-Foreign Revolt of 1907-1910,3,Extra-State War ,0.0,
+432,Japan-Korean Guerrillas,Japan-Korean Guerrillas War of 1907-1910,2,Extra-State War ,0.0,
+433,French Conquest of Wadai,French Conquest of Wadai of 1909-1911,3,Extra-State War ,0.0,
+434,French-Berber,French-Berber War of 1912,2,Extra-State War ,0.0,
+435,First Sino-Tibetan,First Sino-Tibetan War of 1912-1913,2,Extra-State War ,0.0,
+436,Moroccan Berber,Moroccan-Berber War of 1913-1915,2,Extra-State War ,1.0,
+437,Moro Rebellion,Moro Rebellion of 1913,2,Extra-State War ,0.0,
+440,Second Sino-Tibetan,Second Sino-Tibetan War of 1918,3,Extra-State War ,0.0,
+441,Caco Revolt,Caco Revolt of 1918-1920,2,Extra-State War ,0.0,
+442,Third British-Afghan,Third British-Afghan War of 1919,3,Extra-State War ,0.0,
+443,First British-Waziristan,First British-Waziristan War of 1919-1920,3,Extra-State War ,0.0,
+444,Franco-Syrian,Franco-Syrian War of 1920,3,Extra-State War ,0.0,
+445,Iraqi-British,Iraqi-British War of 1920,2,Extra-State War ,0.0,
+446,Conquest of Mongolia,Conquest of Mongolia of 1920-1921,3,Extra-State War ,1.0,
+447,Italian-Sanusi,Italian-Sanusi War of 1923-1931,2,Extra-State War ,0.0,
+449,Rif Rebellion,Rif Rebellion of 1921-1926,2,Extra-State War ,1.0,
+450,Moplah Rebellion,Moplah Rebellion of 1921-1922,2,Extra-State War ,0.0,
+451,Franco-Druze,Franco-Druze War of 1925-1927,2,Extra-State War ,0.0,
+452,Yen Bai Uprising,Yen Bai Uprising of 1930-1931,2,Extra-State War ,0.0,
+453,Saya San's Rebellion,Saya San's Rebellion of 1930-1932,2,Extra-State War ,0.0,
+454,British-Palestinian,British-Palestinian War of 1936-1939,2,Extra-State War ,0.0,
+455,Second British-Waziristan,Second Britain-Waziristan War of 1936-1938,3,Extra-State War ,0.0,
+456,Indonesian,Indonesian War of 1945-1946,2,Extra-State War ,1.0,
+457,French-Indochina,French-Indochina War of 1946-1954,2,Extra-State War ,0.0,
+459,Third Franco-Madagascan,Third Franco-Madagascan War of 1947-1948,2,Extra-State War ,0.0,
+460,Malayan Rebellion,Malayan Rebellion of 1948-1957,2,Extra-State War ,0.0,
+461,Indo-Hyderabad,Indo-Hyderabad War of 1948,3,Extra-State War ,0.0,
+462,Third Sino-Tibetan,Third Sino-Tibetan War of 1950,3,Extra-State War ,0.0,
+463,Franco-Tunisian,Franco-Tunisian War of 1952-1954,2,Extra-State War ,0.0,
+464,British-Mau Mau,British-Mau Mau War of 1952-1956,2,Extra-State War ,0.0,
+465,Moroccan Independence,Moroccan Independence War of 1953-1956,2,Extra-State War ,0.0,
+466,Third Franco-Algerian,Third Franco-Algerian War of 1954-1962,2,Extra-State War ,0.0,
+467,French-Cameroon,French-Cameroon War of 1957-1958,2,Extra-State War ,0.0,
+469,Angolan-Portuguese,Angolan-Portuguese War of 1961-1974,2,Extra-State War ,0.0,
+471,Mozambique-Portuguese,Mozambique-Portuguese War of 1964-1975,2,Extra-State War ,0.0,
+472,"East Timorese, Phase 2",East Timorese War Phase 2 of 1975-1976,3,Extra-State War ,0.0,
+473,Namibian,Namibian War of 1975-1988,2,Extra-State War ,0.0,
+474,Western Saharan,Western Sahara War of 1975-1983,3,Extra-State War ,1.0,
+475,Khmer Insurgency,Khmer Insurgency of 1979-1989,3,Extra-State War ,1.0,
+476,Soviet Quagmire,Soviet Quagmire of 1980-1989,3,Extra-State War ,1.0,
+477,First PKK in Iraq,First PKK in Iraq of 1991-1992,3,Extra-State War ,0.0,
+479,Second PKK in Iraq,Second PKK in Iraq of 1997,3,Extra-State War ,0.0,
+480,Al Aqsa Intifada,Al Aqsa Intifada of 2000-2003,2,Extra-State War ,0.0,
+481,Afghan Resistance,Afghan Resistance of 2001-present,3,Extra-State War ,1.0,
+482,Iraqi Resistance,Iraqi Resistance of 2003-present,3,Extra-State War ,1.0,

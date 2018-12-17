@@ -68,7 +68,7 @@ TerritoryID,TerritoryName
 1016,Oregon Country
 1017,Eastern Greenland
 1018,U.S. Leased Bases in Newfoundland
-1019,"Rupert""s Land"
+1019,Rupert's Land
 1020,San Juan Island
 1021,Cape Breton I.
 1022,Nova Scotia
@@ -146,7 +146,7 @@ TerritoryID,TerritoryName
 1401,Rio Grande do Sul
 1402,Juliana Republic
 1407,Acre
-1408,"St. Paul""s Rocks"
+1408,St. Paul's Rocks
 1409,Trinidade Island
 205,Ireland
 210,Netherlands
@@ -284,7 +284,7 @@ TerritoryID,TerritoryName
 3374,Batum
 3375,Daghestan
 3376,Nakhichevan
-3377,"Mountaineers"" Republic of the North Caucusus (Hango)"
+3377,Mountaineers' Republic of the North Caucusus (Hango)
 3378,Porkkala
 3379,Aland Is.
 3381,Elba
@@ -650,7 +650,7 @@ TerritoryID,TerritoryName
 674,Jabal Shammar
 678,Yemen Arab Republic
 679,Yemen
-680,"Yemen People""s Republic"
+680,Yemen People's Republic
 681,Aden
 690,Kuwait
 694,Qatar
@@ -757,14 +757,14 @@ TerritoryID,TerritoryName
 703,Kyrgyzstan
 704,Uzbekistan
 705,Kazakhstan
-710,"People""s Republic of China (China)"
+710,People's Republic of China (China)
 711,Manchukuo
 712,Mongolia
 713,Republic of China (Taiwan) (Formosa)
 720,Hong Kong
 721,Macao
 730,Korea (Chosen)
-731,"Korea, Democratic People""s Republic of"
+731,"Korea, Democratic People's Republic of"
 732,"Korea, Republic of"
 735,Far Eastern Republic
 740,Japan
@@ -832,7 +832,7 @@ TerritoryID,TerritoryName
 7330,Korean Demilitarized Zone
 7351,Southern Sakhalin I.
 7352,Vladivostok
-7360,"Tuvinian People""s Republic"
+7360,Tuvinian People's Republic
 7399,Takeshima (Dokko) I.
 7411,Bonin Is.
 7412,Volcano Is.
@@ -1106,9 +1106,9 @@ TerritoryID,TerritoryName
 9465,Flint I.
 9466,Caroline I.
 9501,Rotuma I.
-9551,"Vava""u"
+9551,Vava'u
 9552,Tongatapu
-9553,"Ha""apai"
+9553,Ha'apai
 9601,Society Is.
 9602,Marquesas Is.
 9603,Tuamotu Is.
@@ -1145,3 +1145,24 @@ TerritoryID,TerritoryName
 9987,Neu Schwabenland
 9991,Peter I I.
 9993,Bouvet I.
+2,United States of America
+115,Suriname
+200,United Kingdom
+223,Liechtenstein
+225,Switzerland
+230,Spain
+232,Andorra
+235,Portugal
+300,Austria-Hungary
+331,San Marino
+341,Montenegro
+347,Kosovo
+380,Sweden
+450,Liberia
+516,Burundi
+626,South Sudan
+640,Turkey
+692,Bahrain
+698,Oman
+702,Tajikistan
+790,Nepal

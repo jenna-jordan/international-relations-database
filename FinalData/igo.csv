@@ -1,6 +1,6 @@
 igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 370,AAAID,Arab Auth. for Ag. Invest. & Development,Arab Authority for Agricultural Investment and Development (AAAID),1976.0,,,
-305,AAB,Alliance Against Biopiracy,Alliance Against Biopiracy,2002.0,,,
+305,AAB,Alliance Against Biopiracy,Alliance Against Biopiracy,2002.0,,,www.rainforestcoalition.org;  http://www.s-cica.org/page.php?page_id=7&lang=1;  http://www.cbfp.org/;  http://www.ghsi.ca/english/index.asp; 
 690,AACB,Assoc. of African Central Banks,Association of African Central Banks (AACB),1968.0,,,
 350,AACarib,Anglo-Am Caribbean Comm,Anglo-American Caribbean Commission,1942.0,1946.0,replaced,
 630,AALCO,Asian-African Legal Consultative Org,Asian-African Legal Consultative Committee,1956.0,,,
@@ -20,13 +20,13 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 50,ACSO,African Civil Service Observatory,African Civil Service Observatory (ACSO),1991.0,,,
 20,ACSSRB,Administrative Center for Soc Security for Rhine Boatmen,Adminstrative Center for Social Security for Rhine Boatmen,1950.0,,,
 570,ACU,Asian Clearing Union,Asian Clearing Union (ACU),1974.0,,,
-25,ACWL,Advisory Centre on WTO Law,Advisory Centre on WTO Law (ACWL),2001.0,,,
+25,ACWL,Advisory Centre on WTO Law,Advisory Centre on WTO Law (ACWL),2001.0,,,"http://www.africa-union.org/;  http://www.pftac.org/AFSPC?index.htm;  http://www.boip.int/;  http://www.iter.org/;  http://www.acwl.ch/;   [Per org's website (accessed 3/12/08), 20 LDCs and 9 MDCs became members by signing initial agreement. Later, 7 LCDs and 1 MDC became members via accession: Jordan (2002), Oman (2003), Mauritius (2003), Turkey (2003), El Salvador (2004), Indo"
 420,AFESD,Arab Fund for Social/Economic Development,Arab Fund for Economic and Social Development (AFESD),1968.0,,,
 80,AFEXIMB,Afr. Exp/Import Bank,African Export Import Bank (Afreximbank),1993.0,,,
 100,AFGEC,Afr. Fund Guarantee & Econ. Coop.,African Fund for Guarantee and Economic Cooperation,1977.0,,,
 160,AFPU,African Postal Union,African Postal Union,1961.0,,,
 90,AFRAND,Afr. Foundation for R & D,African Foundation for Research and Development (AFRAND),1994.0,,,
-725,AFSPC,Association of Financial Supervisors of Pacific Countries,Association of Financial Supervisors of Pacific Countries (AFSPC),2002.0,,,
+725,AFSPC,Association of Financial Supervisors of Pacific Countries,Association of Financial Supervisors of Pacific Countries (AFSPC),2002.0,,,http://www.icc-cpi.int/home.html&l=en;  http://www.2ie-edu.org/;  http://www.marri-rc.org/;  http://www.acdi-cida.gc.ca/CIDAWEB/acdicida.nsf/En/JUD-5292536-HRK; 
 410,AFTE,Arab Federation for Technical Educ.,Arab Federation for Technical Education (AFTE),1980.0,,,
 110,AGC,African Groundnut Council,African Groundnut Council,1964.0,,,
 430,AGPUNDO,Arab Gulf Prog. for UN Dev. Org.,Arab Gulf Programme for United Nations Development Organizations,1981.0,,,
@@ -35,10 +35,10 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 440,AIDO,Arab Industrial Devel. & Mining Org.,Arab Industrial Development and Mining Organization (AIDMO),1968.0,,,
 730,AIOEC,Assoc. Iron Ore Expt. Countries,Association of Iron Ore Exporting Countries,1975.0,1998.0,,
 115,AIPO,African Intellectual Property Organization,African Intellectual Property Organization,1976.0,,,
-275,AITIC,Agency for International Trade Information and Cooperation,Agency for International Trade Information and Cooperation (AITIC),2004.0,,,
+275,AITIC,Agency for International Trade Information and Cooperation,Agency for International Trade Information and Cooperation (AITIC),2004.0,,,http://www.gene.ch/gentech/2002/Feb/msg00125.html;  http://www.benproject.org/; 
 460,ALO,Arab Labor Org.,Arab Labour Organization (ALO),1965.0,,,
 120,AMCO,African & Malagasy Coffee Org.,African Malagasy Coffee Organization,1960.0,,,
-125,AMCOW,African Ministers' Council on Water,African Ministers' Council on Water (AMCOW),2002.0,,,
+125,AMCOW,African Ministers' Council on Water,African Ministers' Council on Water (AMCOW),2002.0,,,"http://www.boip.int/;  http://www.bibalex.org/;  http://www.segib.org/;   Per Final Declaration of 2003 Summit (pdf on org's website 6/21/08), 21 countries participated in 2003 Summit that created Secretariat (Andorra joined in 2004, per Wikipedia).; http://www.wmdcommission.org/; The Commission has 14 members: the Chairman plus 13 Commissioners chosen by him [these individuals come from: Sweden (chair), Australia, Brazil, China, India, Indonesia, Ireland, Japan, Jordan, Russia, Senegal, Sri Lanka, UK, USA.  [Appears to "
 490,AMF,Arab Monetary Fund,Arab Monetary Fund (AMF),1976.0,,,
 240,AMIPO,Afro-Malagasy Industrial Property Office,Afro-Malagasy Industrial Property Office,1962.0,1975.0,replaced,
 250,AMPTU,Afro-Malagasy Postal and Telecomm Union,Afro-Malagasy Postal and Telecommunications Union/African Posts and Telecommunic,1961.0,1996.0,,
@@ -72,7 +72,7 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 560,ASPAC,Asia & Pacific Council,Asian and Pacific Council (ASPAC),1966.0,1973.0,,
 210,ATO,African Timber Org.,African Timber Organization (ATO),1976.0,,,
 770,ATPC,Assoc. Tin Producing Countries,Association of Tin Producing Countries (ATPC),1983.0,2001.0,,
-3761,AU,African Union,African Union (AU),2001.0,,,
+3761,AU,African Union,African Union (AU),2001.0,,,http://www.savacommission.org/;  http://www.bobpigo.org/; 
 620,AVRDC,Asian Vegetable Res. & Dev. Center,Asian Vegetable Research and Development Center (AVRDC),1971.0,,,
 70,AfDB,African Development Bank,African Development Bank,1963.0,,,
 130,AfrOPDA,Afr. Oil Palm Dev. Assoc.,African Oil Palm Development Association (AFOPDA),1985.0,,,
@@ -86,7 +86,7 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 780,BC,Baltic Council,Baltic Council,1990.0,,,
 870,BCSC,British Commonwealth Scientific Comm,British Commonwealth Scientific Committee/Commonwealth Science Council (CSC),1946.0,,,
 790,BEF,Baltic Environ. Forum,Baltic Environmental Forum (BEF),1995.0,,,
-795,BEN,Baltic Euregional Network,Baltic Euregional Network (BEN),2005.0,,,
+795,BEN,Baltic Euregional Network,Baltic Euregional Network (BEN),2005.0,,,"http://portal.unesco.org/education/en/ev.php-URL_ID=31056&URL_DO=DO_TOPIC&URL_SECTION=201.html - www.lins.no/events/NETF%20Completion%2007%20Presentations/FAPED%20Program.ppt - www.dakar.unesco.org/news/faped/en/020131_faped.shtml;   Dakar Website (accessed 11/1/08): [lists Mauritius,  Namibia, Senegal, Sudan, Tanzania as the countries that participated in drafting Charter in 2002].  YIO lists as H (Inactive), but Power Point presentation website from 2007 indicates it is"
 840,BENELUX,Benelux Community,Benelux Economic Union,1958.0,,,
 830,BESCC,Benelux Economic & Social Cons. Committee,Benelux Economic and Social Consultative Committee/Benelux Economic and Social A,1960.0,,,
 820,BIISEF,Banque Inter'l d'Info. sur les Estats Francophone,Banque internationale d'information sur les Etats francophones (BIEF),1986.0,1996.0,integrated,
@@ -94,7 +94,7 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 2470,BIPM,International Bureau of Weights & Measures,International Bureau of Weights and Measures (BIPM),1875.0,,,
 810,BIS,Bank for International Settlements,Bank for International Settlements,1930.0,,,
 860,BNDP,Board of Nordic Dev. Projects,Board of Nordic Development Projects,1968.0,1987.0,,
-825,BOBP,Bay of Bengal Programme Inter-Governmental Organization,Bay of Bengal Programme Inter-Governmental Organization (BOBP-IGO),2003.0,,,
+825,BOBP,Bay of Bengal Programme Inter-Governmental Organization,Bay of Bengal Programme Inter-Governmental Organization (BOBP-IGO),2003.0,,,"http://www.boip.int/;  http://www.bibalex.org/;  http://www.segib.org/;   Per Final Declaration of 2003 Summit (pdf on org's website 6/21/08), 21 countries participated in 2003 Summit that created Secretariat (Andorra joined in 2004, per Wikipedia)."
 300,BONN,Bonn Agreement,Agreement for cooperation in dealing with pollution of the North Sea (Bonn Agree,1983.0,,,
 3810,BSEC,Black Sea Economic Council,Organization of Black Sea Economic Cooperation (BSEC),1992.0,,,
 1280,CAAD,Concerted Action for African Develop.,Concerted Action for African Development,1979.0,1988.0,,
@@ -113,7 +113,7 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 912,CARIFTA,Caribbean Free Trade Area,Caribbean Free Trade Association (CARIFTA),1965.0,1973.0,replaced,
 1010,CARII,Central American Research Institute for Industry,Central American Research Institute for Industry,1956.0,1997.0,,
 1200,CATC,Commonwealth Air Transport Council,Commonwealth Air Transport Council,1945.0,1991.0,,
-1355,CBFP,Congo Basin Forest Partnership,Congo Basin Forest Partnership (CBFP),2002.0,,,
+1355,CBFP,Congo Basin Forest Partnership,Congo Basin Forest Partnership (CBFP),2002.0,,,http://www.unctad.org/infocomm/anglais/rubber/ecopolicies.htm#ITRO;  http://www.africa-union.org/;  http://www.pftac.org/AFSPC?index.htm;  http://www.boip.int/; 
 1040,CBI,Centrl Bureau: Intl Map of World,"Central Bureau for the International 1:1,000,000 Map of the World",1909.0,1953.0,,
 1420,CBSS,Council of Baltic Sea States,Council of the Baltic Sea States (CBSS),1992.0,,,
 1050,CCNR,Central Commission for the Navigation of the Rhine,Central Commission for the Navigation of the Rhine,1815.0,,,
@@ -134,7 +134,7 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 910,CFATF,Caribbean Fin. Action Task Force,Caribbean Financial Action Task Force (CFATF),1994.0,,,
 1160,CFC,Common Fund for Commodities,Common Fund for Commodities (CFC),1989.0,,,
 1320,CHSTEA,Conference Heads of State of Equ. Africa,Conference of Heads of State of Equatorial Africa,1959.0,1968.0,,
-1345,CICA,Conference on Interaction and Confidence-Building Measures in Asia,Conference on Interaction and Confidence-Building Measures in Asia (CICA),2002.0,,,
+1345,CICA,Conference on Interaction and Confidence-Building Measures in Asia,Conference on Interaction and Confidence-Building Measures in Asia (CICA),2002.0,,,"http://www.nwhf.no/;   Website (accessed 10/31/08) indicates that Board of Governors consists of reps from UNESCO plus 5 states: Norway, Denmark, Finland, Iceland, Sweden.; http://www.africa-union.org/root/au/organs/Pan-African_Parliament_en.htm;  http://usinfo.state.gov/products/pubs/proliferation/ - http://www.state.gov/t/isn/c10390.htm;  http://www.kbri-canberra.org.au/press/press041203e_deplu.htm - http://www.dfat.gov.au/asean/joint_media_statement.html - www.mne.gov.tl/en/index.php?option=com_content&view=article&id=20&Itemid=52; "
 1140,CIFC,Comm Intl Finan Cntrl Macedonia,Commission for International Financial Control in Macedonia,1905.0,1914.0,,
 1290,CIMA,Conference interafricaine des marchs d'assurances,Conf rence interafricaine des marchs d'assurances (CIMA),1992.0,,,
 1230,CIS,Commonwealth of Independent States,Commonwealth of Independent States (CIS),1991.0,,,
@@ -149,16 +149,16 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 1340,COPTAC,Conf. of Posts & Telecom. Administr. of Cent. Afr.,Conference of Posts and Telecommunications Administrations of Central Africa,1975.0,,,
 1130,COSAVE,COSAVE,ComitÈ Regional de Sanidad Vegetal del Cono Sur (COSAVE),1991.0,,,
 913,COrg,Caribbean Organization,Caribbean Organization,1960.0,1965.0,,
-1415,CP,Council of Patrons,Council of Patrons,2002.0,,,
+1415,CP,Council of Patrons,Council of Patrons,2002.0,,,"http://www.acwl.ch/;   [Per org's website (accessed 3/12/08), 20 LDCs and 9 MDCs became members by signing initial agreement. Later, 7 LCDs and 1 MDC became members via accession: Jordan (2002), Oman (2003), Mauritius (2003), Turkey (2003), El Salvador (2004), Indo; http://www.amcow.org/;   Per 2002 Abuja Declaration on Zambian government's website (accessed 3/12/08), there were 43 initial governments listed [I used this to code initial membership].; http://www.boip.int/;  http://www.bibalex.org/; "
 1095,CPAB,Central PanAm Bureau Eugenics,Central Pan American Bureau of Eugenics and Homiculture,1927.0,1949.0,,
 1270,CPSC,Comm Portugese Speaking Countries,Community of Portuguese-Speaking Countries,1996.0,,,
 920,CPU,Caribbean Postal Union,Caribbean Postal Union (CPU),1997.0,,,
-873,CSLF,Carbon Sequestration Leadership Forum,Carbon Sequestration Leadership Forum (CSLF),2003.0,,,
+873,CSLF,Carbon Sequestration Leadership Forum,Carbon Sequestration Leadership Forum (CSLF),2003.0,,,www.rainforestcoalition.org;  http://www.s-cica.org/page.php?page_id=7&lang=2;  http://www.cbfp.org/; 
 1145,CTCAf,Comm Tech Cooperation in SSAf,Commission for Technical Cooperation in Africa South of the Sahara,1950.0,1965.0,,
 1250,CTO,Commonwealth Telecom Board,Commonwealth Telecommunications Board/CTO,1928.0,,,
 2040,CWGC,Commonwealth War Graves Commission,Imperial War Graves Commission/Commonwealth War Graves Commission,1917.0,,,
 900,CXC,Caribb. Examinations Council,Caribbean Examinations Council (CXC),1972.0,,,
-1115,CfRN,Coalition for Rainforest Nations,Coalition for Rainforest Nations,2005.0,,,
+1115,CfRN,Coalition for Rainforest Nations,Coalition for Rainforest Nations,2005.0,,,http://www.marri-rc.org/; 
 1190,ComAB,Commonwealth Agricultural Bureau,Commonwealth Agricultural Bureau,1929.0,1985.0,replaced,
 1240,ComSec,Commonwealth Secretariat,Commonwealth Secretariat (ComSec),1965.0,,,
 1460,DBGLS,Dev. Bank of Great Lake States,Development Bank of the Great Lakes States,1977.0,2000.0,,
@@ -210,7 +210,7 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 1590,EUROMET,European Collaboration on Measurement Standards,European Collaboration on Measurement Standards (EUROMET),1987.0,,,
 1430,Entente,Entente Council,Council of the Entente/Entente Council,1959.0,,,
 1840,FAO,Food & Ag Org,FAO,1945.0,,,
-1855,FAPED,Forum of African Parliamentarians for Education,Forum of African Parliamentarians for Education (FAPED),2002.0,,,
+1855,FAPED,Forum of African Parliamentarians for Education,Forum of African Parliamentarians for Education (FAPED),2002.0,,,"http://www.wmdcommission.org/; The Commission has 14 members: the Chairman plus 13 Commissioners chosen by him [these individuals come from: Sweden (chair), Australia, Brazil, China, India, Indonesia, Ireland, Japan, Jordan, Russia, Senegal, Sri Lanka, UK, USA.  [Appears to ; http://www.savacommission.org/;  http://www.bobpigo.org/;  http://www.recsasec.org/; "
 1860,FDIPLAC,Fund 4 Devel. of Indigen Peoples of LA/Carib,Fund for the Development of the Indigenous Peoples of Latin America,1992.0,,,
 1850,FEC,Far East Comm,Far East Commission,1945.0,1951.0,,
 1910,G15,Group of 15,Group of Fifteen (G-15),1989.0,,,
@@ -221,8 +221,8 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 1990,GCC,Gulf Cooperation Council,Gulf Cooperation Council (GCC),1981.0,,,
 1980,GCRSNC,Guidance Comm. for Road Safety in Nordic Cntry,Guidance Committee for Road Safety in the Nordic Countries,1993.0,1999.0,,
 1900,GEF,Global Environ. Fund,Global Environment Facility (GEF),1991.0,,,
-1960,GEO,Group on Earth Observations,Group on Earth Observations (GEO),2005.0,,,
-1905,GHSI,Global Health Security Initiative,Global Health Security Initiative (GHSI),2001.0,,,
+1960,GEO,Group on Earth Observations,Group on Earth Observations (GEO),2005.0,,,http://www.s-cica.org/page.php?page_id=7&lang=3; 
+1905,GHSI,Global Health Security Initiative,Global Health Security Initiative (GHSI),2001.0,,,http://en.wikipedia.org/wiki/Bank_of_the_South;  http://www.ue2007.pt/UE/vEN/Reunioes_Eventos/Informais/IMMJHA.htm;  http://www.aitic.org/; 
 1920,GLACSEC,Group of L/A & Carib. Sugar Exp. Countries,Group of Latin American and Caribbean Sugar Exporting Countries,1974.0,2001.0,,
 2000,GOIC,Gulf Org. for Industrial Consulting,Gulf Organization for Industrial Consulting (GOIC),1976.0,,,
 1870,GRBDO,Gambia River Basin Dev. Org.,Gambia River Basin Development Organization,1978.0,,,
@@ -267,7 +267,7 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 2600,ICAI,Intl Comm of Ag Industries,International Commission of Agricultural Industries/International Commission for,1934.0,,,
 2500,ICAO,Intl Civil Aviation Org,International Civil Aviation Organization (ICAO)/International Commission for Ai,1919.0,,,
 2490,ICAmO,Intl Central American Office,International Central American Office,1907.0,1914.0,,
-2702,ICC,International Criminal Court,International Criminal Court (ICC),2002.0,,,
+2702,ICC,International Criminal Court,International Criminal Court (ICC),2002.0,,,"http://www.segib.org/;   Per Final Declaration of 2003 Summit (pdf on org's website 6/21/08), 21 countries participated in 2003 Summit that created Secretariat (Andorra joined in 2004, per Wikipedia).; http://www.wmdcommission.org/; The Commission has 14 members: the Chairman plus 13 Commissioners chosen by him [these individuals come from: Sweden (chair), Australia, Brazil, China, India, Indonesia, Ireland, Japan, Jordan, Russia, Senegal, Sri Lanka, UK, USA.  [Appears to ; http://www.savacommission.org/;  http://www.bobpigo.org/; "
 2280,ICCEC,Intgvt Council of Copper Exp. Countries,Intergovernmental Council of Copper Exporting Countries,1968.0,1997.0,,
 2320,ICCILMB,Interim Comm. for Coor. Investigations of the Lower Mek,Interim Committee for Coordination of Investigations of the Lower Mekong Basin (,1978.0,1995.0,replaced,
 2520,ICCO,Int'l Cocoa Org.,International Cocoa Organization (ICCO),1973.0,,,
@@ -276,7 +276,7 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 2610,ICCSLT,Intl Comm of Cape Spartel Light,International Commission of the Cape Spartel Light in Tangier,1865.0,1958.0,,
 2540,ICDR,Intl Comm for Decenn. Revision Nomen,International Commission for the Decennial Revision of the Nomenclature of the C,1900.0,1938.0,,
 2690,ICES,Intl Council for Exploration of Sea,International Council for the Exploration of the Sea,1902.0,,,
-2492,ICFAM,International Centre for Food Micro-Algae Against Malnutrition,International Centre for Food Micro-Algae Against Malnutrition,2001.0,,,
+2492,ICFAM,International Centre for Food Micro-Algae Against Malnutrition,International Centre for Food Micro-Algae Against Malnutrition,2001.0,,,"http://www.kbri-canberra.org.au/press/press041203e_deplu.htm - http://www.dfat.gov.au/asean/joint_media_statement.html - www.mne.gov.tl/en/index.php?option=com_content&view=article&id=20&Itemid=53;  http://portal.unesco.org/education/en/ev.php-URL_ID=31056&URL_DO=DO_TOPIC&URL_SECTION=201.html - www.lins.no/events/NETF%20Completion%2007%20Presentations/FAPED%20Program.ppt - www.dakar.unesco.org/news/faped/en/020131_faped.shtml;   Dakar Website (accessed 11/1/08): [lists Mauritius,  Namibia, Senegal, Sudan, Tanzania as the countries that participated in drafting Charter in 2002].  YIO lists as H (Inactive), but Power Point presentation website from 2007 indicates it is; http://www.unctad.org/infocomm/anglais/rubber/ecopolicies.htm#ITRO;  http://www.africa-union.org/;  http://www.pftac.org/AFSPC?index.htm;  "
 2550,ICHRB,Int'l Comm. for the Hydrology of the Rhine Basin,International Commission for the Hydrology of the Rhine Basin,1970.0,,,
 2640,ICMMP,Intl Comte of Military Medicine & Pharmacy,International Committee of Military Medicine and Pharmacy/International Committe,1921.0,,,
 2560,ICNC,Intl Comm Navigation of Congo,International Commission for the Navigation of the Congo,1885.0,1914.0,,
@@ -289,7 +289,7 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 2590,ICSEAF,Int'l Commm. for SE Atlantic Fisheries,International Commission for the Southeast Atlantic Fisheries (ICSEAF),1969.0,1990.0,,
 2660,ICSG,Int'l Copper Study Grp.,International Copper Study Group,1992.0,,,
 2630,ICTM,Intl Comm Teaching Math,International Commission on the Teaching of Mathematics,1908.0,1939.0,,
-2635,ICWMD,International Commission on Weapons of Mass Destruction,International Commission on Weapons of Mass Destruction,2003.0,,,
+2635,ICWMD,International Commission on Weapons of Mass Destruction,International Commission on Weapons of Mass Destruction,2003.0,,,"http://www.acwl.ch/;   [Per org's website (accessed 3/12/08), 20 LDCs and 9 MDCs became members by signing initial agreement. Later, 7 LCDs and 1 MDC became members via accession: Jordan (2002), Oman (2003), Mauritius (2003), Turkey (2003), El Salvador (2004), Indo; http://www.amcow.org/;   Per 2002 Abuja Declaration on Zambian government's website (accessed 3/12/08), there were 43 initial governments listed [I used this to code initial membership].; http://www.boip.int/; "
 2530,ICfO,Intl Coffee Org,International Coffee Organization,1963.0,,,
 2495,IChemO,Intl Chemistry Office,International Chemistry Office,1927.0,1950.0,,
 2510,ICivDO,Int'l Civil Defence Org.,International Civil Defence Organization (ICDO),1972.0,,,
@@ -310,7 +310,7 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 2805,IICom,Intl Instit of Commerce,International Institute of Commerce,1919.0,1943.0,,
 2033,IIE,Imperial Instit of Entomology,Imperial Institute of Entomology,1920.0,1933.0,integrated,
 2810,IIF,Intl Instit of Refrigeration,International Institute of Refrigeration,1920.0,,,
-2795,IIWEE,International Institute for Water and Environment Engineering,International Institute for Water and Environment Engineering (2IE),2004.0,,,
+2795,IIWEE,International Institute for Water and Environment Engineering,International Institute for Water and Environment Engineering (2IE),2004.0,,,http://en.wikipedia.org/wiki/Bank_of_the_South;  http://www.ue2007.pt/UE/vEN/Reunioes_Eventos/Informais/IMMJHA.htm; 
 2820,IJO,Int'l Jute Organization,International Jute Organization (IJO),1984.0,2001.0,,
 2830,ILO,Intl Labour Org,International Labour Organization,1919.0,,,
 2840,ILZSG,Intl Lead & Zinc Study Group,International Lead and Zinc Study Group,1959.0,,,
@@ -352,18 +352,18 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 3290,ISB,Interstate Bank,Inter-State Bank,1993.0,,,
 3320,ISDB,Islamic Dev. Bank,Islamic Development Bank (IsDB),1974.0,,,
 3310,ISHREST,Inter-State School for Hydraulic & Rural Engin...,Inter-State School of Hydraulic and Rural Engineering for Senior,1972.0,1996.0,,
-3095,ISRBC,International Sava River Basin Commission,International Sava River Basin Commission (ISRBC),2002.0,,,
+3095,ISRBC,International Sava River Basin Commission,International Sava River Basin Commission (ISRBC),2002.0,,,http://www.gene.ch/gentech/2002/Feb/msg00125.html;  http://www.benproject.org/;  http://www.cslforum.org/;  www.rainforestcoalition.org; 
 3110,ISUPT,Intl Sec for Unification Pharmaco,International Secretariat for the Unification of Pharmacological Terms,1902.0,1914.0,,
 3130,ISuC,Intl Sugar Council,International Sugar Council,1937.0,1967.0,replaced,
 3180,ITC,Intl Tin Council,International Tin Council,1956.0,1990.0,,
 3175,ITCC,Intl Telegraph Consultative Cmte,International Telegraph Consultative Committee,1925.0,1956.0,,
 3150,ITCLE,Intl Tech Cmte Legal Experts Air Questions,International Technical Committee of Legal Experts on Air Questions,1926.0,1941.0,,
 3140,ITPA,Int'l Tea Promotion Assoc.,International Tea Promotion Association (ITPA),1977.0,1984.0,,
-3185,ITRO,"International Tripartite Rubber Organization, Thailand","International Tripartite Rubber Organization, Thailand (ITRO)",2002.0,,,
+3185,ITRO,"International Tripartite Rubber Organization, Thailand","International Tripartite Rubber Organization, Thailand (ITRO)",2002.0,,,http://www.cbfp.org/;  http://www.ghsi.ca/english/index.asp;  http://www.earthobservations.org/;  http://www.icc-cpi.int/home.html&l=en; 
 3190,ITTO,Int'l Tropical Timber Org,International Tropical Timber Organization (ITTO),1987.0,,,
 3160,ITU,Intl Telecom Union,International Telecommunication Union,1865.0,,,
 2310,ITVRC,Intgvt TV & Radio Corp,Intergovernmental TV & Radio Corporation (ITRC MIR),1992.0,,,
-2315,IUIC,Intergovernmental University of Cooperation,Intergovernmental University of Cooperation (IUIC),2001.0,,,
+2315,IUIC,Intergovernmental University of Cooperation,Intergovernmental University of Cooperation (IUIC),2001.0,,,"http://www.marri-rc.org/;  http://www.acdi-cida.gc.ca/CIDAWEB/acdicida.nsf/En/JUD-5292536-HRK;  http://www.nwhf.no/;   Website (accessed 10/31/08) indicates that Board of Governors consists of reps from UNESCO plus 5 states: Norway, Denmark, Finland, Iceland, Sweden.; http://www.africa-union.org/root/au/organs/Pan-African_Parliament_en.htm;  http://usinfo.state.gov/products/pubs/proliferation/ - http://www.state.gov/t/isn/c10390.htm; "
 3220,IUPCT,Intl Union Publication of Customs Tariffs,International Union for the Publication of Customs Tariffs,1890.0,,,
 3200,IUPIP,Intl Union for Protection of Industrial Prop,International Union for the Protection of Industrial Property,1883.0,,,
 3210,IUPLAW,Intl Union for Protection of Lit & Art Works,International Union for the Protection of Literary and Artistic Works (Berne Uni,1886.0,,,
@@ -388,13 +388,13 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 3470,LGIDA,Liptako-Gourma Integrated Dev. Auth.,Liptako-Gourma Integrated Development Authority (LGA),1970.0,,,
 3450,LOAS,League of Arab States,League of Arab States,1945.0,,,
 3460,LoN,League of Nations,League of Nations,1920.0,1945.0,replaced,
-3505,MARRI,"Migration, Asylum, Refugees Regional Initiative","Migration, Asylum, Refugees Regional Initiative (MARRI)",2003.0,,,
+3505,MARRI,"Migration, Asylum, Refugees Regional Initiative","Migration, Asylum, Refugees Regional Initiative (MARRI)",2003.0,,,"http://www.iter.org/;  http://www.acwl.ch/;   [Per org's website (accessed 3/12/08), 20 LDCs and 9 MDCs became members by signing initial agreement. Later, 7 LCDs and 1 MDC became members via accession: Jordan (2002), Oman (2003), Mauritius (2003), Turkey (2003), El Salvador (2004), Indo; http://www.amcow.org/;   Per 2002 Abuja Declaration on Zambian government's website (accessed 3/12/08), there were 43 initial governments listed [I used this to code initial membership]."
 3520,MCPTTC,Multi-Country Posts & Telecomm. Training Center,"Multi-Country Posts and Telecommunications Training Centre, Blantyre/not indep u",1984.0,,,
 3510,MCWCASM,Minist Conf of West & Cent African States on Maritime,Ministerial Conference of West and Central African States on Maritime,1975.0,,,
 3500,MEMTTA,Mideast & Medit. Travel & Tourism Assoc.,Middle East - Mediterranean Travel and Tourism Association (MEMTTA),1995.0,,,
 3550,MFO,Multilateral Force Org.,Multinational Force and Observers (MFO),1981.0,,,
 3540,MIGA,Multilateral Investment Guarantee Agency,Multilateral Investment Guarantee Agency (MIGA),1988.0,,,
-3545,MOPAN,Multilateral Organizations Performance Assessment Network,Multilateral Organizations Performance Assessment Network (MOPAN),2002.0,,,
+3545,MOPAN,Multilateral Organizations Performance Assessment Network,Multilateral Organizations Performance Assessment Network (MOPAN),2002.0,,,"http://www.bibalex.org/;  http://www.segib.org/;   Per Final Declaration of 2003 Summit (pdf on org's website 6/21/08), 21 countries participated in 2003 Summit that created Secretariat (Andorra joined in 2004, per Wikipedia).; http://www.wmdcommission.org/; The Commission has 14 members: the Chairman plus 13 Commissioners chosen by him [these individuals come from: Sweden (chair), Australia, Brazil, China, India, Indonesia, Ireland, Japan, Jordan, Russia, Senegal, Sri Lanka, UK, USA.  [Appears to ; http://www.savacommission.org/; "
 3480,MRU,Mano River Union,Mano River Union (MRU),1973.0,,,
 3490,MWN,Mediterranean Water Network,Mediterranean Water Network (MWN),1993.0,,,
 4260,Mercosur,MERCOSUR,Southern Common Market/MERCOSUR,1991.0,,,
@@ -417,7 +417,7 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 3710,NPFSC,North Pacific Fur Seal Comm,North Pacific Fur Seal Commission,1958.0,1988.0,,
 3570,NRC,Niger River Comm,Niger River Commission/Niger Basin Authority,1964.0,,,
 3660,NTSC,Nordic Telcomm. Satellite Council,Nordic Telecommunications Satellite Council (NTSR),1965.0,1986.0,,
-3665,NWHF,Nordic World Heritage Foundation,Nordic World Heritage Foundation (NWHF),2002.0,,,
+3665,NWHF,Nordic World Heritage Foundation,Nordic World Heritage Foundation (NWHF),2002.0,,,http://www.recsasec.org/;  http://en.wikipedia.org/wiki/Bank_of_the_South; 
 3590,NordC,Nordic Council,Nordic Council,1952.0,,,
 3800,OAPEC,Org. Arab Petroleum Export. Countries,Organization of Arab Petroleum Exporting Countries (OAPEC),1968.0,,,
 3900,OAS,Pan-Am Union/Org of Am States,Pan American Union (OAS),1890.0,,,
@@ -442,7 +442,7 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 3925,PAHC,Perm Assoc PanAm Highway Congresses,Permanent Association of Pan American Highway Congresses,1939.0,1952.0,,
 3890,PAHO,Pan-Am Health Org,Pan American Sanitary Bureau (PASOrganization/PAHealthOrganization),1902.0,,,
 3880,PAIGH,Pan Am Instit of Geog & Hist,Pan American Institute of Geography and History,1928.0,,,
-3875,PAP,Pan-African Parliament,Pan-African Parliament,2002.0,,,
+3875,PAP,Pan-African Parliament,Pan-African Parliament,2002.0,,,http://www.gene.ch/gentech/2002/Feb/msg00125.html;  http://www.benproject.org/;  http://www.cslforum.org/;  www.rainforestcoalition.org; 
 3910,PC,Paris Commission,Paris Commission (PARCOM),1977.0,1998.0,replaced,
 3940,PCA,Permanent Court of Arbitration,Permanent Court of Arbitration,1899.0,,,
 3870,PCB,Pacific Cable-Board,Pacific Cable Board,1920.0,1948.0,,
@@ -456,14 +456,14 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 4200,PIF,Pacific Island Forum,South Pacific Forum (SPF),1971.0,,,
 3920,PIPD,Partners in Population & Development,Partners in Population and Development - A South-South Initiative,1994.0,,,
 4010,PMAESA,Port Management Assoc. of E. and S. Africa,Port Management Association of Eastern and Southern Africa (PMAESA),1973.0,,,
-4035,PSI,Proliferation Security Initiative,Proliferation Security Initiative (PSI),2003.0,,,
+4035,PSI,Proliferation Security Initiative,Proliferation Security Initiative (PSI),2003.0,,,http://www.ghsi.ca/english/index.asp;  http://www.earthobservations.org/;  http://www.icc-cpi.int/home.html&l=en; 
 3980,PSNARCO,Perm. Sec. of the S. Am. Agr. on Narcotic Drugs,Permanent Secretariat of the South American Agreement on Narcotic Drugs and Psyc,1979.0,1998.0,,
 4030,PTASEA,Pref Trade Area: S & E Africa,Preferential Trade Agreement for Southern & Eastern Africa,1981.0,1993.0,replaced,
 4020,PUASP,"Postal Union of Am, Spain, Port","Postal Union of the Americas and Spain/Postal Union of the Americas, Spain, and ",1911.0,,,
 4050,RASCOM,Reg. Afr. Satellite Comm. Org.,Regional African Satellite Communications Organization (RASCOM),1992.0,,,
 4080,RCAELA,Reg. Council for Adult Educ. & Literacy in Africa,Regional Council for Adult Education and Literacy in Africa,1974.0,,,
 4060,RCC,Reg Commonwealth in the Field of Comm,Regional Commonwealth in the Field of Communications (RCC),1991.0,,,
-4055,RECSA,Regional Centre on Small Arms and Light Weapons,Regional Centre on Small Arms and Light Weapons (RECSA),2004.0,,,
+4055,RECSA,Regional Centre on Small Arms and Light Weapons,Regional Centre on Small Arms and Light Weapons (RECSA),2004.0,,,"http://www.nwhf.no/;   Website (accessed 10/31/08) indicates that Board of Governors consists of reps from UNESCO plus 5 states: Norway, Denmark, Finland, Iceland, Sweden.; http://www.africa-union.org/root/au/organs/Pan-African_Parliament_en.htm; "
 4090,RIMMO,Reserve internationale medit. occidentale,RÈserve internationale maritime en mÈditerranÈe occidentale (RIMMO),1992.0,,,
 3060,RIOPPAH,Intl Reg Org against Plant & Animal Disease,International Regional Organization against Plant and Animal Diseases/Internatio,1953.0,,,
 4100,RIOgroup,Rio Group,Rio Group,1986.0,,,
@@ -483,7 +483,7 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 1930,SCHENGEN,Group of Schengen,Group of Schengen,1985.0,1999.0,integrated,
 4220,SEAMEO,Southeast Asian Minist. of Educ. Org.,Southeast Asian Ministers of Education Organization (SEAMEO),1965.0,,,
 4210,SEATO,Southeast Asia Treaty Organization,Southeast Asia Treaty Organization (SEATO),1956.0,1977.0,,
-2015,SEGIB,Ibero-American General Secretariat,Ibero-American General Secretariat (SEGIB),2003.0,,,
+2015,SEGIB,Ibero-American General Secretariat,Ibero-American General Secretariat (SEGIB),2003.0,,,http://www.earthobservations.org/;  http://www.icc-cpi.int/home.html&l=en;  http://www.2ie-edu.org/; 
 3390,SELA,Latin American Economic System,Latin American Economic System/SELA,1975.0,,,
 990,SICA,Central American Integration System,Central American Integration System (SICA),1991.0,,,
 1890,SIECA,General Treaty on Cent Am Econ Integration,General Treaty on Central American Economic Integration/Permanent Secretariate o,1960.0,,,
@@ -491,7 +491,7 @@ igoID,igoAbbr,igoShortName,igoLongName,StartYear,EndYear,EndReason,Notes
 4190,SPC,South Pacific Comm,South Pacific Commission/Secretariat of the Pacific Commission (SPC),1947.0,,,
 4130,SRDO,Senegal River Dev. Org.,Senegal River Development Organization,1972.0,,,
 4150,SWAPU,South & West African Postal Union,South and West Asia Postal Union (SWAPU),1987.0,2002.0,,
-4265,SWPD,South-West Pacific Dialogue,South-West Pacific Dialogue (SWPD),2002.0,,,
+4265,SWPD,South-West Pacific Dialogue,South-West Pacific Dialogue (SWPD),2002.0,,,"http://www.kbri-canberra.org.au/press/press041203e_deplu.htm - http://www.dfat.gov.au/asean/joint_media_statement.html - www.mne.gov.tl/en/index.php?option=com_content&view=article&id=20&Itemid=55;  http://portal.unesco.org/education/en/ev.php-URL_ID=31056&URL_DO=DO_TOPIC&URL_SECTION=201.html - www.lins.no/events/NETF%20Completion%2007%20Presentations/FAPED%20Program.ppt - www.dakar.unesco.org/news/faped/en/020131_faped.shtml;   Dakar Website (accessed 11/1/08): [lists Mauritius,  Namibia, Senegal, Sudan, Tanzania as the countries that participated in drafting Charter in 2002].  YIO lists as H (Inactive), but Power Point presentation website from 2007 indicates it is; http://www.unctad.org/infocomm/anglais/rubber/ecopolicies.htm#ITRO;  Website; Notes"
 4290,SugU,Sugar Union,Sugar Union,1902.0,1913.0,,
 4330,TARHEC,Tropical Ag. Research & Higher Educ. Center,Tropical Agriculture Research and Higher Education Center,1973.0,,,
 4320,TCRMG,Tripartite Agreement for Monetary Gold,Tripartite Commission for the Restitution of Monetary Gold,1946.0,1998.0,,

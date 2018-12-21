@@ -4,8 +4,6 @@ SourceData contains the csv and pdf files downloaded from the Correlates of War 
 
 FinalData contains the csv files that have been transformed and are ready to be inserted into the database. Each filename corresponds to the name of the table it should be inserted into.
 
-Database Design contains the files related to the design of the database, as well as the SQL script for creating the database.
+DatabaseDesign contains the files related to the design of the database, as well as the SQL script for creating the database.
 
-There are 5 Jupyter notebooks which correspond to the 5 main entities of the database - State, Territory, IGO, Alliance, and War. The code for the data transformation for each entity is contained in these notebooks.
-
-The general Data Transformation notebook contains the code for all transformations in condensed form.
+DataTransformation containst the Jupyter notebooks with the code for transforming the files from SourceData into the files in FinalData. There are 5 Jupyter notebooks which correspond to the 5 main entities of the database - State, Territory, IGO, Alliance, and War. The code for the data transformation for each entity is contained in these notebooks. The general Data Transformation notebook contains the code for all transformations in condensed form.

@@ -87,9 +87,9 @@ StateA,StateB,StartDate,EndDate,StartYear,StartMonth,EndYear,EndMonth,Type,Notes
 93,94,1920-01-01,2016-12-01,1920,01,2016,12,1,Begins with COS system entry
 93,95,1920-01-01,2016-12-01,1920,01,2016,12,5,Across Caribbean Sea; begins with PAN system entry
 93,100,1900-01-01,1903-11-01,1900,01,1903,11,5,Across Caribbean Sea; begins with NIC system entry; ends with PAN secession from COL
-93,100,1928-03-01,2016-12-01,1928,03,2016,12,4,Across Caribbean Sea; begins when San Andres and Providencia islands join COL
+93,100,1928-03-01,2016-12-01,1928,03,2016,12,4,Across Caribbean Sea; begins when San Andres & Providencia islands join COL
 94,95,1920-01-01,2016-12-01,1920,01,2016,12,1,Begins with COS and PAN system entry
-94,100,1928-03-01,2016-12-01,1928,03,2016,12,4,Across Caribbean Sea; begins when San Andres and Providencia islands join COL
+94,100,1928-03-01,2016-12-01,1928,03,2016,12,4,Across Caribbean Sea; begins when San Andres & Providencia islands join COL
 95,100,1920-01-01,2016-12-01,1920,01,2016,12,1,Begins with PAN system entry
 100,101,1841-01-01,2016-12-01,1841,01,2016,12,1,Begins with VEN system entry
 100,130,1854-01-01,2016-12-01,1854,01,2016,12,1,Begins with ECU system entry
@@ -243,7 +243,7 @@ StateA,StateB,StartDate,EndDate,StartYear,StartMonth,EndYear,EndMonth,Type,Notes
 255,325,1938-03-01,1945-05-01,1938,03,1945,05,1,Through Austria; begins after Anschluss; ends with Allied occupation of GMY
 255,345,1938-03-01,1941-04-01,1938,03,1941,04,1,Through Austria and Slovenia; begins after Anschluss; ends with GMY occupation of YUG
 255,345,1944-10-01,1945-05-01,1944,10,1945,05,1,Through Austria and Slovenia; begins after GMY occupation of YUG ends; ends with Allied occupation of GMY
-255,365,1816-01-01,1918-11-01,1816,01,1918,11,1,Through East Prussia and Poland/Lithuania; ends with independence of POL and LIT
+255,365,1816-01-01,1918-11-01,1816,01,1918,11,1,Through East Prussia and Poland/Lithuania; ends with independence of POL & LIT
 255,365,1939-09-01,1941-06-01,1939,09,1941,06,1,Through occupied Poland; begins with GMY/RUS occupation of POL; ends with removal of RUS occupiers
 255,365,1990-10-01,2016-12-01,1990,10,2016,12,5,Across Baltic Sea; through Kaliningrad; resumes after GMY reunification
 255,366,1918-02-01,1940-06-01,1918,02,1940,06,5,Across Baltic Sea; begins with EST system entry; ends with RUS annexation of EST
@@ -335,12 +335,12 @@ StateA,StateB,StartDate,EndDate,StartYear,StartMonth,EndYear,EndMonth,Type,Notes
 310,365,1944-08-01,1991-12-01,1944,08,1991,12,1,Through Ukraine; resumes after Ukraine recaptured from GMY; ends with UKR secession from RUS
 310,369,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with UKR system entry
 315,360,1918-10-01,1939-03-01,1918,10,1939,03,1,Begins with CZE system entry; ends with GMY occupation of CZE
-315,365,1945-06-01,1991-12-01,1945,06,1991,12,1,Through Slovakia and Ukraine; begins after GMY occupation of CZE ends; ends with UKR secession from RUS
+315,365,1945-06-01,1991-12-01,1945,06,1991,12,1,Through Slovakia & Ukraine; begins after GMY occupation of CZE ends; ends with UKR secession from RUS
 315,369,1991-12-01,1992-12-01,1991,12,1992,12,1,Through Slovakia; begins with UKR system entry; ends with dissolution of CZE
 316,317,1993-01-01,2016-12-01,1993,01,2016,12,1,Begins with SLO system entry
 317,369,1993-01-01,2016-12-01,1993,01,2016,12,1,Begins with SLO system entry
 325,327,1816-01-01,1860-11-01,1816,01,1860,11,4,Across Tyrrhenian Sea; through Sardinia; ends with ITA absorption of PAP
-325,329,1860-11-01,1861-02-01,1860,11,1861,02,1,Through Papal States and Naples; begins with ITA absorption of PAP; ends with ITA absorption of SIC
+325,329,1860-11-01,1861-02-01,1860,11,1861,02,1,Through Papal States & Naples; begins with ITA absorption of PAP; ends with ITA absorption of SIC
 325,331,1992-03-01,2016-12-01,1992,03,2016,12,1,Begins with SNM system entry
 325,332,1842-01-01,1860-03-01,1842,01,1860,03,1,Begins with MOD system entry; ends with ITA absorption of MOD
 325,335,1851-01-01,1860-03-01,1851,01,1860,03,1,Begins with PMA system entry; ends with ITA absorption of PMA
@@ -361,7 +361,7 @@ StateA,StateB,StartDate,EndDate,StartYear,StartMonth,EndYear,EndMonth,Type,Notes
 325,616,1861-02-01,1881-05-01,1861,02,1881,05,4,Across Mediterranean Sea (through Sicily); begins with ITA absorption of SIC; ends with FRN occupation of TUN
 325,616,1956-03-01,2016-12-01,1956,03,2016,12,4,Across Mediterranean Sea (through Sicily); resumes with TUN system reentry
 325,620,1951-12-01,2016-12-01,1951,12,2016,12,5,Across Mediterranean Sea (through Sicily); begins with LIB system entry
-325,640,1861-02-01,1912-10-01,1861,02,1912,10,4,Across Mediterranean Sea (through Lampedusa Island and Libya); begins with ITA absorption of SIC; ends with ITA acquisition of Libya
+325,640,1861-02-01,1912-10-01,1861,02,1912,10,4,Across Mediterranean Sea (through Lampedusa Island & Libya); begins with ITA absorption of SIC; ends with ITA acquisition of Libya
 327,329,1816-01-01,1860-11-01,1816,01,1860,11,1,Ends with ITA absorption of PAP
 327,332,1842-01-01,1860-03-01,1842,01,1860,03,1,Begins with MOD system entry; ends with ITA absorption of MOD
 327,337,1816-01-01,1860-03-01,1816,01,1860,03,1,Ends with ITA absorption of TUS
@@ -379,7 +379,7 @@ StateA,StateB,StartDate,EndDate,StartYear,StartMonth,EndYear,EndMonth,Type,Notes
 339,343,1993-04-01,2016-12-01,1993,04,2016,12,1,Begins with MAC system entry
 339,344,1992-01-01,2016-12-01,1992,01,2016,12,4,Across Adriatic Sea; begins with CRO system entry
 339,345,1914-01-01,1939-04-01,1914,01,1939,04,1,Through Montenegro and Kosovo; ends with ITA occupation of ALB
-339,345,1944-11-01,2008-02-01,1944,11,2008,02,1,Through Kosovo and (until 2006) Montenegro; resumes after ALB and YUG reenter system; ends with KOS independence
+339,345,1944-11-01,2008-02-01,1944,11,2008,02,1,Through Kosovo and (until 2006) Montenegro; resumes after ALB & YUG reenter system; ends with KOS independence
 339,347,2008-02-01,2016-12-01,2008,02,2016,12,1,Begins with KOS system entry
 339,350,1914-01-01,1939-04-01,1914,01,1939,04,1,Begins with ALB system entry; ends with ITA occupation of ALB
 339,350,1944-11-01,2016-12-01,1944,11,2016,12,1,Resumes after ITA occupation of ALB ends
@@ -397,7 +397,7 @@ StateA,StateB,StartDate,EndDate,StartYear,StartMonth,EndYear,EndMonth,Type,Notes
 344,350,1992-01-01,2016-12-01,1992,01,2016,12,5,Across Adriatic and Strait of Otranto (through Othonoi Island near Corfu); begins with CRO system entry
 345,346,1992-04-01,2016-12-01,1992,04,2016,12,1,Through Serbia/Kosovo and (until 2006) Montenegro; begins with BOS system entry
 345,347,2008-02-01,2016-12-01,2008,02,2016,12,1,Begins with KOS system entry
-345,350,1913-08-01,1941-04-01,1913,08,1941,04,1,Through Macedonia; begins after Balkan wars; ends with WW2 occupation of YUG and GRC
+345,350,1913-08-01,1941-04-01,1913,08,1941,04,1,Through Macedonia; begins after Balkan wars; ends with WW2 occupation of YUG & GRC
 345,350,1944-11-01,1993-04-01,1944,11,1993,04,1,Through Macedonia (FYROM); resumes after YUG reenters system; ends with MAC secession from YUG
 345,355,1908-10-01,1941-04-01,1908,10,1941,04,1,Through Serbia; begins with BUL system entry; ends with GMY occupation of YUG
 345,355,1944-11-01,2016-12-01,1944,11,2016,12,1,Through Serbia; resumes after GMY occupation of YUG ends

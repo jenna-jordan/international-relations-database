@@ -1,0 +1,695 @@
+WarID,Region
+1,Europe
+4,Europe
+4,Middle East
+7,W. Hemisphere
+10,Europe
+13,Europe
+16,Europe
+19,W. Hemisphere
+22,Europe
+25,Middle East
+28,Europe
+31,Middle East
+34,Europe
+37,Europe
+40,W. Hemisphere
+43,W. Hemisphere
+46,Europe
+49,W. Hemisphere
+52,W. Hemisphere
+55,Europe
+58,Europe
+60,W. Hemisphere
+61,Middle East
+61,Europe
+64,W. Hemisphere
+65,Middle East
+67,Asia
+70,W. Hemisphere
+73,Asia
+76,Europe
+79,W. Hemisphere
+79,Asia
+82,Asia
+83,Asia
+85,Asia
+88,W. Hemisphere
+91,W. Hemisphere
+94,Middle East
+97,Middle East
+100,Europe
+100,Europe
+100,Middle East
+103,Europe
+106,Africa
+106,Middle East
+106,Middle East
+106,Middle East
+106,Africa
+106,Asia
+106,Europe
+106,Middle East
+106,Asia
+106,Europe
+106,Europe
+106,Europe
+107,Europe
+108,Europe
+109,Europe
+112,Europe
+115,Middle East
+115,Europe
+116,Middle East
+117,Europe
+118,Asia
+121,Asia
+124,W. Hemisphere
+125,Middle East
+127,Africa
+130,Asia
+133,Asia
+136,Asia
+139,Middle East
+139,Middle East
+139,Asia
+139,Asia
+139,Oceania
+139,Middle East
+139,Europe
+139,Asia
+139,Africa
+139,Europe
+139,Asia
+139,Asia
+139,Africa
+139,Europe
+139,Europe
+139,Africa
+139,Africa
+139,Middle East
+139,Asia
+139,Africa
+139,Europe
+139,Oceania
+139,Oceania
+142,Europe
+145,Asia
+147,Asia
+148,Middle East
+151,Asia
+153,Asia
+155,Middle East
+156,Europe
+158,Middle East
+159,Asia
+160,Asia
+163,Asia
+166,Asia
+169,Middle East
+170,Asia
+172,Middle East
+175,W. Hemisphere
+176,Asia
+178,Asia
+181,Middle East
+184,Europe
+186,Africa
+187,Africa
+189,Asia
+190,Africa
+193,Asia
+199,Middle East
+202,W. Hemisphere
+205,Middle East
+207,Middle East
+207,Africa
+208,Asia
+211,Middle East
+215,Europe
+216,Europe
+217,W. Hemisphere
+219,Africa
+221,Europe
+223,Asia
+225,Asia
+227,Middle East
+300,Middle East
+301,Middle East
+302,W. Hemisphere
+303,W. Hemisphere
+304,W. Hemisphere
+305,Asia
+306,Asia
+307,Africa
+308,W. Hemisphere
+309,Middle East
+310,Asia
+311,Africa
+312,W. Hemisphere
+313,Asia
+314,Asia
+315,W. Hemisphere
+316,Middle East
+317,W. Hemisphere
+319,Middle East
+320,Middle East
+321,Africa
+322,Asia
+323,Asia
+324,Middle East
+325,W. Hemisphere
+326,Asia
+327,W. Hemisphere
+329,Asia
+330,Middle East
+331,Asia
+332,Europe
+333,Africa
+334,Asia
+335,Asia
+336,Asia
+337,Africa
+338,Middle East
+339,Asia
+340,Africa
+341,Asia
+342,Middle East
+343,Asia
+345,Africa
+347,Asia
+349,Asia
+350,Asia
+351,W. Hemisphere
+352,Europe
+353,W. Hemisphere
+355,Oceania
+356,Asia
+357,Asia
+359,Asia
+360,Asia
+361,Asia
+362,Africa
+363,W. Hemisphere
+364,Middle East
+365,Middle East
+366,Middle East
+367,Africa
+369,Asia
+370,Asia
+371,Asia
+372,Africa
+373,Europe
+374,Africa
+375,Middle East
+376,Asia
+377,Europe
+379,Asia
+380,Africa
+381,Africa
+382,Africa
+383,Middle East
+384,Middle East
+385,Asia
+386,Africa
+387,Asia
+389,Africa
+390,Asia
+391,Europe
+392,Africa
+393,Africa
+394,Africa
+395,Africa
+396,Africa
+397,Africa
+398,Africa
+399,Middle East
+400,Africa
+401,Africa
+402,Asia
+403,Africa
+404,W. Hemisphere
+405,Asia
+406,Africa
+407,Africa
+409,Middle East
+410,Asia
+411,Africa
+412,Asia
+413,Africa
+414,Asia
+415,Africa
+416,Africa
+417,Africa
+419,Africa
+420,Africa
+421,Africa
+422,Africa
+423,Africa
+424,Asia
+425,Asia
+426,Africa
+427,Africa
+429,Africa
+430,Africa
+431,Africa
+432,Asia
+433,Africa
+434,Middle East
+435,Asia
+436,Middle East
+437,Asia
+440,Asia
+441,W. Hemisphere
+442,Asia
+443,Asia
+444,Middle East
+445,Middle East
+446,Asia
+447,Middle East
+449,Middle East
+450,Asia
+451,Middle East
+452,Asia
+453,Asia
+454,Middle East
+455,Asia
+456,Asia
+457,Asia
+459,Africa
+460,Asia
+461,Asia
+462,Asia
+463,Middle East
+464,Africa
+465,Middle East
+466,Middle East
+467,Africa
+469,Africa
+471,Africa
+472,Asia
+473,Africa
+474,Middle East
+475,Asia
+476,Asia
+477,Middle East
+479,Middle East
+480,Middle East
+481,Asia
+482,Middle East
+500,Europe
+501,Middle East
+502,Europe
+503,Europe
+505,Europe
+506,Europe
+507,Middle East
+508,Middle East
+510,Europe
+511,Europe
+512,Europe
+513,Europe
+515,Europe
+516,Middle East
+517,Europe
+518,Middle East
+520,W. Hemisphere
+521,Middle East
+522,Europe
+523,Europe
+525,W. Hemisphere
+526,W. Hemisphere
+527,W. Hemisphere
+528,Europe
+530,Europe
+531,W. Hemisphere
+532,Middle East
+533,Middle East
+535,Middle East
+536,W. Hemisphere
+537,Middle East
+538,W. Hemisphere
+540,Europe
+541,W. Hemisphere
+542,Middle East
+543,Middle East
+545,W. Hemisphere
+546,Europe
+547,Europe
+548,W. Hemisphere
+550,Europe
+551,Europe
+552,Europe
+553,W. Hemisphere
+554,Europe
+555,W. Hemisphere
+556,Europe
+557,W. Hemisphere
+558,W. Hemisphere
+560,W. Hemisphere
+561,W. Hemisphere
+562,Europe
+563,W. Hemisphere
+565,W. Hemisphere
+566,Middle East
+567,Asia
+568,Asia
+570,Asia
+571,Asia
+572,W. Hemisphere
+573,W. Hemisphere
+575,Europe
+576,Asia
+577,W. Hemisphere
+578,W. Hemisphere
+580,Europe
+581,W. Hemisphere
+582,Asia
+583,Europe
+585,Asia
+586,W. Hemisphere
+587,W. Hemisphere
+588,Asia
+590,W. Hemisphere
+591,Europe
+592,W. Hemisphere
+593,W. Hemisphere
+595,W. Hemisphere
+596,Europe
+597,Europe
+598,Europe
+600,W. Hemisphere
+601,Europe
+602,W. Hemisphere
+603,Asia
+605,W. Hemisphere
+607,Asia
+608,W. Hemisphere
+610,W. Hemisphere
+611,W. Hemisphere
+612,W. Hemisphere
+613,W. Hemisphere
+616,Middle East
+617,W. Hemisphere
+618,Asia
+620,W. Hemisphere
+621,W. Hemisphere
+623,Asia
+625,W. Hemisphere
+626,W. Hemisphere
+627,W. Hemisphere
+628,Asia
+630,Middle East
+631,Europe
+632,W. Hemisphere
+633,W. Hemisphere
+635,W. Hemisphere
+636,W. Hemisphere
+638,W. Hemisphere
+640,Europe
+641,W. Hemisphere
+642,Middle East
+643,Europe
+645,Europe
+646,Middle East
+647,Middle East
+648,Middle East
+650,Europe
+651,Middle East
+652,W. Hemisphere
+656,W. Hemisphere
+657,Asia
+658,W. Hemisphere
+670,W. Hemisphere
+671,Asia
+672,Asia
+673,W. Hemisphere
+675,Asia
+676,Europe
+677,Europe
+680,Europe
+681,Europe
+682,Europe
+683,Europe
+685,Asia
+686,Europe
+687,Middle East
+688,Europe
+690,Europe
+691,Europe
+692,Asia
+693,Europe
+695,W. Hemisphere
+696,W. Hemisphere
+697,Asia
+698,Asia
+700,Asia
+701,W. Hemisphere
+702,Middle East
+703,Asia
+705,Asia
+706,Asia
+707,W. Hemisphere
+708,Middle East
+710,Asia
+711,Asia
+712,W. Hemisphere
+713,W. Hemisphere
+715,W. Hemisphere
+716,Asia
+717,Europe
+718,Europe
+720,Europe
+721,Europe
+722,Europe
+723,Europe
+725,Asia
+726,Asia
+727,W. Hemisphere
+728,Middle East
+730,W. Hemisphere
+731,W. Hemisphere
+732,Asia
+733,Asia
+735,Asia
+737,W. Hemisphere
+738,Asia
+740,W. Hemisphere
+741,Asia
+742,Asia
+743,Middle East
+745,W. Hemisphere
+746,Asia
+747,Middle East
+748,Asia
+750,Africa
+751,Asia
+752,Middle East
+753,Middle East
+755,Middle East
+756,Asia
+757,Africa
+758,Middle East
+760,Africa
+761,Africa
+762,Africa
+763,Africa
+765,Middle East
+766,W. Hemisphere
+767,Asia
+768,Africa
+770,W. Hemisphere
+771,Africa
+772,Asia
+773,Asia
+775,Africa
+776,Asia
+777,Middle East
+778,Asia
+780,Middle East
+781,W. Hemisphere
+782,Asia
+783,Asia
+785,Asia
+786,Asia
+787,Asia
+788,Africa
+789,Africa
+790,Asia
+791,Africa
+792,Asia
+793,W. Hemisphere
+795,Middle East
+797,Middle East
+798,Africa
+800,W. Hemisphere
+801,Middle East
+802,Asia
+803,Asia
+804,Africa
+805,Africa
+806,Asia
+807,Middle East
+808,Africa
+809,W. Hemisphere
+810,Asia
+811,Africa
+812,Asia
+813,Middle East
+815,W. Hemisphere
+816,Middle East
+817,W. Hemisphere
+818,Africa
+820,Africa
+822,Africa
+823,Africa
+825,Middle East
+826,Africa
+827,W. Hemisphere
+828,W. Hemisphere
+831,Africa
+832,Asia
+833,Middle East
+835,Asia
+836,Middle East
+837,Asia
+838,Middle East
+840,Middle East
+842,Middle East
+843,Africa
+845,Asia
+846,Africa
+847,Asia
+848,Africa
+850,Middle East
+851,Asia
+852,Africa
+853,Asia
+854,Asia
+856,W. Hemisphere
+857,Asia
+858,Europe
+860,Africa
+861,Asia
+862,Middle East
+863,Africa
+864,Europe
+865,Middle East
+866,Africa
+868,Africa
+870,Africa
+871,Europe
+872,Europe
+873,Europe
+875,Middle East
+876,Asia
+877,Europe
+878,Africa
+880,Africa
+881,Asia
+882,Europe
+883,Africa
+885,Middle East
+886,Africa
+888,Europe
+890,Middle East
+891,Europe
+892,Africa
+893,Middle East
+895,Africa
+896,Africa
+897,Africa
+898,Africa
+900,Europe
+902,Africa
+905,Africa
+906,Africa
+907,Africa
+908,Africa
+910,Asia
+911,Africa
+912,Asia
+913,Africa
+915,Europe
+916,Asia
+917,Africa
+918,Africa
+920,Africa
+921,Asia
+922,Africa
+923,Africa
+925,Africa
+926,Asia
+927,Middle East
+930,Asia
+931,Asia
+932,Asia
+933,Africa
+935,Middle East
+936,Asia
+937,Africa
+938,Africa
+940,Asia
+941,Middle East
+1500,Oceania
+1501,Africa
+1502,Asia
+1503,W. Hemisphere
+1505,Oceania
+1506,Asia
+1508,Asia
+1509,W. Hemisphere
+1510,W. Hemisphere
+1511,Asia
+1512,W. Hemisphere
+1513,W. Hemisphere
+1514,Africa
+1515,Asia
+1516,Asia
+1518,W. Hemisphere
+1520,W. Hemisphere
+1521,Africa
+1523,W. Hemisphere
+1524,Asia
+1525,Africa
+1527,W. Hemisphere
+1528,W. Hemisphere
+1530,Asia
+1531,W. Hemisphere
+1533,Asia
+1534,Asia
+1535,Africa
+1536,Asia
+1537,Asia
+1538,W. Hemisphere
+1539,Asia
+1540,W. Hemisphere
+1541,Asia
+1542,Africa
+1543,Asia
+1544,Africa
+1545,Africa
+1546,Africa
+1548,Africa
+1550,W. Hemisphere
+1551,Oceania
+1552,Africa
+1553,Africa
+1554,W. Hemisphere
+1556,Africa
+1557,Middle East
+1558,Oceania
+1559,Africa
+1560,Africa
+1561,Africa
+1567,Middle East
+1568,Middle East
+1570,Asia
+1571,Asia
+1572,Middle East
+1573,Asia
+1574,Africa
+1577,Middle East
+1581,Africa
+1582,Asia
+1594,Africa

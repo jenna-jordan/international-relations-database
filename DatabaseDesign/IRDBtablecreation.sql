@@ -1,9 +1,9 @@
 CREATE TABLE POLITY
   ( PolityID	    NUMBER(5) NOT NULL,
     PolityName	  VARCHAR2(100),
-    PolityType    VARCHAR2(30), IN('State', 'Territory', 'NonState Group', 'International Organization')
+    PolityType    VARCHAR2(30) CHECK (PolityType IN('State', 'Territory', 'NonState Group', 'International Organization')),
     StateAbbr	    VARCHAR2(3),
-  CONSTRAINT STATE_PK PRIMARY KEY (StateID)
+  CONSTRAINT POLITY_PK PRIMARY KEY (PolityID)
   );
 
 CREATE TABLE STATE_DATES
@@ -45,7 +45,7 @@ CREATE TABLE TERRITORY_DATES
     EndYear            NUMBER(4) NOT NULL,
     EndingStatus       VARCHAR2(100) NOT NULL,
     ReferencedPolityID NUMBER(5),
-  CONSTRAINT TERRITORY_PK PRIMARY KEY (TerritoryID),
+  CONSTRAINT TERRITORY_PK PRIMARY KEY (TerritoryID, StartYear, EndYear, ReferencedPolityID),
   CONSTRAINT TERRDATESTERR_TO_POLITY FOREIGN KEY (TerritoryID)
     REFERENCES POLITY (PolityID),
   CONSTRAINT TERRDATESPOL_TO_POLITY FOREIGN KEY (ReferencedPolityID)
@@ -53,7 +53,7 @@ CREATE TABLE TERRITORY_DATES
   );
 
 CREATE TABLE TERRITORIALCHANGE
-  ( TerritorialChangeID	NUMBER() NOT NULL,
+  ( TerritorialChangeID	NUMBER(3) NOT NULL,
     Gainer	            NUMBER(5),
     Loser	              NUMBER(5),
     TransferDate	      DATE,
@@ -176,7 +176,7 @@ CREATE TABLE WAR
   CONSTRAINT WAR_PK PRIMARY KEY (WarID)
   );
 
-CREATE TABLE WAR_LOCATION
+CREATE TABLE WAR_LOCATIONS
   ( WarID	  NUMBER(4) NOT NULL,
     Region	VARCHAR2(15) NOT NULL,
   CONSTRAINT WAR_LOCATION_PK PRIMARY KEY (WarID, Region),

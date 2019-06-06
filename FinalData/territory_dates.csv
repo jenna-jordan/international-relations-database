@@ -1,4 +1,4 @@
-PolityID,StartYear,EndYear,EndingStatus,ReferencedPolityID
+TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 3,1816,1867,Became colony of Russia,365
 3,1867,1959,Became colony of United States of America,2
 3,1959,1993,Became part of United States of America,2

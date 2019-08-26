@@ -1,4 +1,4 @@
-# international-relations-database
+# Correlates of War Database
 
 ## Project Guide
 SourceData contains the csv and pdf files downloaded from the [Correlates of War website](http://www.correlatesofwar.org/data-sets). In some cases these files have been re-saved with UTF-8 encoding, and in a few cases data-entry errors have been hand-corrected. All changes have been documented in the relevant Jupyter notebook.
@@ -12,8 +12,6 @@ DatabaseCreation contains the python script for creating the database file (incl
 DataTransformation containst the Jupyter notebooks with the code for transforming the files from SourceData into the files in FinalData. There are 5 Jupyter notebooks which correspond to the 5 main entities of the database - State, Territory, IGO, Alliance, and War. The code for the data transformation for each entity is contained in these notebooks.
 
 ## Data Sources: Citations
-
-### Correlates of War
 
 - [COW Country Codes](http://www.correlatesofwar.org/data-sets/cow-country-codes)
 

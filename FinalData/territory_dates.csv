@@ -362,14 +362,25 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 1097,1816,1903,Became part of Colombia,100
 1097,1903,1979,Became part of Panama Canal Zone,96
 1097,1979,1993,Leased to United States of America,2
+1101,9999,1981,Claimed by United States of America,2
+1101,9999,1981,Claimed by Colombia,100
 1101,1981,1993,Became part of Colombia,100
+1102,9999,1981,Claimed by United States of America,2
+1102,9999,1981,Claimed by Colombia,100
 1102,1981,1993,Became part of Colombia,100
+1103,9999,1981,Claimed by United States of America,2
+1103,9999,1981,Claimed by Colombia,100
 1103,1981,1993,Became part of Colombia,100
+1104,9999,1981,Claimed by Colombia,100
+1104,9999,1981,Claimed by United States of America,2
 1104,1981,1993,Became part of Colombia,100
 1105,1819,1928,Claimed by Colombia,100
 1105,1839,1928,Claimed by Nicaragua,93
 1105,1928,1993,Became part of Colombia,100
 1106,1819,1993,Became possession of Colombia,100
+1111,9999,9999,Claimed by Venezuela,101
+1111,9999,9999,Claimed by Netherlands,210
+1111,9999,1993,Became possession of Venezuela,101
 1112,1940,1945,Leased to United States of America,2
 1112,1945,1993,Became part of Guyana,110
 1113,1816,1831,Became colony of United Kingdom,200
@@ -381,9 +392,12 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 1151,1888,1965,Became colony of Chile,155
 1151,1965,1993,Became part of Chile,155
 1152,1816,1987,Became part of Suriname,115
+1152,9999,1965,Became possession of Chile,155
 1152,1965,1993,Became part of Chile,155
 1152,1991,1993,Became part of Suriname,115
+1153,9999,1965,Became possession of Chile,155
 1153,1965,1993,Became part of Chile,155
+1154,9999,1965,Became possession of Chile,155
 1154,1965,1993,Became part of Chile,155
 1156,1884,1993,Became part of Chile,155
 1160,1816,1993,Became part of Bolivia,145
@@ -412,6 +426,8 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 1201,1816,1930,Became part of French Guyana,120
 1201,1930,1946,Became colony of France,220
 1201,1946,1993,Became part of French Guyana,120
+1301,1832,9999,Became colony of Ecuador,130
+1301,9999,1993,Became part of Ecuador,130
 1352,1816,1817,Became part of Viceroyalty of Peru,1135
 1352,1864,1865,Occupied by Spain,230
 1352,1865,1993,Became part of Peru,135
@@ -466,6 +482,7 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 260,1945,1955,Occupied by United States of America,2
 260,1990,1993,Became part of Germany,255
 261,1867,1945,Became part of Germany,255
+262,1816,1827,Became part of Unknown (263),9999
 264,1867,1945,Became part of Germany,255
 265,1871,1945,Became part of Germany,255
 265,1945,1954,Occupied by Russia,365
@@ -617,17 +634,22 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 2251,1816,1993,Became part of Switzerland,225
 2292,1846,1918,Became part of Austria-Hungary,300
 2292,1918,1993,Became part of Poland,290
+2311,9999,1993,Became neutral or demilitarized zone of Spain,230
 2333,1816,1993,Became neutral or demilitarized zone of France,220
 2481,1816,1867,Became part of Hamburg,248
 2481,1867,1945,Became part of Germany,255
 2482,1866,1920,Became part of Germany,255
+2482,1920,1920,Occupied by Unknown,9999
 2482,1920,1945,Became part of Germany,255
 2482,1920,1993,Became part of Denmark,390
 2551,1816,1920,Became part of Germany,255
 2551,1920,1945,Became part of Germany,255
+2551,1920,1920,Occupied by Unknown,9999
 2552,1816,1920,Became part of Germany,255
 2552,1920,1945,Became part of Germany,255
+2552,1920,1920,Occupied by Unknown,9999
 2553,1816,1921,Became part of Germany,255
+2553,1921,1921,Occupied by Unknown,9999
 2553,1921,1945,Became part of Germany,255
 2553,1921,1993,Became part of Poland,290
 2556,1816,1919,Became part of Germany,255
@@ -644,6 +666,7 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 2661,1867,1945,Became part of Germany,255
 3051,1816,1920,Became part of Austria-Hungary,300
 3051,1920,1993,Became part of Austria,305
+3051,1920,1920,Occupied by Unknown,9999
 3052,1816,1918,Became part of Austria-Hungary,300
 3052,1919,1993,Became part of Austria,305
 3053,1816,1918,Became part of Austria-Hungary,300
@@ -939,6 +962,7 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 515,1922,1962,Mandated to Belgium,211
 515,1962,1993,Became part of Burundi,516
 517,1891,1962,Became part of Rwanda-Urundi,515
+520,1884,1960,Became part of Unknown (5210),9999
 520,1889,1960,Became part of Italian Somaliland,5200
 521,1884,1940,Became protectorate of United Kingdom,200
 521,1940,1941,Occupied by Italy,325
@@ -1066,6 +1090,7 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 4338,1854,1859,Became possession of France,220
 4338,1854,1859,Became part of Gabon,481
 4338,1859,1993,Became part of Senegal,433
+4341,1816,1822,Became part of Unknown (4767),9999
 4341,1894,1895,Became part of Benin,434
 4341,1895,1958,Became part of French West Africa,430
 4342,1871,1894,Occupied by France,220
@@ -1155,6 +1180,7 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 4535,1871,1993,Became part of Ghana,452
 4536,1897,1957,Became protectorate of United Kingdom,200
 4536,1901,1993,Became part of Ghana,452
+4559,1887,9999,Became neutral or demilitarized zone of United Kingdom,200
 4711,1890,1919,Became part of Kamerun,470
 4711,1919,1992,Became part of Cameroon,471
 4735,1901,1993,Became part of Nigeria,475
@@ -1178,6 +1204,7 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 4762,1902,1993,Became part of Nigeria,475
 4764,1892,1900,Became part of Rabeh,4766
 4765,1892,1900,Became part of Rabeh,4766
+4766,1816,1892,Became part of Unknown (4763),9999
 4766,1900,1993,Became part of Nigeria,475
 4768,1893,1993,Became part of Nigeria,475
 4769,1893,1993,Became part of Nigeria,475
@@ -1326,6 +1353,7 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 5411,1919,1993,Became part of Mozambique,541
 5511,1900,1911,Became part of Northeastern Rhodesia,5518
 5512,1900,1911,Became part of Northeastern Rhodesia,5518
+5513,1838,1863,Became part of Unknown (5514),9999
 5513,1898,1899,Became part of Zimbabwe,552
 5515,1899,1993,Became part of Mozambique,541
 5516,1900,1993,Became part of Mozambique,541
@@ -1353,6 +1381,8 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 5531,1848,1860,Became part of Gwangara,5106
 5532,1821,1848,Became part of Zwangendaba Ngoni,5531
 5532,1891,1993,Became part of Malawi,553
+5601,1880,1883,Became part of Unknown (5630),9999
+5601,1887,1910,Became part of Unknown (5630),9999
 5602,1818,1910,Became part of Zulu,5601
 5603,1818,1910,Became part of Zulu,5601
 5606,1816,1919,Became possession of United Kingdom,200
@@ -1363,6 +1393,7 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 5612,1885,1895,Became colony of United Kingdom,200
 5612,1895,1910,Became part of Cape Colony,561
 5612,1910,1993,Became part of South Africa,560
+5613,1883,1885,Became part of Unknown (5605),9999
 5613,1885,1895,Became part of British Bechuanaland,5612
 5613,1895,1910,Became part of Cape Colony,561
 5613,1910,1993,Became part of South Africa,560
@@ -1397,7 +1428,12 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 5803,1853,1878,Became colony of France,220
 5803,1878,1896,Became part of Reunion,585
 5803,1896,1993,Became part of Madagascar,580
+5804,9999,1954,Became part of Seychelles,591
 5804,1954,1993,Became possession of France,220
+5805,9999,1993,Became possession of France,220
+5806,9999,1993,Became possession of France,220
+5807,9999,1993,Became possession of France,220
+5808,9999,1993,Became possession of France,220
 5809,1816,1825,Became possession of France,220
 5809,1825,1993,Became part of Madagascar,580
 5811,1886,1914,Became colony of France,220
@@ -1434,7 +1470,9 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 605,1969,1993,Became part of Morocco,600
 609,1884,1958,Became part of Spanish West Africa,610
 609,1958,1975,Became colony of Spain,230
+609,1975,9999,Occupied by Morocco,600
 609,1976,1979,Occupied by Mauritania,435
+609,9999,1993,Became part of Morocco,600
 610,1884,1934,Became protectorate of Spain,230
 610,1934,1958,Became colony of Spain,230
 610,1958,1975,Became part of Spanish Sahara,609
@@ -1736,6 +1774,10 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 6968,1816,1886,Became part of Sharjah,6963
 6968,1886,1971,Became protectorate of United Kingdom,200
 6968,1971,1993,Became part of United Arab Emirates,696
+6969,9999,9999,Claimed by Dubai,6962
+6969,9999,9999,Claimed by Abu Dhabi,6961
+6969,9999,1971,Became neutral or demilitarized zone of Dubai,6962
+6969,9999,1971,Became neutral or demilitarized zone of Abu Dhabi,6961
 6969,1971,1993,Became part of United Arab Emirates,696
 6971,1816,1971,Became part of Sharjah,6963
 6971,1971,1992,Became part of United Arab Emirates,696
@@ -1745,6 +1787,10 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 6982,1816,1854,Became part of Oman,698
 6982,1854,1967,Became possession of United Kingdom,200
 6982,1967,1993,Became part of Oman,698
+6983,9999,9999,Claimed by Oman,698
+6983,9999,9999,Claimed by Sharjah,6963
+6983,9999,1971,Became neutral or demilitarized zone of Oman,698
+6983,9999,1971,Became neutral or demilitarized zone of Sharjah,6963
 6983,1971,1993,Became neutral or demilitarized zone of United Arab Emirates,696
 6983,1971,1993,Became neutral or demilitarized zone of Oman,698
 700,1819,1855,Became part of Kabul,7001
@@ -1935,6 +1981,7 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 7105,1898,1930,Leased to United Kingdom,200
 7105,1930,1993,Became part of China,710
 7106,1816,1900,Became part of China,710
+7106,1900,1907,Occupied by Unknown (9998),9999
 7106,1907,1993,Became part of China,710
 7107,1816,1917,Became part of China,710
 7107,1920,1928,Became part of Manchuria,7111
@@ -2246,6 +2293,8 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 8122,1885,1893,Became part of Thailand,800
 8122,1893,1949,Became part of French Indochina,810
 8122,1949,1993,Became part of Laos,812
+8123,1832,9999,Became part of Vietnam,815
+8123,9999,1949,Became part of French Indochina,810
 8123,1949,1993,Became part of Laos,812
 8124,1885,1949,Became part of French Indochina,810
 8124,1949,1993,Became part of Laos,812
@@ -2417,6 +2466,7 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 955,1816,1833,Became part of Vava'u,9551
 955,1900,1970,Became protectorate of United Kingdom,200
 960,1903,1993,Became colony of France,220
+970,1888,1914,Became part of Unknown (9830),9999
 970,1914,1919,Occupied by Australia,900
 970,1919,1942,Mandated to Australia,900
 970,1942,1945,Occupied by Japan,740
@@ -2509,10 +2559,15 @@ TerritoryID,StartYear,EndYear,EndingStatus,ReferencedPolityID
 9454,1975,1993,Became part of Kiribati,946
 9461,1939,1979,Became possession of United Kingdom,200
 9461,1979,1993,Became part of Kiribati,946
+9462,9999,1979,Claimed by United Kingdom,200
 9462,1979,1993,Became part of Kiribati,946
+9463,9999,1979,Claimed by United Kingdom,200
 9463,1979,1993,Became part of Kiribati,946
+9464,9999,1979,Claimed by United Kingdom,200
 9464,1979,1993,Became part of Kiribati,946
+9465,9999,1979,Claimed by United Kingdom,200
 9465,1979,1993,Became part of Kiribati,946
+9466,9999,1979,Claimed by United Kingdom,200
 9466,1979,1993,Became part of Kiribati,946
 9501,1881,1988,Became part of Fiji,950
 9501,1988,1993,Became part of Fiji,950

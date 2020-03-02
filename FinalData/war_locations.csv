@@ -21,8 +21,8 @@ WarID,Region
 55,Europe
 58,Europe
 60,W. Hemisphere
-61,Middle East
 61,Europe
+61,Middle East
 64,W. Hemisphere
 65,Middle East
 67,Asia
@@ -41,16 +41,16 @@ WarID,Region
 100,Europe
 100,Middle East
 103,Europe
-106,Africa
-106,Middle East
-106,Asia
 106,Europe
+106,Middle East
+106,Africa
+106,Asia
 107,Europe
 108,Europe
 109,Europe
 112,Europe
-115,Middle East
 115,Europe
+115,Middle East
 116,Middle East
 117,Europe
 118,Asia
@@ -61,11 +61,11 @@ WarID,Region
 130,Asia
 133,Asia
 136,Asia
+139,Europe
+139,Africa
 139,Middle East
 139,Asia
 139,Oceania
-139,Europe
-139,Africa
 142,Europe
 145,Asia
 147,Asia
@@ -95,8 +95,8 @@ WarID,Region
 199,Middle East
 202,W. Hemisphere
 205,Middle East
-207,Middle East
 207,Africa
+207,Middle East
 208,Asia
 211,Middle East
 215,Europe
@@ -107,169 +107,6 @@ WarID,Region
 223,Asia
 225,Asia
 227,Middle East
-300,Middle East
-301,Middle East
-302,W. Hemisphere
-303,W. Hemisphere
-304,W. Hemisphere
-305,Asia
-306,Asia
-307,Africa
-308,W. Hemisphere
-309,Middle East
-310,Asia
-311,Africa
-312,W. Hemisphere
-313,Asia
-314,Asia
-315,W. Hemisphere
-316,Middle East
-317,W. Hemisphere
-319,Middle East
-320,Middle East
-321,Africa
-322,Asia
-323,Asia
-324,Middle East
-325,W. Hemisphere
-326,Asia
-327,W. Hemisphere
-329,Asia
-330,Middle East
-331,Asia
-332,Europe
-333,Africa
-334,Asia
-335,Asia
-336,Asia
-337,Africa
-338,Middle East
-339,Asia
-340,Africa
-341,Asia
-342,Middle East
-343,Asia
-345,Africa
-347,Asia
-349,Asia
-350,Asia
-351,W. Hemisphere
-352,Europe
-353,W. Hemisphere
-355,Oceania
-356,Asia
-357,Asia
-359,Asia
-360,Asia
-361,Asia
-362,Africa
-363,W. Hemisphere
-364,Middle East
-365,Middle East
-366,Middle East
-367,Africa
-369,Asia
-370,Asia
-371,Asia
-372,Africa
-373,Europe
-374,Africa
-375,Middle East
-376,Asia
-377,Europe
-379,Asia
-380,Africa
-381,Africa
-382,Africa
-383,Middle East
-384,Middle East
-385,Asia
-386,Africa
-387,Asia
-389,Africa
-390,Asia
-391,Europe
-392,Africa
-393,Africa
-394,Africa
-395,Africa
-396,Africa
-397,Africa
-398,Africa
-399,Middle East
-400,Africa
-401,Africa
-402,Asia
-403,Africa
-404,W. Hemisphere
-405,Asia
-406,Africa
-407,Africa
-409,Middle East
-410,Asia
-411,Africa
-412,Asia
-413,Africa
-414,Asia
-415,Africa
-416,Africa
-417,Africa
-419,Africa
-420,Africa
-421,Africa
-422,Africa
-423,Africa
-424,Asia
-425,Asia
-426,Africa
-427,Africa
-429,Africa
-430,Africa
-431,Africa
-432,Asia
-433,Africa
-434,Middle East
-435,Asia
-436,Middle East
-437,Asia
-440,Asia
-441,W. Hemisphere
-442,Asia
-443,Asia
-444,Middle East
-445,Middle East
-446,Asia
-447,Middle East
-449,Middle East
-450,Asia
-451,Middle East
-452,Asia
-453,Asia
-454,Middle East
-455,Asia
-456,Asia
-457,Asia
-459,Africa
-460,Asia
-461,Asia
-462,Asia
-463,Middle East
-464,Africa
-465,Middle East
-466,Middle East
-467,Africa
-469,Africa
-471,Africa
-472,Asia
-473,Africa
-474,Middle East
-475,Asia
-476,Asia
-477,Middle East
-479,Middle East
-480,Middle East
-481,Asia
-482,Middle East
 500,Europe
 501,Middle East
 502,Europe
@@ -604,6 +441,169 @@ WarID,Region
 938,Africa
 940,Asia
 941,Middle East
+300,Middle East
+301,Middle East
+302,W. Hemisphere
+303,W. Hemisphere
+304,W. Hemisphere
+305,Asia
+306,Asia
+307,Africa
+308,W. Hemisphere
+309,Middle East
+310,Asia
+311,Africa
+312,W. Hemisphere
+313,Asia
+314,Asia
+315,W. Hemisphere
+316,Middle East
+317,W. Hemisphere
+319,Middle East
+320,Middle East
+321,Africa
+322,Asia
+323,Asia
+324,Middle East
+325,W. Hemisphere
+326,Asia
+327,W. Hemisphere
+329,Asia
+330,Middle East
+331,Asia
+332,Europe
+333,Africa
+334,Asia
+335,Asia
+336,Asia
+337,Africa
+338,Middle East
+339,Asia
+340,Africa
+341,Asia
+342,Middle East
+343,Asia
+345,Africa
+347,Asia
+349,Asia
+350,Asia
+351,W. Hemisphere
+352,Europe
+353,W. Hemisphere
+355,Oceania
+356,Asia
+357,Asia
+359,Asia
+360,Asia
+361,Asia
+362,Africa
+363,W. Hemisphere
+364,Middle East
+365,Middle East
+366,Middle East
+367,Africa
+369,Asia
+370,Asia
+371,Asia
+372,Africa
+373,Europe
+374,Africa
+375,Middle East
+376,Asia
+377,Europe
+379,Asia
+380,Africa
+381,Africa
+382,Africa
+383,Middle East
+384,Middle East
+385,Asia
+386,Africa
+387,Asia
+389,Africa
+390,Asia
+391,Europe
+392,Africa
+393,Africa
+394,Africa
+395,Africa
+396,Africa
+397,Africa
+398,Africa
+399,Middle East
+400,Africa
+401,Africa
+402,Asia
+403,Africa
+404,W. Hemisphere
+405,Asia
+406,Africa
+407,Africa
+409,Middle East
+410,Asia
+411,Africa
+412,Asia
+413,Africa
+414,Asia
+415,Africa
+416,Africa
+417,Africa
+419,Africa
+420,Africa
+421,Africa
+422,Africa
+423,Africa
+424,Asia
+425,Asia
+426,Africa
+427,Africa
+429,Africa
+430,Africa
+431,Africa
+432,Asia
+433,Africa
+434,Middle East
+435,Asia
+436,Middle East
+437,Asia
+440,Asia
+441,W. Hemisphere
+442,Asia
+443,Asia
+444,Middle East
+445,Middle East
+446,Asia
+447,Middle East
+449,Middle East
+450,Asia
+451,Middle East
+452,Asia
+453,Asia
+454,Middle East
+455,Asia
+456,Asia
+457,Asia
+459,Africa
+460,Asia
+461,Asia
+462,Asia
+463,Middle East
+464,Africa
+465,Middle East
+466,Middle East
+467,Africa
+469,Africa
+471,Africa
+472,Asia
+473,Africa
+474,Middle East
+475,Asia
+476,Asia
+477,Middle East
+479,Middle East
+480,Middle East
+481,Asia
+482,Middle East
 1500,Oceania
 1501,Africa
 1502,Asia

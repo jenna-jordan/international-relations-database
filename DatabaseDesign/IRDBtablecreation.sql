@@ -10,12 +10,6 @@ CREATE TABLE STATE_DATES
   ( StateID	    NUMBER(5) NOT NULL,
     StartDate	  DATE NOT NULL,
     EndDate	    DATE,
-    StartYear	  NUMBER(4),
-    StartMonth	NUMBER(2),
-    StartDay	  NUMBER(2),
-    EndYear	    NUMBER(4),
-    EndMonth	  NUMBER(2),
-    EndDay	    NUMBER(2),
   CONSTRAINT STATE_DATES_PK PRIMARY KEY (StateID, StartDate),
   CONSTRAINT STATEDATES_TO_POLITY FOREIGN KEY (StateID)
     REFERENCES POLITY (PolityID)
@@ -26,10 +20,6 @@ CREATE TABLE STATE_CONTIGUITY
     StateB	    NUMBER(5) NOT NULL,
     StartDate	  DATE NOT NULL,
     EndDate	    DATE,
-    StartYear	  NUMBER(4),
-    StartMonth	NUMBER(2),
-    EndYear	    NUMBER(4),
-    EndMonth	  NUMBER(2),
     Type	      NUMBER(1) CHECK (Type IN(1, 2, 3, 4, 5)),
     Notes	      VARCHAR2(200),
   CONSTRAINT STATE_CONTIGUITY_PK PRIMARY KEY (StateA, StateB, StartDate),
@@ -44,7 +34,7 @@ CREATE TABLE TERRITORY_DATES
     StartYear          NUMBER(4) NOT NULL,
     EndYear            NUMBER(4) NOT NULL,
     EndingStatus       VARCHAR2(100) NOT NULL,
-    ReferencedPolityID NUMBER(5),
+    ReferencedPolityID NUMBER(5) NOT NULL,
   CONSTRAINT TERRITORY_PK PRIMARY KEY (TerritoryID, StartYear, EndYear, ReferencedPolityID),
   CONSTRAINT TERRDATESTERR_TO_POLITY FOREIGN KEY (TerritoryID)
     REFERENCES POLITY (PolityID),
@@ -57,8 +47,7 @@ CREATE TABLE TERRITORIALCHANGE
     Gainer	            NUMBER(5),
     Loser	              NUMBER(5),
     TransferDate	      DATE,
-    Year	              NUMBER(4),
-    Month	              NUMBER(2),
+    TransferDate_Prec   VARCHAR2(5) CHECK (TransferDate_Prec IN('Month', 'Year')),
     Procedure	          NUMBER(1) CHECK (Procedure IN(1, 2, 3, 4, 5, 6)),
     TerritoryID	        NUMBER(5),
     TerritoryArea	      NUMBER,
@@ -103,7 +92,7 @@ CREATE TABLE IGO
     StartYear	    NUMBER(4),
     EndYear	      NUMBER(4),
     EndReason	    VARCHAR2(10),
-    Notes	        VARCHAR2(500),
+    Notes	        VARCHAR2(900),
   CONSTRAINT IGO_PK PRIMARY KEY (igoID)
   );
 
@@ -124,12 +113,6 @@ CREATE TABLE STATE_ALLIANCE
     AllianceType  VARCHAR2(30),
     StartDate	    DATE,
     EndDate	      DATE,
-    StartYear	    NUMBER(4),
-    StartMonth	  NUMBER(2),
-    StartDay	    NUMBER(2),
-    EndYear	      NUMBER(4),
-    EndMonth	    NUMBER(2),
-    EndDay	      NUMBER(2),
   CONSTRAINT STATE_ALLIANCE_PK PRIMARY KEY (AllianceID)
   );
 
@@ -138,12 +121,6 @@ CREATE TABLE ALLIANCE_MEMBERSHIP
     StateID	    NUMBER(5) NOT NULL,
     StartDate	  DATE NOT NULL,
     EndDate	    DATE,
-    StartYear	  NUMBER(4),
-    StartMonth	NUMBER(2),
-    StartDay	  NUMBER(2),
-    EndYear	    NUMBER(4),
-    EndMonth	  NUMBER(2),
-    EndDay	    NUMBER(2),
   CONSTRAINT ALLIANCE_MEMBERSHIP_PK PRIMARY KEY (AllianceID, StateID, StartDate),
   CONSTRAINT ALLIANCEMEM_TO_ALLIANCE FOREIGN KEY (AllianceID)
     REFERENCES STATE_ALLIANCE (AllianceID),
@@ -188,13 +165,9 @@ CREATE TABLE WAR_PARTICIPANTS
   ( WarID	      NUMBER(4) NOT NULL,
     PolityID	  NUMBER(5) NOT NULL,
     StartDate	  DATE NOT NULL,
+    StartDate_Prec VARCHAR2(5) CHECK (StartDate_Prec IN('Year', 'Month', 'Day')),
     EndDate	    DATE,
-    StartYear	  NUMBER(4),
-    StartMonth	NUMBER(2),
-    StartDay	  NUMBER(2),
-    EndYear	    NUMBER(4),
-    EndMonth	  NUMBER(2),
-    EndDay	    NUMBER(2),
+    EndDate_Prec VARCHAR2(7) CHECK (EndDate_Prec IN('Year', 'Month', 'Day', 'Ongoing')),
     Side	      VARCHAR2(1),
     IsInitiator	NUMBER(1) CHECK (IsInitiator IN (0, 1)),
     Outcome	    NUMBER(1) CHECK (Outcome IN (1, 2, 3, 4, 5, 6, 7, 8)),

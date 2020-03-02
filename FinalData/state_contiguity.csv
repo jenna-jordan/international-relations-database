@@ -1,848 +1,848 @@
-StateA,StateB,StartDate,EndDate,StartYear,StartMonth,EndYear,EndMonth,Type,Notes
-2,20,1920-01-01,2016-12-01,1920,01,2016,12,1,Begins with CAN system entry
-2,31,1973-07-01,2016-12-01,1973,07,2016,12,4,Across Atlantic Ocean (closest=Florida-Bimini); begins with BHM system entry
-2,40,1902-05-01,1906-09-01,1902,05,1906,09,4,Across Florida Straits (closest=Key West); begins with CUB system entry; ends with USA occupation of CUB
-2,40,1909-01-01,2016-12-01,1909,01,2016,12,4,Across Florida Straits (closest=Key West); resumes after USA occupation of CUB ends
-2,70,1831-01-01,2016-12-01,1831,01,2016,12,1,Begins with MEX system entry
-2,365,1959-01-01,2016-12-01,1959,01,2016,12,2,Across Bering Strait (closest=Alaska-Siberia); becomes interstate border with Alaskan statehood
-31,40,1973-07-01,2016-12-01,1973,07,2016,12,4,Across Atlantic Ocean (closest=Great Inagua); begins with BHM system entry
-31,41,1973-07-01,2016-12-01,1973,07,2016,12,4,Across Atlantic Ocean (closest=Great Inagua); begins with BHM system entry
-31,42,1973-07-01,2016-12-01,1973,07,2016,12,4,Across Atlantic Ocean (closest=Great Inagua); begins with BHM system entry
-31,51,1973-07-01,2016-12-01,1973,07,2016,12,5,Across Windward Passage (closest=Great Inagua); begins with BHM system entry
-40,41,1902-05-01,1906-09-01,1902,05,1906,09,4,Across Windward Passage; begins with CUB system entry; ends with USA occupation of CUB
-40,41,1909-01-01,1915-07-01,1909,01,1915,07,4,Across Windward Passage; resumes after USA occupation of CUB ends; ends with USA occupation of HAI
-40,41,1934-08-01,2016-12-01,1934,08,2016,12,4,Across Windward Passage; resumes after USA occupation of HAI ends
-40,42,1902-05-01,1906-09-01,1902,05,1906,09,5,Across Windward Passage (closest=Great Inagua); begins with CUB system entry; ends with USA occupation of CUB
-40,42,1909-01-01,1916-11-01,1909,01,1916,11,5,Across Windward Passage; resumes after USA occupation of CUB ends; ends with USA occupation of DOM
-40,42,1924-09-01,2016-12-01,1924,09,2016,12,5,Across Windward Passage; resumes after USA occupation of DOM ends
-40,51,1962-08-01,2016-12-01,1962,08,2016,12,4,Across Caribbean Sea; begins with JAM system entry
-40,70,1902-05-01,1906-09-01,1902,05,1906,09,4,Across Yucatan Channel; begins with CUB system entry; ends with USA occupation of CUB
-40,70,1909-01-01,2016-12-01,1909,01,2016,12,4,Across Yucatan Channel; resumes after USA occupation of CUB ends
-40,80,1981-09-01,2016-12-01,1981,09,2016,12,5,Across Caribbean Sea; begins with BLZ system entry
-40,91,1902-05-01,1906-09-01,1902,05,1906,09,5,Across Caribbean Sea; begins with CUB system entry; ends with USA occupation of CUB
-40,91,1909-01-01,2016-12-01,1909,01,2016,12,5,Across Caribbean Sea; resumes after USA occupation of CUB ends
-41,42,1894-01-01,1915-07-01,1894,01,1915,07,1,Begins with DOM system entry; ends with USA occupation of HAI
-41,42,1934-08-01,2016-12-01,1934,08,2016,12,1,Resumes after USA occupation of HAI ends
-41,51,1962-08-01,2016-12-01,1962,08,2016,12,4,Across Jamaica Channel; begins with JAM system entry
-41,100,1859-01-01,1915-07-01,1859,01,1915,07,5,Across Caribbean Sea; begins with HAI system entry; ends with USA occupation of HAI
-41,100,1934-08-01,2016-12-01,1934,08,2016,12,5,Across Caribbean Sea; resumes after USA occupation of HAI ends
-42,51,1962-08-01,2016-12-01,1962,08,2016,12,5,Across Jamaica Channel/Caribbean Sea; begins with JAM system entry
-42,60,1983-09-01,2016-12-01,1983,09,2016,12,5,Across Caribbean Sea; begins with SKN system entry
-42,100,1894-01-01,1916-11-01,1894,01,1916,11,5,Across Caribbean Sea; begins with DOM system entry; ends with USA occupation of DOM
-42,100,1924-09-01,2016-12-01,1924,09,2016,12,5,Across Caribbean Sea; resumes after USA occupation of DOM ends
-42,101,1894-01-01,1916-11-01,1894,01,1916,11,5,Across Caribbean Sea; begins with DOM system entry; ends with USA occupation of DOM
-42,101,1924-09-01,2016-12-01,1924,09,2016,12,5,Across Caribbean Sea; resumes after USA occupation of DOM ends
-51,91,1962-08-01,2016-12-01,1962,08,2016,12,5,Across Caribbean Sea; begins with JAM system entry
-51,93,1962-08-01,2016-12-01,1962,08,2016,12,5,Across Caribbean Sea; begins with JAM system entry
-51,100,1962-08-01,2016-12-01,1962,08,2016,12,5,Across Caribbean Sea; begins with JAM system entry
-52,53,1966-11-01,2016-12-01,1966,11,2016,12,4,Across Atlantic Ocean; begins with BAR system entry
-52,55,1974-02-01,2016-12-01,1974,02,2016,12,4,Across Caribbean Sea; begins with GRN system entry
-52,56,1979-02-01,2016-12-01,1979,02,2016,12,5,Across Caribbean Sea; begins with SLU system entry
-52,57,1979-10-01,2016-12-01,1979,10,2016,12,4,Across Caribbean Sea; begins with SVG system entry
-52,101,1962-08-01,2016-12-01,1962,08,2016,12,3,Across Gulf of Paria; begins with TRI system entry
-52,110,1966-05-01,2016-12-01,1966,05,2016,12,4,Across Atlantic Ocean; begins with GUY system entry
-52,115,1975-11-01,2016-12-01,1975,11,2016,12,5,Across Atlantic Ocean; begins with SUR system entry
-53,54,1978-11-01,2016-12-01,1978,11,2016,12,5,Across Atlantic Ocean; begins with DMA system entry
-53,55,1974-02-01,2016-12-01,1974,02,2016,12,4,Across Atlantic Ocean; begins with GRN system entry
-53,56,1979-02-01,2016-12-01,1979,02,2016,12,4,Across Atlantic Ocean; begins with SLU system entry
-53,57,1979-10-01,2016-12-01,1979,10,2016,12,4,Across Atlantic Ocean; begins with SVG system entry
-53,58,1981-11-01,2016-12-01,1981,11,2016,12,5,Across Atlantic Ocean; begins with AAB system entry
-53,101,1966-11-01,2016-12-01,1966,11,2016,12,5,Across Caribbean Sea/Atlantic Ocean; begins with BAR system entry
-53,110,1966-11-01,2016-12-01,1966,11,2016,12,5,Across Atlantic Ocean; begins with BAR system entry
-54,55,1978-11-01,2016-12-01,1978,11,2016,12,5,Across Caribbean Sea; begins with DMA system entry
-54,56,1979-02-01,2016-12-01,1979,02,2016,12,4,Across Caribbean Sea; begins with SLU system entry
-54,57,1979-10-01,2016-12-01,1979,10,2016,12,5,Across Caribbean Sea; begins with SVG system entry
-54,60,1983-09-01,2016-12-01,1983,09,2016,12,5,Across Caribbean Sea; begins with SKN system entry
-54,101,1978-11-01,2016-12-01,1978,11,2016,12,4,Across Caribbean Sea; begins with DMA system entry
-55,57,1979-10-01,2016-12-01,1979,10,2016,12,2,Across Caribbean Sea; begins with SVG system entry
-55,58,1981-11-01,2016-12-01,1981,11,2016,12,5,Across Caribbean Sea; begins with AAB system entry
-55,60,1983-09-01,2016-12-01,1983,09,2016,12,5,Across Caribbean Sea; begins with SKN system entry
-55,101,1974-02-01,2016-12-01,1974,02,2016,12,4,Across Caribbean Sea; begins with GRN system entry
-55,110,1974-02-01,2016-12-01,1974,02,2016,12,5,Across Atlantic Ocean; begins with GRN system entry
-56,57,1979-10-01,2016-12-01,1979,10,2016,12,3,Across Caribbean Sea; begins with SVG system entry
-56,58,1981-11-01,2016-12-01,1981,11,2016,12,5,Across Caribbean Sea; begins with AAB system entry
-56,60,1983-09-01,2016-12-01,1983,09,2016,12,5,Across Caribbean Sea; begins with SKN system entry
-56,101,1979-02-01,2016-12-01,1979,02,2016,12,5,Across Caribbean Sea; begins with SLU system entry
-56,110,1979-02-01,2016-12-01,1979,02,2016,12,5,Across Atlantic Ocean; begins with SLU system entry
-57,58,1981-11-01,2016-12-01,1981,11,2016,12,5,Across Caribbean Sea; begins with AAB system entry
-57,60,1983-09-01,2016-12-01,1983,09,2016,12,5,Across Caribbean Sea; begins with SKN system entry
-57,101,1979-10-01,2016-12-01,1979,10,2016,12,4,Across Caribbean Sea; begins with SVG system entry
-57,110,1979-10-01,2016-12-01,1979,10,2016,12,5,Across Atlantic Ocean; begins with SVG system entry
-58,60,1983-09-01,2016-12-01,1983,09,2016,12,3,Across Caribbean Sea; begins with SKN system entry
-58,101,1981-11-01,2016-12-01,1981,11,2016,12,4,Across Caribbean Sea; begins with AAB system entry
-60,101,1983-09-01,2016-12-01,1983,09,2016,12,4,Across Caribbean Sea; begins with SKN system entry
-70,80,1981-09-01,2016-12-01,1981,09,2016,12,1,Begins with BLZ system entry
-70,90,1868-01-01,2016-12-01,1868,01,2016,12,1,Begins with GUA system entry
-70,91,1899-01-01,2016-12-01,1899,01,2016,12,5,Across Caribbean Sea; begins with HON system entry
-80,90,1981-09-01,2016-12-01,1981,09,2016,12,1,Begins with BLZ system entry
-80,91,1981-09-01,2016-12-01,1981,09,2016,12,4,Across Gulf of Honduras; begins with BLZ system entry
-90,91,1899-01-01,2016-12-01,1899,01,2016,12,1,Begins with HON system entry
-90,92,1875-01-01,2016-12-01,1875,01,2016,12,1,Begins with SAL system entry
-90,93,1900-01-01,2016-12-01,1900,01,2016,12,5,Across edge of Pacific Ocean; begins with NIC system entry
-90,94,1920-01-01,2016-12-01,1920,01,2016,12,5,Across edge of Pacific Ocean; begins with COS system entry
-91,92,1899-01-01,2016-12-01,1899,01,2016,12,1,Begins with HON system entry
-91,93,1900-01-01,2016-12-01,1900,01,2016,12,1,Begins with NIC system entry
-92,93,1900-01-01,2016-12-01,1900,01,2016,12,3,Across Gulf of Fonseca; begins with NIC system entry
-92,94,1920-01-01,2016-12-01,1920,01,2016,12,5,Across edge of Pacific Ocean; begins with COS system entry
-93,94,1920-01-01,2016-12-01,1920,01,2016,12,1,Begins with COS system entry
-93,95,1920-01-01,2016-12-01,1920,01,2016,12,5,Across Caribbean Sea; begins with PAN system entry
-93,100,1900-01-01,1903-11-01,1900,01,1903,11,5,Across Caribbean Sea; begins with NIC system entry; ends with PAN secession from COL
-93,100,1928-03-01,2016-12-01,1928,03,2016,12,4,Across Caribbean Sea; begins when San Andres & Providencia islands join COL
-94,95,1920-01-01,2016-12-01,1920,01,2016,12,1,Begins with COS and PAN system entry
-94,100,1928-03-01,2016-12-01,1928,03,2016,12,4,Across Caribbean Sea; begins when San Andres & Providencia islands join COL
-95,100,1920-01-01,2016-12-01,1920,01,2016,12,1,Begins with PAN system entry
-100,101,1841-01-01,2016-12-01,1841,01,2016,12,1,Begins with VEN system entry
-100,130,1854-01-01,2016-12-01,1854,01,2016,12,1,Begins with ECU system entry
-100,135,1916-07-01,2016-12-01,1916,07,2016,12,1,Begins with ECU-COL treaty that cedes ECU territory along PER to COL
-100,140,1831-01-01,2016-12-01,1831,01,2016,12,1,Begins with COL system entry
-101,110,1966-05-01,2016-12-01,1966,05,2016,12,1,Begins with GUY system entry
-101,140,1841-01-01,2016-12-01,1841,01,2016,12,1,Begins with VEN system entry
-110,115,1975-11-01,2016-12-01,1975,11,2016,12,1,Begins with SUR system entry
-110,140,1966-05-01,2016-12-01,1966,05,2016,12,1,Begins with GUY system entry
-115,140,1975-11-01,2016-12-01,1975,11,2016,12,1,Begins with SUR system entry
-130,135,1854-01-01,2016-12-01,1854,01,2016,12,1,Begins with ECU system entry
-130,140,1854-01-01,1916-07-01,1854,01,1916,07,1,Begins with ECU system entry; ends with ECU-COL treaty that cedes ECU territory along BRA to COL
-135,140,1839-01-01,2016-12-01,1839,01,2016,12,1,Begins with PER system entry
-135,145,1848-01-01,2016-12-01,1848,01,2016,12,1,Begins with BOL system entry
-135,155,1883-10-01,2016-12-01,1883,10,2016,12,1,Begins after BOL loses seacoast to CHL in War of the Pacific
-140,145,1848-01-01,2016-12-01,1848,01,2016,12,1,Begins with BOL system entry
-140,150,1846-01-01,1870-06-01,1846,01,1870,06,1,Begins with PAR system entry; ends with BRA/ARG occupation of PAR
-140,150,1876-01-01,2016-12-01,1876,01,2016,12,1,Resumes after BRA/ARG occupation of PAR ends
-140,160,1841-01-01,2016-12-01,1841,01,2016,12,1,Begins with ARG system entry (ARG territory between URU and PAR bordered BRA)
-140,165,1882-01-01,2016-12-01,1882,01,2016,12,1,Begins with URU system entry
-145,150,1848-01-01,1870-06-01,1848,01,1870,06,1,Begins with PAR system entry; ends with BRA/ARG occupation of PAR
-145,150,1876-06-01,2016-12-01,1876,06,2016,12,1,Resumes after BRA/ARG occupation of PAR ends
-145,155,1848-01-01,2016-12-01,1848,01,2016,12,1,Begins with BOL system entry
-145,160,1848-01-01,2016-12-01,1848,01,2016,12,1,Begins with BOL system entry
-150,160,1846-01-01,1870-06-01,1846,01,1870,06,1,Begins with PAR system entry; ends with BRA/ARG occupation of PAR
-150,160,1876-06-01,2016-12-01,1876,06,2016,12,1,Resumes after BRA/ARG occupation of PAR ends
-155,160,1841-01-01,2016-12-01,1841,01,2016,12,1,Begins with ARG system entry
-160,165,1882-01-01,2016-12-01,1882,01,2016,12,1,Begins with URU system entry
-200,205,1922-12-01,2016-12-01,1922,12,2016,12,1,Begins with IRE system entry
-200,210,1816-01-01,1940-07-01,1816,01,1940,07,4,Across North Sea; ends with GMY occupation of NTH
-200,210,1945-06-01,2016-12-01,1945,06,2016,12,4,Across North Sea; resumes after GMY occupation of NTH ends
-200,211,1830-12-01,1940-05-01,1830,12,1940,05,4,Across North Sea; begins with BEL system entry; ends with GMY occupation of BEL
-200,211,1945-06-01,2016-12-01,1945,06,2016,12,4,Across North Sea; resumes after GMY occupation of BEL ends
-200,220,1816-01-01,1940-06-01,1816,01,1940,06,3,Across English Channel; ends with GMY occupation of northern France
-200,220,1944-08-01,2016-12-01,1944,08,2016,12,3,Across English Channel;resumes after GMY occupation of northern France ends
-200,240,1838-01-01,1866-07-01,1838,01,1866,07,5,Across North Sea; begins with HAN system entry; ends with GMY absorption of HAN
-200,255,1866-07-01,1945-05-01,1866,07,1945,05,5,Across North Sea (through Hanover); begins with GMY absorption of HAN; ends with Allied occupation of GMY
-200,255,1990-10-01,2016-12-01,1990,10,2016,12,5,Across North Sea (through Hanover); resumes with GMY reunification
-200,260,1955-05-01,1990-10-01,1955,05,1990,10,5,Across North Sea (through Hanover); begins with GFR system entry after division of GMY
-200,380,1816-01-01,1905-06-01,1816,01,1905,06,5,Across North Sea (through Norway); ends with NOR independence from SWE
-200,385,1905-06-01,1940-04-01,1905,06,1940,04,5,Across North Sea; begins with NOR system entry; ends with GMY occupation of NOR
-200,385,1945-05-01,2016-12-01,1945,05,2016,12,5,Across North Sea; resumes after GMY occupation of NOR ends
-200,390,1816-01-01,1940-04-01,1816,01,1940,04,5,Across North Sea; ends with GMY occupation of DEN
-200,390,1945-05-01,2016-12-01,1945,05,2016,12,5,Across North Sea; resumes after GMY occupation of DEN ends
-205,220,1922-12-01,1940-06-01,1922,12,1940,06,5,Across Celtic Sea; begins with IRE system entry; ends with GMY occupation of northern France
-205,220,1944-08-01,2016-12-01,1944,08,2016,12,5,Across Celtic Sea; resumes after GMY occupation of northern France ends
-210,211,1830-12-01,1940-05-01,1830,12,1940,05,1,Begins with BEL system entry; ends with GMY occupation of BEL
-210,211,1945-05-01,2016-12-01,1945,05,2016,12,1,Resumes after GMY occupation of NTH/BEL ends
-210,220,1816-01-01,1830-12-01,1816,01,1830,12,1,Direct land border ends with BEL independence from NTH
-210,220,1830-12-01,1940-07-01,1830,12,1940,07,5,Across North Sea; begins when direct land border lost to BEL secession; ends with GMY occupation of NTH
-210,220,1945-06-01,2016-12-01,1945,06,2016,12,5,Across North Sea; resumes after GMY occupation of NTH ends
-210,240,1838-01-01,1866-07-01,1838,01,1866,07,1,Begins with HAN system entry; ends with GMY absorption of HAN
-210,255,1816-01-01,1940-07-01,1816,01,1940,07,1,Ends with GMY occupation of NTH
-210,255,1990-10-01,2016-12-01,1990,10,2016,12,1,Resumes with GMY reunification
-210,260,1955-05-01,1990-10-01,1955,05,1990,10,1,Begins with GFR system entry after division of GMY; ends with GMY reunification
-210,380,1816-01-01,1905-06-01,1816,01,1905,06,5,Across North Sea (through Norway); ends with NOR independence from SWE
-210,385,1905-06-01,1940-04-01,1905,06,1940,04,5,Across North Sea; begins with NOR system entry; ends with GMY occupation of NOR
-210,385,1945-05-01,2016-12-01,1945,05,2016,12,5,Across North Sea; resumes after GMY occupation of NOR ends
-210,390,1816-01-01,1940-04-01,1816,01,1940,04,4,Across North Sea; ends with GMY occupation of DEN
-210,390,1945-05-01,2016-12-01,1945,05,2016,12,4,Across North Sea; resumes after GMY occupation of DEN ends
-211,212,1920-11-01,1940-05-01,1920,11,1940,05,1,Begins with LUX system entry; ends with GMY occupation of LUX
-211,212,1945-05-01,2016-12-01,1945,05,2016,12,1,Resumes after GMY occupation of BEL ends
-211,220,1830-12-01,1940-05-01,1830,12,1940,05,1,Begins with BEL system entry; ends with GMY occupation of BEL
-211,220,1945-06-01,2016-12-01,1945,06,2016,12,1,Resumes after GMY occupation of BEL ends
-211,255,1830-12-01,1940-05-01,1830,12,1940,05,1,Begins with BEL system entry; ends with GMY occupation of BEL
-211,255,1990-10-01,2016-12-01,1990,10,2016,12,1,Resumes with GMY reunification
-211,260,1955-05-01,1990-10-01,1955,05,1990,10,1,Begins with GFR system entry after division of GMY; ends with GMY reunification
-211,390,1830-12-01,1940-04-01,1830,12,1940,04,5,Across North Sea; begins with BEL system entry; ends with GMY occupation of DEN
-211,390,1945-05-01,2016-12-01,1945,05,2016,12,5,Across North Sea; resumes after GMY occupation of BEL ends
-212,220,1920-11-01,1940-05-01,1920,11,1940,05,1,Begins with LUX system entry; ends with GMY occupation of LUX
-212,220,1944-09-01,2016-12-01,1944,09,2016,12,1,Resumes after GMY occupation of LUX ends
-212,255,1920-11-01,1940-05-01,1920,11,1940,05,1,Begins with LUX system entry; ends with GMY occupation of LUX
-212,255,1944-09-01,1945-05-01,1944,09,1945,05,1,Resumes after GMY occupation of LUX ends; ends with Allied occupation of GMY
-212,255,1990-10-01,2016-12-01,1990,10,2016,12,1,Resumes with GMY reunification
-212,260,1955-05-01,1990-10-01,1955,05,1990,10,1,Begins with GFR system entry after division of GMY; ends with GMY reunification
-220,221,1993-05-01,2016-12-01,1993,05,2016,12,1,Begins with MNC system entry
-220,225,1816-01-01,1942-11-01,1816,01,1942,11,1,Ends with GMY occupation of FRN
-220,225,1944-08-01,2016-12-01,1944,08,2016,12,1,Resumes after GMY occupation of FRN ends
-220,230,1816-01-01,1942-11-01,1816,01,1942,11,1,Ends with GMY occupation of FRN
-220,230,1944-08-01,2016-12-01,1944,08,2016,12,1,Resumes after GMY occupation of FRN ends
-220,232,1993-07-01,2016-12-01,1993,07,2016,12,1,Begins with AND system entry
-220,245,1816-01-01,1871-01-01,1816,01,1871,01,1,Ends with GMY absorption of BAV
-220,255,1816-01-01,1940-06-01,1816,01,1940,06,1,Ends with GMY occupation of northern France
-220,255,1944-08-01,1945-05-01,1944,08,1945,05,1,Resumes after GMY occupation of FRN ends; ends with Allied occupation of GMY
-220,255,1990-10-01,2016-12-01,1990,10,2016,12,1,Resumes with GMY reunification
-220,260,1955-05-01,1990-10-01,1955,05,1990,10,1,Begins with GFR system entry after division of GMY; ends with GMY reunification
-220,267,1816-01-01,1871-01-01,1816,01,1871,01,1,Ends with GMY absorption of BAD
-220,325,1816-01-01,1942-11-01,1816,01,1942,11,1,Ends with GMY occupation of FRN
-220,325,1944-08-01,2016-12-01,1944,08,2016,12,1,Resumes after GMY occupation of FRN ends
-220,327,1816-01-01,1860-11-01,1816,01,1860,11,4,Across Ligurian Sea; ends with ITA absorption of PAP
-220,332,1842-01-01,1860-03-01,1842,01,1860,03,4,Across Ligurian Sea; ends with ITA absorption of MOD
-220,337,1816-01-01,1860-03-01,1816,01,1860,03,3,Across Ligurian Sea; ends with ITA absorption of TUS
-220,390,1816-01-01,1940-04-01,1816,01,1940,04,5,Across North Sea; ends with GMY occupation of DEN
-220,390,1945-05-01,2016-12-01,1945,05,2016,12,5,Across North Sea; resumes after GMY occupation of DEN ends
-220,615,1962-07-01,2016-12-01,1962,07,2016,12,5,Across Mediterranean Sea; begins with ALG system entry
-220,616,1825-01-01,1881-05-01,1825,01,1881,05,5,Across Mediterranean Sea; begins with TUN system entry; ends with FRN occupation of TUN
-220,616,1956-03-01,2016-12-01,1956,03,2016,12,5,Across Mediterranean Sea; resumes with TUN system reentry
-221,230,1993-05-01,2016-12-01,1993,05,2016,12,5,Across Mediterranean Sea (closest=Menorca); begins with MNC system entry
-221,325,1993-05-01,2016-12-01,1993,05,2016,12,4,Across Ligurian Sea; begins with MNC system entry
-223,225,1990-09-01,2016-12-01,1990,09,2016,12,1,Begins with LIE system entry
-223,305,1990-09-01,2016-12-01,1990,09,2016,12,1,Begins with LIE system entry
-225,245,1816-01-01,1871-01-01,1816,01,1871,01,2,Across Lake Constance; ends with GMY absorption of BAV
-225,255,1871-01-01,1945-05-01,1871,01,1945,05,1,Through Baden; begins with GMY absorption of BAD; ends with Allied occupation of GMY
-225,255,1990-10-01,2016-12-01,1990,10,2016,12,1,Through Baden; resumes with GMY reunification
-225,260,1955-05-01,1990-10-01,1955,05,1990,10,1,Through Baden; begins with GFR system entry after division of GMY; ends with GMY reunification
-225,267,1816-01-01,1871-01-01,1816,01,1871,01,1,Ends with GMY absorption of BAD
-225,271,1816-01-01,1870-01-01,1816,01,1870,01,2,Across Lake Constance; ends with GMY absorption of WRT
-225,300,1816-01-01,1918-11-01,1816,01,1918,11,1,Ends with dissolution of AUH
-225,305,1919-09-01,1938-03-01,1919,09,1938,03,1,Begins with AUS system entry; ends with Anschluss
-225,305,1955-07-01,2016-12-01,1955,07,2016,12,1,Resumes when AUS rejoins system
-225,325,1816-01-01,2016-12-01,1816,01,2016,12,1,Both in system for entire COW era
-230,232,1993-07-01,2016-12-01,1993,07,2016,12,1,Begins with AND system entry
-230,235,1816-01-01,2016-12-01,1816,01,2016,12,1,Both in system for entire COW era
-230,325,1816-01-01,2016-12-01,1816,01,2016,12,5,Across Mediterranean Sea (closest=Menorca-Sardinia); both in system for entire COW era
-230,337,1816-01-01,1860-03-01,1816,01,1860,03,5,Across Mediterranean Sea; ends with ITA absorption of TUS
-230,435,1976-02-01,1979-08-01,1976,02,1979,08,5,Across Atlantic Ocean (through Western Sahara-Canary Is.); begins with MAA entry into W.Sahara; ends with MAA withdrawal from W.Sahara
-230,600,1847-01-01,1911-05-01,1847,01,1911,05,3,Across Strait of Gibraltar; begins with MOR system entry; ends when FRN begins protectorate over MOR
-230,600,1956-03-01,2016-12-01,1956,03,2016,12,1,Resumes with MOR system reentry
-230,615,1962-07-01,2016-12-01,1962,07,2016,12,4,Across Mediterranean Sea; begins with ALG system entry
-230,616,1825-01-01,1881-05-01,1825,01,1881,05,5,Across Mediterranean Sea; begins with TUN system entry; ends with FRN occupation of TUN
-230,616,1956-03-01,2016-12-01,1956,03,2016,12,5,Across Mediterranean Sea; resumes with TUN system reentry
-235,600,1847-01-01,1911-05-01,1847,01,1911,05,4,Across Atlantic Ocean; begins with MOR system entry; ends when FRN begins protectorate over MOR
-235,600,1956-03-01,2016-12-01,1956,03,2016,12,4,Across Atlantic Ocean; resumes with MOR system reentry
-240,255,1838-01-01,1866-07-01,1838,01,1866,07,1,Begins with HAN system entry; ends with GMY absorption of HAN
-240,273,1838-01-01,1866-07-01,1838,01,1866,07,1,Begins with HSE system entry; ends with GMY absorption of HSE
-240,280,1843-01-01,1866-07-01,1843,01,1866,07,1,Begins with MEC system entry; ends with GMY absorption of HAN
-240,380,1838-01-01,1866-07-01,1838,01,1866,07,5,Across North Sea (through Norway); begins with HAN system entry; ends with GMY absorption of HAN
-240,390,1838-01-01,1866-07-01,1838,01,1866,07,4,Across North Sea; begins with HAN system entry; ends with GMY absorption of HAN
-245,255,1816-01-01,1871-01-01,1816,01,1871,01,1,Ends with GMY absorption of BAV
-245,267,1816-01-01,1871-01-01,1816,01,1871,01,1,Ends with GMY absorption of BAD/BAV
-245,269,1816-01-01,1867-04-01,1816,01,1867,04,1,Ends with GMY absorption of SAX
-245,271,1816-01-01,1870-01-01,1816,01,1870,01,1,Ends with GMY absorption of WRT
-245,273,1816-01-01,1866-07-01,1816,01,1866,07,1,Ends with GMY absorption of HSE
-245,275,1816-01-01,1867-04-01,1816,01,1867,04,1,Ends with GMY absorption of HSG
-245,300,1816-01-01,1871-01-01,1816,01,1871,01,1,Ends with GMY absorption of BAV
-255,267,1849-12-01,1871-01-01,1849,12,1871,01,1,Through Hohenzollern; begins with Prussian incorporation of Hohenzollern; ends with GMY absorption of BAD
-255,269,1816-01-01,1867-04-01,1816,01,1867,04,1,Ends with GMY absorption of SAX
-255,271,1849-12-01,1870-01-01,1849,12,1870,01,1,Through Hohenzollern; begins with Prussian incorporation of Hohenzollern; ends with GMY absorption of WRT
-255,273,1816-01-01,1866-07-01,1816,01,1866,07,1,Ends with GMY absorption of HSE
-255,275,1816-01-01,1867-04-01,1816,01,1867,04,1,Ends with GMY absorption of HSG
-255,280,1843-01-01,1867-04-01,1843,01,1867,04,1,Begins with MEC system entry; ends with GMY absorption of HAN
-255,290,1918-11-01,1939-09-01,1918,11,1939,09,1,Begins with POL system entry; ends with GMY/RUS occupation of POL
-255,290,1990-10-01,2016-12-01,1990,10,2016,12,1,Resumes after GMY reunification
-255,300,1816-01-01,1918-11-01,1816,01,1918,11,1,Begins with POL system entry; ends with dissolution of Austria-Hungary
-255,305,1919-09-01,1938-03-01,1919,09,1938,03,1,Begins with AUS system entry; ends with Anschluss
-255,305,1990-10-01,2016-12-01,1990,10,2016,12,1,Resumes after GMY reunification
-255,310,1938-03-01,1945-05-01,1938,03,1945,05,1,Through Austria; begins after Anschluss; ends with Allied occupation of GMY
-255,315,1918-10-01,1939-03-01,1918,10,1939,03,1,Begins with CZE system entry; ends with GMY occupation of CZE
-255,315,1990-10-01,1992-12-01,1990,10,1992,12,1,Resumes after GMY reunification; ends with CZE dissolution
-255,316,1993-01-01,2016-12-01,1993,01,2016,12,1,Begins with CZR system entry
-255,325,1938-03-01,1945-05-01,1938,03,1945,05,1,Through Austria; begins after Anschluss; ends with Allied occupation of GMY
-255,345,1938-03-01,1941-04-01,1938,03,1941,04,1,Through Austria and Slovenia; begins after Anschluss; ends with GMY occupation of YUG
-255,345,1944-10-01,1945-05-01,1944,10,1945,05,1,Through Austria and Slovenia; begins after GMY occupation of YUG ends; ends with Allied occupation of GMY
-255,365,1816-01-01,1918-11-01,1816,01,1918,11,1,Through East Prussia and Poland/Lithuania; ends with independence of POL & LIT
-255,365,1939-09-01,1941-06-01,1939,09,1941,06,1,Through occupied Poland; begins with GMY/RUS occupation of POL; ends with removal of RUS occupiers
-255,365,1990-10-01,2016-12-01,1990,10,2016,12,5,Across Baltic Sea; through Kaliningrad; resumes after GMY reunification
-255,366,1918-02-01,1940-06-01,1918,02,1940,06,5,Across Baltic Sea; begins with EST system entry; ends with RUS annexation of EST
-255,366,1991-09-01,2016-12-01,1991,09,2016,12,5,Across Baltic Sea; resumes with EST independence from RUS
-255,367,1918-11-01,1940-06-01,1918,11,1940,06,4,Across Baltic Sea; through East Prussia; begins with LAT system entry; ends with RUS annexation of LAT
-255,367,1991-09-01,2016-12-01,1991,09,2016,12,5,Across Baltic Sea; resumes with LAT independence from RUS
-255,368,1918-02-01,1940-06-01,1918,02,1940,06,1,Through East Prussia; begins with LIT system entry; ends with RUS annexation of LIT
-255,368,1991-09-01,2016-12-01,1991,09,2016,12,5,Across Baltic Sea; resumes with LIT independence from RUS
-255,375,1917-12-01,1945-05-01,1917,12,1945,05,5,Across Baltic Sea; through East Prussia; begins with FIN system entry; ends with Allied occupation of GMY
-255,380,1816-01-01,1945-05-01,1816,01,1945,05,4,Across Baltic Sea; ends with Allied occupation of GMY
-255,380,1990-10-01,2016-12-01,1990,10,2016,12,4,Across Baltic Sea; resumes after GMY reunification
-255,385,1905-06-01,1940-04-01,1905,06,1940,04,5,Across North Sea; begins with NOR system entry; ends with GMY occupation of NOR
-255,385,1990-10-01,2016-12-01,1990,10,2016,12,5,Across North Sea; resumes after GMY reunification
-255,390,1816-01-01,1865-08-01,1816,01,1865,08,4,Across Brandenburger Bucht; through Holstein; ends with Prussian acquisition of direct land border after 2nd Schleswig-Holstein war
-255,390,1865-08-01,1940-04-01,1865,08,1940,04,1,Begins with Prussian acquisition of Schleswig; ends with GMY occupation of DEN
-255,390,1990-10-01,2016-12-01,1990,10,2016,12,1,Resumes after GMY reunification
-260,265,1955-05-01,1990-10-01,1955,05,1990,10,1,Begins with GFR system entry after division of GMY; ends with GMY reunification
-260,305,1955-05-01,1990-10-01,1955,05,1990,10,1,Begins with GFR system entry after division of GMY; ends with GMY reunification
-260,315,1955-05-01,1990-10-01,1955,05,1990,10,1,Begins with GFR system entry after division of GMY; ends with GMY reunification
-260,365,1955-05-01,1990-10-01,1955,05,1990,10,5,Across Baltic Sea; through Kaliningrad; begins with GFR system entry after division of GMY; ends with GMY reunification
-260,380,1955-05-01,1990-10-01,1955,05,1990,10,4,Across Baltic Sea; begins with GFR system entry after division of GMY; ends with GMY reunification
-260,385,1955-05-01,1990-10-01,1955,05,1990,10,5,Across North Sea; begins with GFR system entry after division of GMY; ends with GMY reunification
-260,390,1955-05-01,1990-10-01,1955,05,1990,10,1,Begins with GFR system entry after division of GMY; ends with GMY reunification
-265,290,1954-03-01,1990-10-01,1954,03,1990,10,1,Begins with GDR system entry after division of GMY; ends with GMY reunification
-265,315,1954-03-01,1990-10-01,1954,03,1990,10,1,Begins with GDR system entry after division of GMY; ends with GMY reunification
-265,365,1954-03-01,1990-10-01,1954,03,1990,10,5,Across Baltic Sea; through Kaliningrad; begins with GDR system entry after division of GMY; ends with GMY reunification
-265,380,1954-03-01,1990-10-01,1954,03,1990,10,4,Across Baltic Sea; begins with GDR system entry after division of GMY; ends with GMY reunification
-265,390,1954-03-01,1990-10-01,1954,03,1990,10,3,Across Mecklenburger Bucht; begins with GDR system entry after division of GMY; ends with GMY reunification
-267,271,1816-01-01,1870-01-01,1816,01,1870,01,1,Ends with GMY absorption of WRT
-267,275,1816-01-01,1866-07-01,1816,01,1866,07,1,Ends with GMY absorption of HSE
-267,300,1816-01-01,1871-01-01,1816,01,1871,01,3,Across Lake Constance; ends with GMY absorption of BAD/BAV
-269,300,1816-01-01,1867-04-01,1816,01,1867,04,1,Ends with GMY absorption of SAX
-271,300,1816-01-01,1870-01-01,1816,01,1870,01,2,Across Lake Constance; ends with GMY absorption of WRT
-273,275,1816-01-01,1866-07-01,1816,01,1866,07,1,Ends with GMY absorption of HSE
-280,365,1843-01-01,1867-04-01,1843,01,1867,04,5,Across Baltic Sea; through Lithuania; egins with MEC system entry; ends with GMY absorption of MEC
-280,380,1843-01-01,1867-04-01,1843,01,1867,04,4,Across Baltic Sea; begins with MEC system entry; ends with GMY absorption of MEC
-280,390,1843-01-01,1867-04-01,1843,01,1867,04,3,Across Mecklenburger Bucht; begins with MEC system entry; ends with GMY absorption of MEC
-290,315,1918-11-01,1939-03-01,1918,11,1939,03,1,Begins with POL system entry; ends with GMY occupation of CZE
-290,315,1945-06-01,1992-12-01,1945,06,1992,12,1,Resumes after GMY occupation ends; ends with dissolution of CZE
-290,316,1993-01-01,2016-12-01,1993,01,2016,12,1,Begins with CZR system entry
-290,317,1993-01-01,2016-12-01,1993,01,2016,12,1,Begins with SLO system entry
-290,360,1918-11-01,1939-09-01,1918,11,1939,09,1,Begins with POL system entry; ends with GMY/RUS occupation of POL
-290,365,1918-11-01,1939-09-01,1918,11,1939,09,1,Begins with POL system entry; ends with GMY/RUS occupation of POL
-290,365,1945-06-01,2016-12-01,1945,06,2016,12,1,Resumes after GMY occupation of POL ends
-290,366,1918-11-01,1939-09-01,1918,11,1939,09,5,Across Baltic Sea; begins with POL system entry; ends with GMY/RUS occupation of POL
-290,366,1991-09-01,2016-12-01,1991,09,2016,12,5,Across Baltic Sea; resumes with EST independence from RUS
-290,367,1918-11-01,1939-09-01,1918,11,1939,09,1,Begins with POL system entry; land border due to POL rule over Vilvius area; ends with GMY/RUS occupation of POL
-290,367,1991-09-01,2016-12-01,1991,09,2016,12,4,Across Baltic Sea (sea border replaces land because POL lost Vilnius to LIT); resumes with LAT independence from RUS
-290,368,1918-11-01,1939-09-01,1918,11,1939,09,1,Begins with POL independence; ends with GMY/RUS occupation of POL
-290,368,1991-09-01,2016-12-01,1991,09,2016,12,1,Resumes with LIT independence from RUS
-290,369,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with UKR system entry
-290,370,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with BLR system entry
-290,375,1918-11-01,1939-09-01,1918,11,1939,09,5,Across Baltic Sea; begins with POL system entry; ends with GMY/RUS occupation of POL
-290,375,1945-06-01,2016-12-01,1945,06,2016,12,5,Across Baltic Sea; resumes after GMY occupation of POL ends
-290,380,1918-11-01,1939-09-01,1918,11,1939,09,4,Across Baltic Sea; begins with POL system entry; ends with GMY/RUS occupation of POL
-290,380,1945-06-01,2016-12-01,1945,06,2016,12,4,Across Baltic Sea; resumes after GMY occupation of POL ends
-290,390,1918-11-01,1939-09-01,1918,11,1939,09,4,Across Baltic Sea; begins with POL system entry; ends with GMY/RUS occupation of POL
-290,390,1945-06-01,2016-12-01,1945,06,2016,12,4,Across Baltic Sea; resumes after GMY occupation of POL ends
-300,325,1816-01-01,1918-11-01,1816,01,1918,11,1,Ends with dissolution of Austria-Hungary
-300,327,1816-01-01,1860-11-01,1816,01,1860,11,1,Ends with ITA absorption of PAP
-300,329,1816-01-01,1861-02-01,1816,01,1861,02,4,Across Adriatic Sea; through Croatia and Naples (mainland portion of SIC); ends with ITA absorption of SIC
-300,332,1842-01-01,1860-03-01,1842,01,1860,03,1,Begins with MOD system entry; ends with ITA absorption of MOD
-300,335,1851-01-01,1860-03-01,1851,01,1860,03,1,Begins with PMA system entry; ends with ITA absorption of PMA
-300,345,1878-07-01,1918-11-01,1878,07,1918,11,1,Through Austria-Slovenia and Hungary-Slovenia/Croatia/Vojvodina(Serbia); begins with YUG system entry; ends with dissolution of AUH
-300,350,1864-03-01,1918-11-01,1864,03,1918,11,5,Across Adriatic/Strait of Otranto; hrough Croatia and Corfu; begins with GRC acquisition of Ionian Islands; ends with dissolution of AUH
-300,360,1878-07-01,1918-11-01,1878,07,1918,11,1,Begins with ROM system entry; ends with dissolution of AUH
-300,365,1816-01-01,1918-11-01,1816,01,1918,11,1,Ends with dissolution of AUH
-300,640,1816-01-01,1913-05-01,1816,01,1913,05,1,Through Bosnia (AUH) and Kosovo (TUR); ends with Ottoman losses in Balkan Wars (codified in Treaty of London)
-305,310,1919-09-01,1938-03-01,1919,09,1938,03,1,Begins with AUS system entry; ends with Anschluss
-305,310,1955-07-01,2016-12-01,1955,07,2016,12,1,Resumes with AUS system reentry
-305,315,1919-09-01,1938-03-01,1919,09,1938,03,1,Begins with AUS system entry; ends with Anschluss
-305,315,1955-07-01,1992-12-01,1955,07,1992,12,1,Resumes with AUS system reentry; ends with dissolution of CZE
-305,316,1993-01-01,2016-12-01,1993,01,2016,12,1,Begins with CZR system entry
-305,317,1993-01-01,2016-12-01,1993,01,2016,12,1,Begins with SLO system entry
-305,325,1919-09-01,1938-03-01,1919,09,1938,03,1,Begins with AUS system entry; ends with Anschluss
-305,325,1955-07-01,2016-12-01,1955,07,2016,12,1,Resumes with AUS system reentry
-305,345,1919-09-01,1938-03-01,1919,09,1938,03,1,Through Slovenia; begins with AUS system entry; ends with AUS Anschluss with GMY
-305,345,1955-07-01,1992-01-01,1955,07,1992,01,1,Through Slovenia; resumes when AUS rejoins system; ends when SLV becomes independent
-305,349,1992-01-01,2016-12-01,1992,01,2016,12,1,Begins with SLV system entry
-310,315,1918-11-01,1939-03-01,1918,11,1939,03,1,Begins with HUN system entry; ends with GMY occupation of CZE
-310,315,1945-06-01,1992-12-01,1945,06,1992,12,1,Through Slovakia; resumes after GMY occupation of CZE ends; ends with dissolution of CZE
-310,317,1993-01-01,2016-12-01,1993,01,2016,12,1,Begins with SLO system entry
-310,344,1992-01-01,2016-12-01,1992,01,2016,12,1,Begins with CRO system entry
-310,345,1918-11-01,1941-04-01,1918,11,1941,04,1,Through Slovenia/Croatia/Vojvodina(Serbia); begins with HUN system entry; ends with GMY occupation of YUG
-310,345,1944-10-01,2016-12-01,1944,10,2016,12,1,Through Vojvodina(Serbia) and (until 1992) Slovenia/Croatia; resumes after GMY occupation of YUG ends
-310,349,1992-01-01,2016-12-01,1992,01,2016,12,1,Begins with SLV system entry
-310,360,1918-11-01,2016-12-01,1918,11,2016,12,1,Begins with HUN system entry
-310,365,1939-11-01,1941-06-01,1939,11,1941,06,1,Through Ukraine; begins with RUS annexation of Galicia from POL; ends with WWII German occupation of USSR
-310,365,1944-08-01,1991-12-01,1944,08,1991,12,1,Through Ukraine; resumes after Ukraine recaptured from GMY; ends with UKR secession from RUS
-310,369,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with UKR system entry
-315,360,1918-10-01,1939-03-01,1918,10,1939,03,1,Begins with CZE system entry; ends with GMY occupation of CZE
-315,365,1945-06-01,1991-12-01,1945,06,1991,12,1,Through Slovakia & Ukraine; begins after GMY occupation of CZE ends; ends with UKR secession from RUS
-315,369,1991-12-01,1992-12-01,1991,12,1992,12,1,Through Slovakia; begins with UKR system entry; ends with dissolution of CZE
-316,317,1993-01-01,2016-12-01,1993,01,2016,12,1,Begins with SLO system entry
-317,369,1993-01-01,2016-12-01,1993,01,2016,12,1,Begins with SLO system entry
-325,327,1816-01-01,1860-11-01,1816,01,1860,11,4,Across Tyrrhenian Sea; through Sardinia; ends with ITA absorption of PAP
-325,329,1860-11-01,1861-02-01,1860,11,1861,02,1,Through Papal States & Naples; begins with ITA absorption of PAP; ends with ITA absorption of SIC
-325,331,1992-03-01,2016-12-01,1992,03,2016,12,1,Begins with SNM system entry
-325,332,1842-01-01,1860-03-01,1842,01,1860,03,1,Begins with MOD system entry; ends with ITA absorption of MOD
-325,335,1851-01-01,1860-03-01,1851,01,1860,03,1,Begins with PMA system entry; ends with ITA absorption of PMA
-325,337,1816-01-01,1860-03-01,1816,01,1860,03,4,Across Ligurian Sea; ends with ITA absorption of TUS
-325,338,1964-09-01,2016-12-01,1964,09,2016,12,4,Across Malta Channel (Mediterranean Sea); begins with MLT system entry
-325,339,1914-01-01,1939-04-01,1914,01,1939,04,4,Across Strait of Otranto; begins with ALB system entry; ends with ITA occupation of ALB
-325,339,1944-11-01,2016-12-01,1944,11,2016,12,4,Across Strait of Otranto; resumes after ITA occupation of ALB ends
-325,341,2006-06-01,2016-12-01,2006,06,2016,12,4,Across Adriatic Sea; begins with MNG secession from YUG
-325,344,1992-01-01,2016-12-01,1992,01,2016,12,3,Across Adriatic Sea; begins with CRO system entry
-325,345,1919-09-01,1941-04-01,1919,09,1941,04,1,Through Slovenia; begins with ITA acquisition of Venezia Giulia (Gorizia-Gradisca/Istria/part of Carniola); ends with GMY occupation of YUG
-325,345,1944-10-01,1992-01-01,1944,10,1992,01,1,Through Slovenia; resumes after GMY occupation of YUG ends
-325,345,1992-01-01,2006-06-01,1992,01,2006,06,4,Across Adriatic Sea; sea contiguity with MNG begins after land contiguity ends with SLV secession from YUG; ends with MNG secession from YUG
-325,349,1992-01-01,2016-12-01,1992,01,2016,12,1,Begins with SLV system entry
-325,350,1861-02-01,1864-03-01,1861,02,1864,03,5,Across Ionian Sea (though Salentina Peninsula); begins with ITA absorption of SIC; replaced by closer contiguity with GRC acquisition of Corfu
-325,350,1864-03-01,1941-04-01,1864,03,1941,04,4,Across Ionian Sea; through Corfu; begins with GRC acquisition of Ionian Islands; ends with GMY occupation of GRC
-325,350,1944-10-01,2016-12-01,1944,10,2016,12,4,Across Ionian Sea; resumes after GMY occupation of GRC ends
-325,615,1962-07-01,2016-12-01,1962,07,2016,12,4,Across Mediterranean Sea (through Sardinia); begins with ALG system entry
-325,616,1861-02-01,1881-05-01,1861,02,1881,05,4,Across Mediterranean Sea (through Sicily); begins with ITA absorption of SIC; ends with FRN occupation of TUN
-325,616,1956-03-01,2016-12-01,1956,03,2016,12,4,Across Mediterranean Sea (through Sicily); resumes with TUN system reentry
-325,620,1951-12-01,2016-12-01,1951,12,2016,12,5,Across Mediterranean Sea (through Sicily); begins with LIB system entry
-325,640,1861-02-01,1912-10-01,1861,02,1912,10,4,Across Mediterranean Sea (through Lampedusa Island & Libya); begins with ITA absorption of SIC; ends with ITA acquisition of Libya
-327,329,1816-01-01,1860-11-01,1816,01,1860,11,1,Ends with ITA absorption of PAP
-327,332,1842-01-01,1860-03-01,1842,01,1860,03,1,Begins with MOD system entry; ends with ITA absorption of MOD
-327,337,1816-01-01,1860-03-01,1816,01,1860,03,1,Ends with ITA absorption of TUS
-327,640,1816-01-01,1860-11-01,1816,01,1860,11,5,Across Adriatic Sea (through Albania); ends with ITA absorption of PAP
-329,350,1828-01-01,1861-02-01,1828,01,1861,02,5,Across Ionian Sea; begins with GRC system entry; ends with ITA absorption of SIC
-329,616,1825-01-01,1861-02-01,1825,01,1861,02,4,Across Mediterranean Sea; begins with TUN system entry; ends with ITA absorption of SIC
-329,640,1816-01-01,1861-02-01,1816,01,1861,02,4,Across Mediterranean Sea (through Libya); ends with ITA absorption of SIC
-332,335,1851-01-01,1860-03-01,1851,01,1860,03,1,Begins with PMA system entry; ends with ITA absorption of PMA and MOD
-332,337,1842-01-01,1860-03-01,1842,01,1860,03,1,Begins with MOD system entry; ends with ITA absorption of MOD and TUS
-338,339,1964-09-01,2016-12-01,1964,09,2016,12,5,Across Mediterranean and Ionian Seas; begins with MLT system entry
-338,350,1964-09-01,2016-12-01,1964,09,2016,12,5,Across Mediterranean Sea; begins with MLT system entry
-338,616,1964-09-01,2016-12-01,1964,09,2016,12,5,Across Mediterranean Sea; begins with MLT system entry
-338,620,1964-09-01,2016-12-01,1964,09,2016,12,5,Across Mediterranean Sea; begins with MLT system entry
-339,341,2006-06-01,2016-12-01,2006,06,2016,12,1,Begins with MNG system entry
-339,343,1993-04-01,2016-12-01,1993,04,2016,12,1,Begins with MAC system entry
-339,344,1992-01-01,2016-12-01,1992,01,2016,12,4,Across Adriatic Sea; begins with CRO system entry
-339,345,1914-01-01,1939-04-01,1914,01,1939,04,1,Through Montenegro and Kosovo; ends with ITA occupation of ALB
-339,345,1944-11-01,2008-02-01,1944,11,2008,02,1,Through Kosovo and (until 2006) Montenegro; resumes after ALB & YUG reenter system; ends with KOS independence
-339,347,2008-02-01,2016-12-01,2008,02,2016,12,1,Begins with KOS system entry
-339,350,1914-01-01,1939-04-01,1914,01,1939,04,1,Begins with ALB system entry; ends with ITA occupation of ALB
-339,350,1944-11-01,2016-12-01,1944,11,2016,12,1,Resumes after ITA occupation of ALB ends
-341,344,2006-06-01,2016-12-01,2006,06,2016,12,1,Begins with MNG system entry
-341,345,2006-06-01,2016-12-01,2006,06,2016,12,1,Begins with MNG system entry
-341,346,2006-06-01,2016-12-01,2006,06,2016,12,1,Begins with MNG system entry
-341,347,2008-02-01,2016-12-01,2008,02,2016,12,1,Begins with KOS system entry
-343,345,1993-04-01,2016-12-01,1993,04,2016,12,1,Through Serbia and Kosovo; begins with MAC system entry
-343,347,2008-02-01,2016-12-01,2008,02,2016,12,1,Begins with KOS system entry
-343,350,1993-04-01,2016-12-01,1993,04,2016,12,1,Begins with MAC system entry
-343,355,1993-04-01,2016-12-01,1993,04,2016,12,1,Begins with MAC system entry
-344,345,1992-01-01,2016-12-01,1992,01,2016,12,1,Through Vojvodina (Serbia) and (until 2006) Montenegro
-344,346,1992-04-01,2016-12-01,1992,04,2016,12,1,Begins with BOS system entry
-344,349,1992-01-01,2016-12-01,1992,01,2016,12,1,Begins with CRO/SLV system entry
-344,350,1992-01-01,2016-12-01,1992,01,2016,12,5,Across Adriatic and Strait of Otranto (through Othonoi Island near Corfu); begins with CRO system entry
-345,346,1992-04-01,2016-12-01,1992,04,2016,12,1,Through Serbia/Kosovo and (until 2006) Montenegro; begins with BOS system entry
-345,347,2008-02-01,2016-12-01,2008,02,2016,12,1,Begins with KOS system entry
-345,350,1913-08-01,1941-04-01,1913,08,1941,04,1,Through Macedonia; begins after Balkan wars; ends with WW2 occupation of YUG & GRC
-345,350,1944-11-01,1993-04-01,1944,11,1993,04,1,Through Macedonia (FYROM); resumes after YUG reenters system; ends with MAC secession from YUG
-345,355,1908-10-01,1941-04-01,1908,10,1941,04,1,Through Serbia; begins with BUL system entry; ends with GMY occupation of YUG
-345,355,1944-11-01,2016-12-01,1944,11,2016,12,1,Through Serbia; resumes after GMY occupation of YUG ends
-345,360,1878-07-01,1941-04-01,1878,07,1941,04,1,Through Serbia and Vojovodina; begins with YUG/ROM system entry; ends with GMY occupation of YUG
-345,360,1944-11-01,2016-12-01,1944,11,2016,12,1,Through Serbia and Vojovodina; resumes after GMY occupation of YUG ends
-345,640,1878-07-01,1913-08-01,1878,07,1913,08,1,Through Macedonia; begins with YUG system entry; ends with TUR losses in Balkan wars
-350,352,1960-08-01,2016-12-01,1960,08,2016,12,5,Across Mediterranean Sea (through Rhodes); begins with CYP system entry
-350,355,1913-08-01,1941-04-01,1913,08,1941,04,1,Through Macedonia; begins after Balkan wars; ends with GMY occupation of GRC
-350,355,1944-11-01,2016-12-01,1944,11,2016,12,1,Resumes after GMY occupation of GRC ends
-350,620,1951-12-01,2016-12-01,1951,12,2016,12,5,Across Mediterranean Sea; begins with LIB system entry
-350,640,1828-01-01,1913-08-01,1828,01,1913,08,1,Through Macedonia; begins with GRC system entry; land contiguity ends with TUR losses in Balkan wars
-350,640,1913-08-01,1919-11-01,1913,08,1919,11,2,Across Aegean Sea; sea contiguity begins with TUR losses in Balkan wars; ends with land border restoration by GRC acquisition of Western Thrace
-350,640,1919-11-01,1941-04-01,1919,11,1941,04,1,Land border restored by GRC acquisition of Western Thrace; ends with GMY occupation of GRC
-350,640,1944-11-01,2016-12-01,1944,11,2016,12,1,Resumes after GMY occupation of GRC ends
-350,651,1855-01-01,1882-09-01,1855,01,1882,09,5,Across Mediterranean Sea; begins with EGY system entry; ends with UKG occupation of EGY
-350,651,1937-05-01,1941-04-01,1937,05,1941,04,5,Across Mediterranean Sea; resumes with EGY system reentry; ends with GMY occupation of GRC
-350,651,1944-11-01,2016-12-01,1944,11,2016,12,5,Across Mediterranean Sea; resumes after GMY occupation of GRC ends
-352,640,1960-08-01,1974-08-01,1960,08,1974,08,4,Across Mediterranean Sea; begins with CYP system entry; sea contiguity replaced by land contiguity when TUR acquires TRNC (N.Cyprus)
-352,640,1974-08-01,2016-12-01,1974,08,2016,12,1,Through TRNC (N.Cyprus); land contiguity begins when TUR acquires TRNC
-352,651,1960-08-01,1961-09-01,1960,08,1961,09,4,Across Mediterranean Sea; through Syria (merged with EGY from 1958-61); begins with CYP system entry; ends when Syria leaves UAR
-352,651,1961-09-01,2016-12-01,1961,09,2016,12,5,Across Mediterranean Sea; closer contiguity through Syria ends with dissolution of UAR
-352,652,1961-09-01,2016-12-01,1961,09,2016,12,4,Across Mediterranean Sea; begins when SYR rejoins system separately from EGY
-352,660,1960-08-01,2016-12-01,1960,08,2016,12,4,Across Mediterranean Sea; begins with CYP system entry
-352,666,1960-08-01,2016-12-01,1960,08,2016,12,4,Across Mediterranean Sea; begins with CYP system entry
-355,360,1908-10-01,2016-12-01,1908,10,2016,12,1,Begins with BUL system entry
-355,365,1908-10-01,1942-07-01,1908,10,1942,07,5,Across Black Sea; through Sevastopol (Ukraine); begins with BUL system entry; ends with GMY capture of Sevastopol
-355,365,1944-05-01,1991-12-01,1944,05,1991,12,5,Across Black Sea; through Sevastopol (Ukraine); begins with recapture of Sevastopol from GMY; ends with UKR secession from RUS
-355,365,2014-03-01,2016-12-01,2014,03,2016,12,5,Across Black Sea; begins with RUS acquisition of Crimean Peninsula
-355,369,1991-12-01,2016-12-01,1991,12,2016,12,5,Across Black Sea; begins with UKR system entry
-355,640,1908-10-01,2016-12-01,1908,10,2016,12,1,Begins with BUL system entry
-359,360,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with MLD system entry
-359,369,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with MLD/UKR system entry
-360,365,1878-07-01,1941-06-01,1878,07,1941,06,1,Through Ukraine and Moldova; begins with ROM system entry; ends with WWII German occupation of Ukraine/Moldova
-360,365,1944-04-01,1991-12-01,1944,04,1991,12,1,Through Ukraine and Moldova; begins with end of GMY occupation of prewar Ukraine/Moldova; ends with breakup of RUS
-360,365,2014-03-01,2016-12-01,2014,03,2016,12,4,Across Black Sea; begins with RUS acquisition of Crimean Peninsula
-360,369,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with UKR system entry
-360,640,1878-07-01,1908-10-01,1878,07,1908,10,1,Through Bulgaria; begins with ROM system entry; direct land contiguity ends with BUL independence from TUR
-360,640,1908-10-01,1913-05-01,1908,10,1913,05,5,Across Black Sea; sea contiguity replaces land after BUL independence from TUR
-360,640,1913-05-01,1940-09-01,1913,05,1940,09,4,Across Black Sea; sea contiguity moves closer with ROM acquisition of Southern Dobrudja (moves back with BUL reacquisition)
-360,640,1940-09-01,2016-12-01,1940,09,2016,12,5,Across Black Sea; sea contiguity moves farther apart with BUL reacquisition of Southern Dobrudja
-365,366,1918-02-01,1940-06-01,1918,02,1940,06,1,Begins with EST system entry; ends with RUS absorption of EST
-365,366,1991-09-01,2016-12-01,1991,09,2016,12,1,Resumes after EST secession from RUS
-365,367,1918-11-01,1940-06-01,1918,11,1940,06,1,Begins with LAT system entry; ends with RUS absorption of LAT
-365,367,1991-09-01,2016-12-01,1991,09,2016,12,1,Resumes after LAT secession from RUS
-365,368,1918-02-01,1920-10-01,1918,02,1920,10,1,Begins with LIT system entry; ends with POL seizure of Vilnius
-365,368,1939-10-01,1940-06-01,1939,10,1940,06,1,Resumes with RUS transfer of Vilnius to LIT; ends with RUS absorption of LIT
-365,368,1991-09-01,2016-12-01,1991,09,2016,12,1,Resumes after LIT secession from RUS
-365,369,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with UKR system entry
-365,370,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with BLR system entry
-365,372,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with GRG system entry
-365,373,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with AZE system entry
-365,375,1917-12-01,2016-12-01,1917,12,2016,12,1,Begins with FIN system entry
-365,380,1816-01-01,1917-12-01,1816,01,1917,12,1,Direct land border ends with FIN independence from RUS
-365,380,1917-12-01,1918-11-01,1917,12,1918,11,4,Across Baltic Sea (closest=Gotland-LAT); begins when direct land border ended by FIN independence; ends when Baltic states become independent
-365,380,1940-06-01,1941-07-01,1940,06,1941,07,4,Across Baltic Sea (closest=Gotland-LAT); begins when RUS occupies Baltics; ends with GMY expels RUS from Baltics
-365,380,1944-10-01,2016-12-01,1944,10,2016,12,4,Across Baltic Sea (closest Gotland-LAT then Gotland-Kaliningrad after LAT independence in 1991); resumes after GMY occupation of RUS ends
-365,385,1905-06-01,1917-12-01,1905,06,1917,12,1,Direct land border begins with NOR secession from SWE; ends with FIN independence from RUS
-365,385,1917-12-01,1940-04-01,1917,12,1940,04,4,Across Barents Sea; sea border replaces direct land border with FIN independence from RUS; ends with GMY occupation of NOR
-365,385,1945-05-01,1947-02-01,1945,05,1947,02,4,Across Barents Sea; resumes after GMY occupation of NOR ends; replaced by land border after RUS acquires Pechenga from FIN
-365,385,1947-02-01,2016-12-01,1947,02,2016,12,1,Land contiguity begins when RUS acquires Pechenga area from FIN
-365,390,1816-01-01,1918-11-01,1816,01,1918,11,5,Across Baltic Sea (closest=Bornholm-LIT); ends when Baltic states become independent from RUS
-365,390,1945-04-01,2016-12-01,1945,04,2016,12,5,Across Baltic Sea (closest=Bornholm-Kaliningrad); begins when RUS acquires Kaliningrad from GMY
-365,630,1855-01-01,1991-12-01,1855,01,1991,12,1,Through ARM/AZE/TKM; begins with IRN system entry; ends with dissolution of RUS
-365,640,1816-01-01,1991-12-01,1816,01,1991,12,1,Through GRG/ARM; direct land border ends with dissolution of RUS
-365,640,1991-12-01,2016-12-01,1991,12,2016,12,5,Across Black Sea; sea border replaces direct land border after dissolution of RUS
-365,700,1920-01-01,1991-12-01,1920,01,1991,12,1,Through TKM/UZB/TAJ; begins with AFG system entry; ends with dissolution of RUS
-365,701,1991-12-01,2016-12-01,1991,12,2016,12,5,Across Caspian Sea; begins with TKM system entry
-365,705,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with KZK system entry
-365,710,1860-10-01,2016-12-01,1860,10,2016,12,1,Begins with CHN system entry
-365,712,1921-01-01,2016-12-01,1921,01,2016,12,1,Begins with MON system entry
-365,730,1887-01-01,1905-11-01,1887,01,1905,11,1,Begins with KOR system entry; ends with JPN protectorate over KOR
-365,731,1948-08-01,2016-12-01,1948,08,2016,12,1,Begins with PRK system entry
-365,732,1949-06-01,2016-12-01,1949,06,2016,12,5,Across Sea of Japan/East Sea; begins with ROK system entry
-365,740,1860-01-01,1945-08-01,1860,01,1945,08,3,Across Pacific Ocean (through RUS- and JPN-held Kurile Islands until 1875/then Kuriles-Kamchatka); begins with JPN system entry; ends with Allied occupation of JPN
-365,740,1952-04-01,2016-12-01,1952,04,2016,12,2,Across Pacific Ocean (through Kurile Islands-Hokkaido); resumes after Allied occupation of JPN ends
-366,367,1918-11-01,1940-06-01,1918,11,1940,06,1,Begins with LAT system entry; ends with RUS absorption of EST/LAT
-366,367,1991-09-01,2016-12-01,1991,09,2016,12,1,Resumes with EST/LAT independence from RUS
-366,375,1918-02-01,1940-06-01,1918,02,1940,06,3,Across Gulf of Finland; begins with EST system entry; ends with RUS absorption of EST
-366,375,1991-09-01,2016-12-01,1991,09,2016,12,3,Across Gulf of Finland; resumes with EST independence from RUS
-366,380,1918-02-01,1940-06-01,1918,02,1940,06,4,Across Baltic Sea; begins with EST system entry; ends with RUS absorption of EST
-366,380,1991-09-01,2016-12-01,1991,09,2016,12,4,Across Baltic Sea; resumes with EST independence from RUS
-366,390,1918-02-01,1940-06-01,1918,02,1940,06,5,Across Baltic Sea (through Bornholm); begins with EST system entry; ends with RUS absorption of EST
-366,390,1991-09-01,2016-12-01,1991,09,2016,12,5,Across Baltic Sea (through Bornholm); resumes with EST independence from RUS
-367,368,1918-11-01,1940-06-01,1918,11,1940,06,1,Begins with LAT system entry; ends with RUS absorption of LAT/LIT
-367,368,1991-09-01,2016-12-01,1991,09,2016,12,1,Resumes with LAT/LIT independence from RUS
-367,370,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with BLR system entry
-367,375,1918-11-01,1940-06-01,1918,11,1940,06,5,Across Baltic Sea (through Aland Islands); begins with LAT system entry; ends with RUS absorption of LAT
-367,375,1991-09-01,2016-12-01,1991,09,2016,12,5,Across Baltic Sea (through Aland Islands); resumes with LAT independence from RUS
-367,380,1918-11-01,1940-06-01,1918,11,1940,06,4,Across Baltic Sea (closest=Gotland); begins with LAT system entry; ends with RUS absorption of LAT
-367,380,1991-09-01,2016-12-01,1991,09,2016,12,4,Across Baltic Sea (closest=Gotland); resumes with LAT independence from RUS
-367,390,1918-11-01,1940-06-01,1918,11,1940,06,5,Across Baltic Sea (through Bornholm); begins with LAT system entry; ends with RUS absorption of LAT
-367,390,1991-09-01,2016-12-01,1991,09,2016,12,5,Across Baltic Sea (through Bornholm); resumes with LAT independence from RUS
-368,370,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with BLR system entry
-368,375,1918-02-01,1940-06-01,1918,02,1940,06,5,Across Baltic Sea (through Aland Islands); begins with LIT system entry; ends with RUS absorption of LATnds with RUS absorption of LIT
-368,375,1991-09-01,2016-12-01,1991,09,2016,12,5,Across Baltic Sea (through Aland Islands); resumes with LIT independence from RUS
-368,380,1918-02-01,1940-06-01,1918,02,1940,06,4,Across Baltic Sea (closest=Gotland); begins with LIT system entry; ends with RUS absorption of LATnds with RUS absorption of LIT
-368,380,1991-09-01,2016-12-01,1991,09,2016,12,4,Across Baltic Sea (closest=Gotland); resumes with LIT independence from RUS
-368,390,1918-02-01,1940-06-01,1918,02,1940,06,5,Across Baltic Sea (through Bornholm); begins with LIT system entry; ends with RUS absorption of LATnds with RUS absorption of LIT
-368,390,1991-09-01,2016-12-01,1991,09,2016,12,5,Across Baltic Sea (through Bornholm); resumes with LIT independence from RUS
-369,370,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with dissolution of RUS
-369,372,1991-12-01,2016-12-01,1991,12,2016,12,5,Across Black Sea (through Crimea); begins with dissolution of RUS
-369,640,1991-12-01,2016-12-01,1991,12,2016,12,5,Across Black Sea; begins with dissolution of RUS
-371,372,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with dissolution of RUS
-371,373,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with dissolution of RUS
-371,630,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with dissolution of RUS
-371,640,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with dissolution of RUS
-372,373,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with dissolution of RUS
-372,640,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with dissolution of RUS
-373,630,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with dissolution of RUS
-373,640,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with dissolution of RUS
-373,701,1991-12-01,2016-12-01,1991,12,2016,12,4,Across Caspian Sea; begins with dissolution of RUS
-373,705,1991-12-01,2016-12-01,1991,12,2016,12,4,Across Caspian Sea; begins with dissolution of RUS
-375,380,1917-12-01,2016-12-01,1917,12,2016,12,1,Begins with FIN system entry
-375,385,1917-12-01,1940-04-01,1917,12,1940,04,1,Begins with FIN system entry; ends with GMY occup of NOR
-375,385,1945-05-01,2016-12-01,1945,05,2016,12,1,Resumes after GMY occupation of NOR ends
-380,385,1905-06-01,1940-04-01,1905,06,1940,04,1,Begins with NOR secession from SWD; ends with GMY occup of NOR
-380,385,1945-05-01,2016-12-01,1945,05,2016,12,1,Resumes after GMY occupation of NOR ends
-380,390,1816-01-01,1940-04-01,1816,01,1940,04,2,Across Oresund; ends with GMY occup of DEN
-380,390,1945-05-01,2000-06-01,1945,05,2000,06,2,Across Oresund; resumes when GMY occup of DEN ends; ends when opening of Oresund Bridge creates land border
-380,390,2000-07-01,2016-12-01,2000,07,2016,12,1,Land border begins with opening of Oresund Bridge
-385,390,1905-06-01,1940-04-01,1905,06,1940,04,4,Across Skagerrak; begins with NOR system entry; ends with GMY occup of NOR/DEN
-385,390,1945-05-01,2016-12-01,1945,05,2016,12,4,Across Skagerrak; resumes after GMY occupation of NOR/DEN ends
-402,433,1975-07-01,2016-12-01,1975,07,2016,12,5,Across Atlantic Ocean; begins with CAP system entry
-403,411,1975-07-01,2016-12-01,1975,07,2016,12,4,Across Gulf of Guinea; begins with STP system entry
-403,471,1975-07-01,2016-12-01,1975,07,2016,12,5,Across Gulf of Guinea; begins with STP system entry
-403,475,1975-07-01,2016-12-01,1975,07,2016,12,5,Across Gulf of Guinea; begins with STP system entry
-403,481,1975-07-01,2016-12-01,1975,07,2016,12,4,Across Gulf of Guinea; begins with STP system entry
-404,433,1974-09-01,2016-12-01,1974,09,2016,12,1,Begins with GNB system entry
-404,438,1974-09-01,2016-12-01,1974,09,2016,12,1,Begins with GNB system entry
-411,471,1968-10-01,2016-12-01,1968,10,2016,12,1,Begins with EQG system entry
-411,475,1968-10-01,2016-12-01,1968,10,2016,12,4,Across Gulf of Guinea; begins with EQG system entry
-411,481,1968-10-01,2016-12-01,1968,10,2016,12,1,Begins with EQG system entry
-420,433,1965-02-01,2016-12-01,1965,02,2016,12,1,Begins with GAM system entry
-432,433,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with SEN system entry
-432,435,1960-11-01,2016-12-01,1960,11,2016,12,1,Begins with MAA system entry
-432,436,1960-10-01,2016-12-01,1960,10,2016,12,1,Begins with NIR system entry
-432,437,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with CDI system entry
-432,438,1960-06-01,2016-12-01,1960,06,2016,12,1,Begins with MLI system entry
-432,439,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with BFO system entry
-432,615,1962-07-01,2016-12-01,1962,07,2016,12,1,Begins with ALG system entry
-433,435,1960-11-01,2016-12-01,1960,11,2016,12,1,Begins with MAA system entry
-433,438,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with SEN system entry
-434,436,1960-10-01,2016-12-01,1960,10,2016,12,1,Begins with NIR system entry
-434,439,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with BFO system entry
-434,452,1960-08-01,2016-12-01,1960,08,2016,12,4,Across Bight of Benin; begins with BEN system entry
-434,461,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with BEN system entry
-434,475,1960-10-01,2016-12-01,1960,10,2016,12,1,Begins with NIG system entry
-435,600,1976-02-01,2016-12-01,1976,02,2016,12,1,Begins with MAA/MOR division of Spanish Sahara
-435,615,1962-07-01,2016-12-01,1962,07,2016,12,1,Begins with ALG system entry
-436,439,1960-10-01,2016-12-01,1960,10,2016,12,1,Begins with NIR system entry
-436,471,1960-10-01,2016-12-01,1960,10,2016,12,4,Across Lake Chad; begins with NIR system entry
-436,475,1960-10-01,2016-12-01,1960,10,2016,12,1,Begins with NIR system entry
-436,483,1960-10-01,2016-12-01,1960,10,2016,12,1,Begins with NIR system entry
-436,615,1962-07-01,2016-12-01,1962,07,2016,12,1,Begins with ALG system entry
-436,620,1960-10-01,2016-12-01,1960,10,2016,12,1,Begins with NIR system entry
-437,438,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with CDI system entry
-437,439,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with CDI system entry
-437,450,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with CDI system entry
-437,452,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with CDI system entry
-438,450,1958-10-01,2016-12-01,1958,10,2016,12,1,Begins with GUI system entry
-438,451,1961-04-01,2016-12-01,1961,04,2016,12,1,Begins with SIE system entry
-439,452,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with BFO system entry
-439,461,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with BFO system entry
-450,451,1961-04-01,2016-12-01,1961,04,2016,12,1,Begins with SIE system entry
-452,461,1960-04-01,2016-12-01,1960,04,2016,12,1,Begins with TOG system entry
-452,475,1960-10-01,2016-12-01,1960,10,2016,12,5,Across Bight of Benin; begins with NIG system entry
-461,475,1960-10-01,2016-12-01,1960,10,2016,12,5,Across Bight of Benin; begins with NIG system entry
-471,475,1960-10-01,2016-12-01,1960,10,2016,12,1,Begins with NIG system entry
-471,481,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with GAB system entry
-471,482,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with CEN system entry
-471,483,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with CHA system entry
-471,484,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with CON system entry
-475,481,1960-10-01,2016-12-01,1960,10,2016,12,5,Across Gulf of Guinea; begins with NIG system entry
-475,483,1960-10-01,2016-12-01,1960,10,2016,12,3,Across Lake Chad; begins with NIG system entry
-481,484,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with CON system entry
-481,540,1975-11-01,2016-12-01,1975,11,2016,12,5,Across Atlantic Ocean; begins with ANG system entry
-482,483,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with CEN system entry
-482,484,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with CON system entry
-482,490,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with CEN system entry
-482,625,1960-08-01,2016-12-01,1960,08,2016,12,1,Partly through South Sudan; begins with CEN system entry
-482,626,2011-07-01,2016-12-01,2011,07,2016,12,1,Begins with SSD system entry
-483,620,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with CHA system entry
-483,625,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with CHA system entry
-484,490,1960-08-01,2016-12-01,1960,08,2016,12,1,Begins with CON system entry
-484,540,1975-11-01,2016-12-01,1975,11,2016,12,1,Begins with ANG system entry
-490,500,1962-10-01,2016-12-01,1962,10,2016,12,1,Begins with UGA system entry
-490,510,1961-12-01,2016-12-01,1961,12,2016,12,3,Across Lake Tanganyika; begins with TAZ system entry
-490,516,1962-07-01,2016-12-01,1962,07,2016,12,1,Begins with BUI system entry
-490,517,1962-07-01,2016-12-01,1962,07,2016,12,1,Begins with RWA system entry
-490,540,1975-11-01,2016-12-01,1975,11,2016,12,1,Begins with ANG system entry
-490,551,1964-10-01,2016-12-01,1964,10,2016,12,1,Begins with ZAM system entry
-490,625,1960-06-01,2011-07-01,1960,06,2011,07,1,Through South Sudan; begins with DRC system entry; ends with SSD secession from SUD
-490,626,2011-07-01,2016-12-01,2011,07,2016,12,1,Begins with SSD system entry
-500,501,1963-12-01,2016-12-01,1963,12,2016,12,1,Begins with KEN system entry
-500,510,1962-10-01,2016-12-01,1962,10,2016,12,1,Begins with UGA system entry
-500,517,1962-10-01,2016-12-01,1962,10,2016,12,1,Begins with UGA system entry
-500,625,1962-10-01,2011-07-01,1962,10,2011,07,1,Through South Sudan; begins with UGA system entry; ends with SSD secession from SUD
-500,626,2011-07-01,2016-12-01,2011,07,2016,12,1,Begins with SSD system entry
-501,510,1963-12-01,2016-12-01,1963,12,2016,12,1,Begins with KEN system entry
-501,511,1963-12-01,1964-04-01,1963,12,1964,04,4,Across Indian Ocean; begins with ZAN system entry; ends with ZAN merger into TAZ
-501,520,1963-12-01,2016-12-01,1963,12,2016,12,1,Begins with KEN system entry
-501,530,1963-12-01,2016-12-01,1963,12,2016,12,1,Begins with KEN system entry
-501,625,1963-12-01,2011-07-01,1963,12,2011,07,1,Through South Sudan; begins with KEN system entry; ends with SSD secession from SUD
-501,626,2011-07-01,2016-12-01,2011,07,2016,12,1,Begins with SSD system entry
-510,511,1963-12-01,1964-04-01,1963,12,1964,04,3,Across Indian Ocean; begins with ZAN system entry; ends with ZAN merger into TAZ
-510,516,1962-07-01,2016-12-01,1962,07,2016,12,1,Begins with BUI system entry
-510,517,1962-07-01,2016-12-01,1962,07,2016,12,1,Begins with RWA system entry
-510,520,1961-12-01,2016-12-01,1961,12,2016,12,5,Across Indian Ocean; begins with TAZ system entry
-510,541,1975-06-01,2016-12-01,1975,06,2016,12,1,Begins with MZM system entry
-510,551,1964-10-01,2016-12-01,1964,10,2016,12,1,Begins with ZAM system entry
-510,553,1964-07-01,2016-12-01,1964,07,2016,12,1,Begins with MAW system entry
-510,581,1975-12-01,2016-12-01,1975,12,2016,12,5,Across Indian Ocean; begins with COM system entry
-510,591,1976-06-01,2016-12-01,1976,06,2016,12,5,Across Indian Ocean; begins with SEY system entry
-511,520,1963-12-01,1964-04-01,1963,12,1964,04,5,Across Indian Ocean; begins with ZAN system entry; ends with ZAN merger into TAZ
-516,517,1962-07-01,2016-12-01,1962,07,2016,12,1,Begins with BUI/RWA system entry
-520,522,1977-06-01,2016-12-01,1977,06,2016,12,1,Begins with DJI system entry
-520,530,1960-07-01,2016-12-01,1960,07,2016,12,1,Begins with SOM system entry
-520,678,1960-07-01,1990-05-01,1960,07,1990,05,4,Across Gulf of Aden; begins with SOM system entry; ends with YAR/YPR merger into YEM
-520,679,1990-05-01,2016-12-01,1990,05,2016,12,4,Across Gulf of Aden; begins with YAR/YPR merger into YEM
-520,680,1967-11-01,1990-05-01,1967,11,1990,05,4,Across Gulf of Aden; begins with YPR system entry; ends with YAR/YPR merger into YEM
-520,698,1971-10-01,2016-12-01,1971,10,2016,12,5,Across Gulf of Aden; begins with OMA system entry
-522,530,1977-06-01,2016-12-01,1977,06,2016,12,1,Begins with DJI system entry
-522,531,1993-05-01,2016-12-01,1993,05,2016,12,1,Begins with ERI secession from ETH
-522,670,1977-06-01,2016-12-01,1977,06,2016,12,5,Across Red Sea; begins with DJI system entry
-522,678,1977-06-01,1990-05-01,1977,06,1990,05,3,Across Bab el Mandeb; begins with DJI system entry; ends with YAR/YPR merger into YEM
-522,679,1990-05-01,2016-12-01,1990,05,2016,12,2,Across Bab el Mandeb; vegins with YAR/YPR merger into YEM
-522,680,1977-06-01,1990-05-01,1977,06,1990,05,2,Across Bab el Mandeb; begins with DJI system entry; ends with YAR/YPR merger into YEM
-530,531,1993-05-01,2016-12-01,1993,05,2016,12,1,Begins with ERI secession from ETH
-530,625,1956-01-01,2016-12-01,1956,01,2016,12,1,Begins with SUD system entry
-530,626,2011-07-01,2016-12-01,2011,07,2016,12,1,Begins with SSD system entry
-530,670,1952-09-01,1993-05-01,1952,09,1993,05,4,Across Red Sea (through Eritrea); begins when ERI federated with ETH; ends with ERI secession from ETH
-530,678,1952-09-01,1990-05-01,1952,09,1990,05,2,Across Bab el Mandeb (through Eritrea); begins when ERI federated with ETH; ends with YAR/YPR merger into YEM
-530,679,1990-05-01,1993-05-01,1990,05,1993,05,2,Across Bab el Mandeb (through Eritrea); begins with YAR/YPR merger into YEM; ends with ERI secession from ETH
-530,680,1967-11-01,1990-05-01,1967,11,1990,05,3,Across Bab el Mandeb (through Eritrea); begins with YPR system entry; ends with YAR/YPR merger into YEM
-531,625,1993-05-01,2016-12-01,1993,05,2016,12,1,Begins with ERI secession from ETH
-531,670,1993-05-01,2016-12-01,1993,05,2016,12,4,Across Red Sea; begins with ERI secession from ETH
-531,679,1993-05-01,2016-12-01,1993,05,2016,12,2,Across Bab el Mandeb; begins with ERI secession from ETH
-540,551,1975-11-01,2016-12-01,1975,11,2016,12,1,Begins with ANG system entry
-540,565,1990-03-01,2016-12-01,1990,03,2016,12,1,Begins with NAM system entry
-541,551,1975-06-01,2016-12-01,1975,06,2016,12,1,Begins with MZM system entry
-541,552,1975-06-01,2016-12-01,1975,06,2016,12,1,Begins with MZM system entry
-541,553,1975-06-01,2016-12-01,1975,06,2016,12,1,Begins with MZM system entry
-541,560,1975-06-01,2016-12-01,1975,06,2016,12,1,Begins with MZM system entry
-541,572,1975-06-01,2016-12-01,1975,06,2016,12,1,Begins with MZM system entry
-541,580,1975-06-01,2016-12-01,1975,06,2016,12,5,Across Indian Ocean; begins with MZM system entry
-541,581,1975-12-01,2016-12-01,1975,12,2016,12,5,Across Indian Ocean; begins with COM system entry
-541,591,1976-06-01,2016-12-01,1976,06,2016,12,5,Across Indian Ocean; begins with SEY system entry
-551,552,1965-11-01,2016-12-01,1965,11,2016,12,1,Begins with ZIM system entry
-551,553,1964-10-01,2016-12-01,1964,10,2016,12,1,Begins with ZAM system entry
-551,565,1990-03-01,2016-12-01,1990,03,2016,12,1,Begins with NAM system entry
-551,571,1966-09-01,2016-12-01,1966,09,2016,12,1,Begins with BOT system entry
-552,560,1965-11-01,2016-12-01,1965,11,2016,12,1,Begins with ZIM system entry
-552,571,1966-09-01,2016-12-01,1966,09,2016,12,1,Begins with BOT system entry
-560,565,1990-03-01,2016-12-01,1990,03,2016,12,1,Begins with NAM system entry
-560,570,1966-10-01,2016-12-01,1966,10,2016,12,1,Begins with LES system entry
-560,571,1966-09-01,2016-12-01,1966,09,2016,12,1,Begins with BOT system entry
-560,572,1968-09-01,2016-12-01,1968,09,2016,12,1,Begins with SWA system entry
-565,571,1990-03-01,2016-12-01,1990,03,2016,12,1,Begins with NAM system entry
-580,581,1975-12-01,2016-12-01,1975,12,2016,12,5,Across Indian Ocean; begins with COM system entry
-580,591,1976-06-01,2016-12-01,1976,06,2016,12,5,Across Indian Ocean; begins with SEY system entry
-581,591,1976-06-01,2016-12-01,1976,06,2016,12,5,Across Indian Ocean; begins with SEY system entry
-590,591,1976-06-01,2016-12-01,1976,06,2016,12,5,Across Indian Ocean; begins with SEY system entry
-600,615,1962-07-01,2016-12-01,1962,07,2016,12,1,Begins with ALG system entry
-615,616,1962-07-01,2016-12-01,1962,07,2016,12,1,Begins with ALG system entry
-615,620,1962-07-01,2016-12-01,1962,07,2016,12,1,Begins with ALG system entry
-616,620,1956-03-01,2016-12-01,1956,03,2016,12,1,Begins with TUN system reentry
-616,640,1835-05-01,1881-05-01,1835,05,1881,05,1,Through Libya; begins with restoration of Ottoman rule over Libya; ends with FRN occupation of TUN
-620,625,1956-03-01,2016-12-01,1956,03,2016,12,1,Begins with SUD system entry
-620,640,1951-12-01,2016-12-01,1951,12,2016,12,5,Across Mediterranean Sea; begins with LIB system entry
-620,651,1951-12-01,2016-12-01,1951,12,2016,12,1,Begins with LIB system entry
-625,626,2011-07-01,2016-12-01,2011,07,2016,12,1,Begins with SSD system entry
-625,651,1956-01-01,2016-12-01,1956,01,2016,12,1,Begins with SUD system entry
-625,670,1956-01-01,2016-12-01,1956,01,2016,12,4,Across Red Sea; begins with SUD system entry
-625,678,1956-01-01,1990-05-01,1956,01,1990,05,5,Across Red Sea; begins with SUD system entry; ends with YAR/YPR merger into YEM
-625,679,1990-05-01,2016-12-01,1990,05,2016,12,5,Across Red Sea; begins with YAR/YPR merger into YEM
-625,680,1967-11-01,1990-05-01,1967,11,1990,05,5,Across Red Sea; begins with YPR system entry; ends with YAR/YPR merger into YEM
-630,640,1855-01-01,2016-12-01,1855,01,2016,12,1,Begins with IRN system entry
-630,645,1932-10-01,2016-12-01,1932,10,2016,12,1,Begins with IRQ system entry
-630,670,1927-05-01,2016-12-01,1927,05,2016,12,4,Across Persian Gulf; begins with SAU system entry
-630,690,1961-06-01,2016-12-01,1961,06,2016,12,3,Across Persian Gulf; begins with KUW system entry
-630,692,1971-08-01,2016-12-01,1971,08,2016,12,4,Across Persian Gulf; begins with BAH system entry
-630,694,1971-09-01,2016-12-01,1971,09,2016,12,4,Across Persian Gulf; begins with QAT system entry
-630,696,1971-12-01,2016-12-01,1971,12,2016,12,4,Across Persian Gulf; begins with UAE system entry
-630,698,1971-10-01,2016-12-01,1971,10,2016,12,4,Across Persian Gulf; begins with OMA system entry
-630,700,1920-01-01,2016-12-01,1920,01,2016,12,1,Begins with AFG system entry
-630,701,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with TKM system entry
-630,705,1991-12-01,2016-12-01,1991,12,2016,12,5,Across Caspian Sea; begins with KZK system entry
-630,770,1947-08-01,2016-12-01,1947,08,2016,12,1,Begins with PAK system entry
-640,645,1932-10-01,2016-12-01,1932,10,2016,12,1,Begins with IRQ system entry
-640,651,1855-01-01,1882-09-01,1855,01,1882,09,1,Begins with EGY system entry; ends with UKG occupation of EGY
-640,651,1937-05-01,1958-02-01,1937,05,1958,02,5,Across Mediterranean Sea; resumes with EGY system reentry; sea contiguity replaced by land when SYR merges with EGY
-640,651,1958-02-01,1961-09-01,1958,02,1961,09,1,Through Syria (merged with EGY from 1958-61); ends when Syria ends merger with EGY
-640,651,1961-09-01,2016-12-01,1961,09,2016,12,5,Across Mediterranean Sea; sea contiguity resumes after SYR leaves merger
-640,652,1946-04-01,1958-02-01,1946,04,1958,02,1,Begins with SYR system entry; ends when SYR merges with EGY
-640,652,1961-09-01,2016-12-01,1961,09,2016,12,1,Resumes after SYR leaves merger with EGY
-640,660,1946-03-01,2016-12-01,1946,03,2016,12,4,Across Mediterranean Sea; begins with LEB system entry
-640,666,1948-05-01,2016-12-01,1948,05,2016,12,5,Across Mediterranean Sea; begins with ISR system entry
-645,651,1958-02-01,1961-09-01,1958,02,1961,09,1,Through Syria (merged with EGY from 1958-61); ends when Syria ends merger with EGY
-645,652,1946-04-01,1958-02-01,1946,04,1958,02,1,Begins with SYR system entry; ends when SYR merges with EGY
-645,652,1961-09-01,2016-12-01,1961,09,2016,12,1,Resumes after SYR leaves merger with EGY
-645,663,1946-03-01,2016-12-01,1946,03,2016,12,1,Begins with JOR system entry
-645,670,1932-10-01,2016-12-01,1932,10,2016,12,1,Begins with IRQ system entry
-645,690,1961-06-01,2016-12-01,1961,06,2016,12,1,Begins with KUW system entry
-645,692,1971-08-01,2016-12-01,1971,08,2016,12,5,Across Persian Gulf; begins with BAH system entry
-645,694,1971-09-01,2016-12-01,1971,09,2016,12,5,Across Persian Gulf; begins with QAT system entry
-651,652,1946-04-01,1958-02-01,1946,04,1958,02,5,Across Mediterranean Sea; begins with SYR system entry; ends when SYR merges with EGY
-651,652,1961-09-01,2016-12-01,1961,09,2016,12,5,Across Mediterranean Sea; resumes after SYR leaves merger with EGY
-651,660,1946-03-01,1958-02-01,1946,03,1958,02,5,Across Mediterranean Sea; begins with LEB system entry; sea border replaced by land border when SYR merges with EGY
-651,660,1958-02-01,1961-09-01,1958,02,1961,09,1,Through Syria (merged with EGY from 1958-61); ends when Syria ends merger with EGY
-651,660,1961-09-01,2016-12-01,1961,09,2016,12,5,Across Mediterranean Sea; sea contiguity resumes after SYR leaves merger
-651,663,1946-03-01,1958-02-01,1946,03,1958,02,2,Across Gulf of Aqaba (through Sinai Peninsula); begins with JOR system entry; sea border replaced by land border when SYR merges with EGY
-651,663,1958-02-01,1961-09-01,1958,02,1961,09,1,Through Syria (merged with EGY from 1958-61); ends when Syria ends merger with EGY
-651,663,1961-09-01,1967-06-01,1961,09,1967,06,2,Across Gulf of Aqaba (through Sinai Peninsula); sea contiguity resumes after SYR leaves merger; ends when ISR captures Sinai Peninsula
-651,663,1982-04-01,2016-12-01,1982,04,2016,12,2,Across Gulf of Aqaba (through Sinai Peninsula); resumes when EGY recovers Sinai from ISR
-651,666,1948-05-01,2016-12-01,1948,05,2016,12,1,Begins with ISR system entry
-651,670,1937-05-01,1967-06-01,1937,05,1967,06,2,Across Gulf of Aqaba (through Sinai Peninsula); begins with EGY system reentry; ends when ISR captures Sinai Peninsula
-651,670,1967-06-01,1982-04-01,1967,06,1982,04,4,Across Red Sea; farther sea contiguity due to EGY loss of Sinai
-651,670,1982-04-01,2016-12-01,1982,04,2016,12,2,Across Gulf of Aqaba (through Sinai Peninsula); resumes when EGY recovers Sinai from ISR
-652,660,1946-04-01,1958-02-01,1946,04,1958,02,1,Begins with SYR system entry; ends when SYR merges with EGY
-652,660,1961-09-01,2016-12-01,1961,09,2016,12,1,Resumes after SYR leaves merger with EGY
-652,663,1946-04-01,1958-02-01,1946,04,1958,02,1,Begins with SYR system entry; ends when SYR merges with EGY
-652,663,1961-09-01,2016-12-01,1961,09,2016,12,1,Resumes after SYR leaves merger with EGY
-652,666,1948-05-01,1958-02-01,1948,05,1958,02,1,Begins with ISR system entry; ends when SYR merges with EGY
-652,666,1961-09-01,2016-12-01,1961,09,2016,12,1,Resumes after SYR leaves merger with EGY
-660,666,1948-05-01,2016-12-01,1948,05,2016,12,1,Begins with ISR system entry
-663,666,1948-05-01,2016-12-01,1948,05,2016,12,1,Begins with ISR system entry
-663,670,1946-03-01,2016-12-01,1946,03,2016,12,1,Begins with JOR system entry
-666,670,1948-05-01,2016-12-01,1948,05,2016,12,2,Across Gulf of Aqaba; begins with ISR system entry
-670,678,1927-05-01,1990-05-01,1927,05,1990,05,1,Begins with SAU system entry; ends with YAR/YPR merger into YEM
-670,679,1990-05-01,2016-12-01,1990,05,2016,12,1,Begins with YAR/YPR merger into YEM
-670,680,1967-11-01,1990-05-01,1967,11,1990,05,1,Begins with YPR system entry; ends with YAR/YPR merger into YEM
-670,690,1961-06-01,2016-12-01,1961,06,2016,12,1,Begins with KUW system entry
-670,692,1971-08-01,1986-11-01,1971,08,1986,11,3,Across Gulf of Bahrain; begins with BAH system entry; replaced by direct land contiguity with opening of bridge
-670,692,1986-11-01,2016-12-01,1986,11,2016,12,1,Becomes land border with opening of King Fahd Causeway (25 km bridge across Gulf of Bahrain)
-670,694,1971-09-01,2016-12-01,1971,09,2016,12,1,Begins with QAT system entry
-670,696,1971-12-01,2016-12-01,1971,12,2016,12,1,Begins with UAE system entry
-670,698,1971-10-01,2016-12-01,1971,10,2016,12,1,Begins with OMA system entry
-678,680,1967-11-01,1990-05-01,1967,11,1990,05,1,Begins with YPR system entry; ends with YAR/YPR merger into YEM
-679,698,1990-05-01,2016-12-01,1990,05,2016,12,1,Begins with YAR/YPR merger into YEM
-680,698,1971-10-01,1990-05-01,1971,10,1990,05,1,Begins with OMA system entry; ends with YAR/YPR merger into YEM
-690,692,1971-08-01,2016-12-01,1971,08,2016,12,5,Across Persian Gulf; begins with BAH system entry
-690,694,1971-09-01,2016-12-01,1971,09,2016,12,5,Across Persian Gulf; begins with QAT system entry
-692,694,1971-09-01,2016-12-01,1971,09,2016,12,3,Across Gulf of Bahrain; begins with QAT system entry
-692,696,1971-12-01,2016-12-01,1971,12,2016,12,5,Across Persian Gulf; begins with UAE system entry
-692,698,1971-10-01,2016-12-01,1971,10,2016,12,5,Across Persian Gulf; begins with OMA system entry
-694,696,1971-12-01,2016-12-01,1971,12,2016,12,1,Begins with UAE system entry
-694,698,1971-10-01,2016-12-01,1971,10,2016,12,5,Across Persian Gulf; begins with OMA system entry
-696,698,1971-12-01,2016-12-01,1971,12,2016,12,1,Begins with UAE system entry
-698,770,1971-10-01,2016-12-01,1971,10,2016,12,5,Across Gulf of Oman; begins with OMA system entry
-700,701,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with TKM system entry
-700,702,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with TAJ system entry
-700,704,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with UZB system entry
-700,710,1920-01-01,2016-12-01,1920,01,2016,12,1,Begins with AFG system entry
-700,770,1947-08-01,2016-12-01,1947,08,2016,12,1,Begins with PAK system entry
-701,704,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with TKM/UZB system entry
-701,705,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with TKM/KZK system entry
-702,703,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with TAJ/KYR system entry
-702,704,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with TAJ/UZB system entry
-702,710,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with TAJ system entry
-703,704,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with KYR/UZB system entry
-703,705,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with KYZ/KZK system entry
-703,710,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with KYR system entry
-704,705,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with UZB system entry
-705,710,1991-12-01,2016-12-01,1991,12,2016,12,1,Begins with KZK system entry
-710,712,1921-01-01,2016-12-01,1921,01,2016,12,1,Begins with MON system entry
-710,713,1949-12-01,2016-12-01,1949,12,2016,12,2,Across Taiwan Strait; begins with TAW system entry
-710,730,1887-01-01,1905-11-01,1887,01,1905,11,1,Begins with KOR system entry; ends with JPN protectorate over KOR
-710,731,1948-09-01,2016-12-01,1948,09,2016,12,1,Begins with PRK system entry
-710,732,1949-06-01,2016-12-01,1949,06,2016,12,4,Across Yellow Sea; begins with ROK system entry
-710,740,1860-01-01,1879-03-01,1860,01,1879,03,5,Across East China Sea (closest=Kyushu-Shanghai); begins with JPN system entry; replaced by closer contiguity when JPN annexes Ryukyus
-710,740,1879-03-01,1895-04-01,1879,03,1895,04,4,Across East China Sea (closest=Formosa-Ryukyu Islands); begins with JPN annexation of Ryukyus; becomes colonial contiguity when JPN acquires Formosa
-710,740,1952-04-01,2016-12-01,1952,04,2016,12,5,Across East China Sea; esumes after Allied occupation of JPN ends
-710,750,1947-08-01,2016-12-01,1947,08,2016,12,1,Begins with IND system entry
-710,760,1971-09-01,2016-12-01,1971,09,2016,12,1,Begins with BHU system entry
-710,770,1947-08-01,2016-12-01,1947,08,2016,12,1,Begins with PAK system entry
-710,775,1948-01-01,2016-12-01,1948,01,2016,12,1,Begins with MYA system entry
-710,790,1950-10-01,2016-12-01,1950,10,2016,12,1,Begins with CHN occupation of Tibet
-710,812,1953-10-01,2016-12-01,1953,10,2016,12,1,Begins with LAO system entry
-710,816,1954-07-01,2016-12-01,1954,07,2016,12,1,Begins with DRV system entry
-710,817,1954-06-01,1975-04-01,1954,06,1975,04,4,Across Gulf of Tonkin; begins with RVN system entry; ends with DRV absorption of RVN
-710,840,1946-07-01,1949-12-01,1946,07,1949,12,4,Across South China Sea; begins with PHI system entry; changes to more distant sea contiguity when TAW becomes independent
-710,840,1949-12-01,2016-12-01,1949,12,2016,12,5,Across South China Sea; more distant sea contiguity (from CHN mainland rather than TAW) begins with TAW system entry
-713,740,1972-05-01,2016-12-01,1972,05,2016,12,4,Across East China Sea; begins with return of JPN sovereignty over Ryukyu Islands
-713,840,1949-12-01,2016-12-01,1949,12,2016,12,4,Across South China Sea; begins with TAW system entry
-730,740,1887-01-01,1905-11-01,1887,01,1905,11,4,Across Korea Strait; begins with KOR system entry; ends with JPN protectorate over KOR
-731,732,1949-06-01,2016-12-01,1949,06,2016,12,1,Begins with ROK system entry
-731,740,1952-04-01,2016-12-01,1952,04,2016,12,5,Across Sea of Japan; begins when Allied occupation of JPN ends
-732,740,1952-04-01,2016-12-01,1952,04,2016,12,4,Across Korea Strait; begins when Allied occupation of JPN ends
-740,840,1972-05-01,2016-12-01,1972,05,2016,12,5,Across Philippine Sea; begins with return of JPN sovereignty over Ryukyu Islands
-750,760,1971-09-01,2016-12-01,1971,09,2016,12,1,Begins with BHU system entry
-750,770,1947-08-01,2016-12-01,1947,08,2016,12,1,Begins with IND system entry
-750,771,1972-01-01,2016-12-01,1972,01,2016,12,1,Begins with BNG system entry
-750,775,1948-01-01,2016-12-01,1948,01,2016,12,1,Begins with MYA system entry
-750,780,1948-02-01,2016-12-01,1948,02,2016,12,2,Across Gulf of Mannar; begins with SRI system entry
-750,781,1965-07-01,2016-12-01,1965,07,2016,12,4,Across Laccadive Sea; begins with MAD system entry
-750,790,1947-08-01,2016-12-01,1947,08,2016,12,1,Begins with IND system entry
-750,800,1947-08-01,2016-12-01,1947,08,2016,12,5,Across Andaman Sea (through Andaman and Nicobar Islands); begins with IND system entry
-750,820,1957-08-01,2016-12-01,1957,08,2016,12,5,Across Andaman Sea (through Andaman and Nicobar Islands); begins with MAL system entry
-750,850,1949-12-01,2016-12-01,1949,12,2016,12,4,Across Great Channel (through Nicobar Islands-Sumatra); begins with INS system entry
-770,775,1948-01-01,2016-12-01,1948,01,2016,12,1,Begins with MYA system entry
-771,775,1972-01-01,2016-12-01,1972,01,2016,12,1,Begins with BNG system entry
-775,800,1948-01-01,2016-12-01,1948,01,2016,12,1,Begins with MYA system entry
-775,812,1953-10-01,2016-12-01,1953,10,2016,12,1,Begins with LAO system entry
-775,850,1949-12-01,2016-12-01,1949,12,2016,12,5,Across Andaman Sea (through Sumatra); begins with INS system entry
-800,811,1953-11-01,2016-12-01,1953,11,2016,12,1,Begins with CAM system entry
-800,812,1953-10-01,2016-12-01,1953,10,2016,12,1,Begins with LAO system entry
-800,816,1975-04-01,2016-12-01,1975,04,2016,12,5,Across Gulf of Thailand (through S.Vietnam); begins with DRV absorption of RVN
-800,817,1954-06-01,1975-04-01,1954,06,1975,04,5,Across Gulf of Thailand; begins with RVN system entry; ends with DRV absorption of RVN
-800,820,1957-08-01,2016-12-01,1957,08,2016,12,1,Begins with MAL system entry
-800,850,1949-12-01,2016-12-01,1949,12,2016,12,4,Across Strait of Malacca (through Sumatra); begins with INS system entry
-811,812,1953-11-01,2016-12-01,1953,11,2016,12,1,Begins with CAM system entry
-811,816,1975-04-01,2016-12-01,1975,04,2016,12,1,Through S.Vietnam; begins with DRV absorption of RVN
-811,817,1954-06-01,1975-04-01,1954,06,1975,04,1,Begins with RVN system entry; ends with DRV absorption of RVN
-811,820,1957-08-01,2016-12-01,1957,08,2016,12,5,Across Gulf of Thailand; begins with MAL system entry
-812,816,1954-07-01,2016-12-01,1954,07,2016,12,1,Begins with DRV system entry
-812,817,1954-06-01,1975-04-01,1954,06,1975,04,1,Begins with RVN system entry; ends with DRV absorption of RVN
-816,817,1954-06-01,1975-04-01,1954,06,1975,04,1,Begins with RVN system entry; ends with DRV absorption of RVN
-816,820,1975-04-01,2016-12-01,1975,04,2016,12,5,Across Gulf of Thailand (through S.Vietnam); begins with DRV absorption of RVN
-816,850,1975-04-01,2016-12-01,1975,04,2016,12,5,Across South China Sea (through S.Vietnam); begins with DRV absorption of RVN
-817,820,1957-08-01,1975-04-01,1957,08,1975,04,5,Across South China Sea; begins with MAL system entry; ends with DRV absorption of RVN
-817,850,1954-06-01,1975-04-01,1954,06,1975,04,5,Across Gulf of Thailand; begins with RVN system entry; ends with DRV absorption of RVN
-820,830,1965-08-01,2016-12-01,1965,08,2016,12,1,Begins with SIN system entry
-820,835,1984-01-01,2016-12-01,1984,01,2016,12,1,Begins with BRU system etry
-820,840,1963-09-01,2016-12-01,1963,09,2016,12,3,Across Balabac Strait (through Sabah-Palawan); begins when Sabah/Sarawak join MAL
-820,850,1957-08-01,1963-09-01,1957,08,1963,09,3,Across Strait of Malacca (through Sumatra-Malay Peninsula); begins with MAL system entry; replaced by land border when Sabah/Sarawak join MAL
-820,850,1963-09-01,2016-12-01,1963,09,2016,12,1,Begins when Sabah/Sarawak join MAL
-830,850,1965-08-01,2016-12-01,1965,08,2016,12,2,Across Singapore Strait; begins with SIN system entry
-835,840,1984-01-01,2016-12-01,1984,01,2016,12,5,Across South China Sea (through Palawan); begins with BRU system etry
-840,850,1949-12-01,2016-12-01,1949,12,2016,12,4,Across Celebes Sea (through Sulu Archipelago-Borneo); begins with INS system entry
-840,986,1994-11-01,2016-12-01,1994,11,2016,12,5,Across Pacific Ocean; begins with PAL system entry
-850,860,2002-09-01,2016-12-01,2002,09,2016,12,1,Begins with ETM system entry
-850,900,1949-12-01,1963-04-01,1949,12,1963,04,5,Across Timor Sea (through Timor); begins with INS system entry; replaced by closer contiguity with INS acquisition of West Irian
-850,900,1963-05-01,2016-12-01,1963,05,2016,12,4,Across Arafura Sea (through Irian Jaya); begins with INS acquisition of West Irian
-850,910,1975-09-01,2016-12-01,1975,09,2016,12,1,Begins with PNG system entry
-850,986,1994-11-01,2016-12-01,1994,11,2016,12,4,Across Pacific Ocean; begins with PAL system entry
-850,987,1991-09-01,2016-12-01,1991,09,2016,12,5,Across Pacific Ocean; begins with FSM system entry
-860,900,2002-09-01,2016-12-01,2002,09,2016,12,5,Across Timor Sea; begins with ETM system entry
-900,910,1975-09-01,2016-12-01,1975,09,2016,12,2,Across Torres Strait; begins with PNG system entry
-910,940,1978-07-01,2016-12-01,1978,07,2016,12,2,Across Solomon Sea; begins with SOL system entry
-910,987,1991-09-01,2016-12-01,1991,09,2016,12,5,Across Pacific Ocean; begins with FSM system entry
-935,940,1981-09-01,2016-12-01,1981,09,2016,12,4,Across Pacific Ocean; begins with VAN system entry
-946,947,2000-08-01,2016-12-01,2000,08,2016,12,5,Across Pacific Ocean; begins with TUV system entry
-946,970,1999-09-01,2016-12-01,1999,09,2016,12,5,Across Pacific Ocean; begins with KIR and NAU system entry
-946,983,1999-09-01,2016-12-01,1999,09,2016,12,5,Across Pacific Ocean; begins with KIR system entry
-947,950,2000-08-01,2016-12-01,2000,08,2016,12,5,Across Pacific Ocean; begins with TUV system entry
-950,955,1999-08-01,2016-12-01,1999,08,2016,12,5,Across Pacific Ocean; begins with TON system entry
-955,990,1999-08-01,2016-12-01,1999,08,2016,12,5,Across Pacific Ocean; begins with TON system entry
-986,987,1994-11-01,2016-12-01,1994,11,2016,12,4,Across Pacific Ocean; begins with PAL system entry
+StateA,StateB,StartDate,EndDate,Type,Notes
+2,20,1920-01-01,,1,Begins with CAN system entry
+2,31,1973-07-01,,4,Across Atlantic Ocean (closest=Florida-Bimini); begins with BHM system entry
+2,40,1902-05-01,1906-09-01,4,Across Florida Straits (closest=Key West); begins with CUB system entry; ends with USA occupation of CUB
+2,40,1909-01-01,,4,Across Florida Straits (closest=Key West); resumes after USA occupation of CUB ends
+2,70,1831-01-01,,1,Begins with MEX system entry
+2,365,1959-01-01,,2,Across Bering Strait (closest=Alaska-Siberia); becomes interstate border with Alaskan statehood
+31,40,1973-07-01,,4,Across Atlantic Ocean (closest=Great Inagua); begins with BHM system entry
+31,41,1973-07-01,,4,Across Atlantic Ocean (closest=Great Inagua); begins with BHM system entry
+31,42,1973-07-01,,4,Across Atlantic Ocean (closest=Great Inagua); begins with BHM system entry
+31,51,1973-07-01,,5,Across Windward Passage (closest=Great Inagua); begins with BHM system entry
+40,41,1902-05-01,1906-09-01,4,Across Windward Passage; begins with CUB system entry; ends with USA occupation of CUB
+40,41,1909-01-01,1915-07-01,4,Across Windward Passage; resumes after USA occupation of CUB ends; ends with USA occupation of HAI
+40,41,1934-08-01,,4,Across Windward Passage; resumes after USA occupation of HAI ends
+40,42,1902-05-01,1906-09-01,5,Across Windward Passage (closest=Great Inagua); begins with CUB system entry; ends with USA occupation of CUB
+40,42,1909-01-01,1916-11-01,5,Across Windward Passage; resumes after USA occupation of CUB ends; ends with USA occupation of DOM
+40,42,1924-09-01,,5,Across Windward Passage; resumes after USA occupation of DOM ends
+40,51,1962-08-01,,4,Across Caribbean Sea; begins with JAM system entry
+40,70,1902-05-01,1906-09-01,4,Across Yucatan Channel; begins with CUB system entry; ends with USA occupation of CUB
+40,70,1909-01-01,,4,Across Yucatan Channel; resumes after USA occupation of CUB ends
+40,80,1981-09-01,,5,Across Caribbean Sea; begins with BLZ system entry
+40,91,1902-05-01,1906-09-01,5,Across Caribbean Sea; begins with CUB system entry; ends with USA occupation of CUB
+40,91,1909-01-01,,5,Across Caribbean Sea; resumes after USA occupation of CUB ends
+41,42,1894-01-01,1915-07-01,1,Begins with DOM system entry; ends with USA occupation of HAI
+41,42,1934-08-01,,1,Resumes after USA occupation of HAI ends
+41,51,1962-08-01,,4,Across Jamaica Channel; begins with JAM system entry
+41,100,1859-01-01,1915-07-01,5,Across Caribbean Sea; begins with HAI system entry; ends with USA occupation of HAI
+41,100,1934-08-01,,5,Across Caribbean Sea; resumes after USA occupation of HAI ends
+42,51,1962-08-01,,5,Across Jamaica Channel/Caribbean Sea; begins with JAM system entry
+42,60,1983-09-01,,5,Across Caribbean Sea; begins with SKN system entry
+42,100,1894-01-01,1916-11-01,5,Across Caribbean Sea; begins with DOM system entry; ends with USA occupation of DOM
+42,100,1924-09-01,,5,Across Caribbean Sea; resumes after USA occupation of DOM ends
+42,101,1894-01-01,1916-11-01,5,Across Caribbean Sea; begins with DOM system entry; ends with USA occupation of DOM
+42,101,1924-09-01,,5,Across Caribbean Sea; resumes after USA occupation of DOM ends
+51,91,1962-08-01,,5,Across Caribbean Sea; begins with JAM system entry
+51,93,1962-08-01,,5,Across Caribbean Sea; begins with JAM system entry
+51,100,1962-08-01,,5,Across Caribbean Sea; begins with JAM system entry
+52,53,1966-11-01,,4,Across Atlantic Ocean; begins with BAR system entry
+52,55,1974-02-01,,4,Across Caribbean Sea; begins with GRN system entry
+52,56,1979-02-01,,5,Across Caribbean Sea; begins with SLU system entry
+52,57,1979-10-01,,4,Across Caribbean Sea; begins with SVG system entry
+52,101,1962-08-01,,3,Across Gulf of Paria; begins with TRI system entry
+52,110,1966-05-01,,4,Across Atlantic Ocean; begins with GUY system entry
+52,115,1975-11-01,,5,Across Atlantic Ocean; begins with SUR system entry
+53,54,1978-11-01,,5,Across Atlantic Ocean; begins with DMA system entry
+53,55,1974-02-01,,4,Across Atlantic Ocean; begins with GRN system entry
+53,56,1979-02-01,,4,Across Atlantic Ocean; begins with SLU system entry
+53,57,1979-10-01,,4,Across Atlantic Ocean; begins with SVG system entry
+53,58,1981-11-01,,5,Across Atlantic Ocean; begins with AAB system entry
+53,101,1966-11-01,,5,Across Caribbean Sea/Atlantic Ocean; begins with BAR system entry
+53,110,1966-11-01,,5,Across Atlantic Ocean; begins with BAR system entry
+54,55,1978-11-01,,5,Across Caribbean Sea; begins with DMA system entry
+54,56,1979-02-01,,4,Across Caribbean Sea; begins with SLU system entry
+54,57,1979-10-01,,5,Across Caribbean Sea; begins with SVG system entry
+54,60,1983-09-01,,5,Across Caribbean Sea; begins with SKN system entry
+54,101,1978-11-01,,4,Across Caribbean Sea; begins with DMA system entry
+55,57,1979-10-01,,2,Across Caribbean Sea; begins with SVG system entry
+55,58,1981-11-01,,5,Across Caribbean Sea; begins with AAB system entry
+55,60,1983-09-01,,5,Across Caribbean Sea; begins with SKN system entry
+55,101,1974-02-01,,4,Across Caribbean Sea; begins with GRN system entry
+55,110,1974-02-01,,5,Across Atlantic Ocean; begins with GRN system entry
+56,57,1979-10-01,,3,Across Caribbean Sea; begins with SVG system entry
+56,58,1981-11-01,,5,Across Caribbean Sea; begins with AAB system entry
+56,60,1983-09-01,,5,Across Caribbean Sea; begins with SKN system entry
+56,101,1979-02-01,,5,Across Caribbean Sea; begins with SLU system entry
+56,110,1979-02-01,,5,Across Atlantic Ocean; begins with SLU system entry
+57,58,1981-11-01,,5,Across Caribbean Sea; begins with AAB system entry
+57,60,1983-09-01,,5,Across Caribbean Sea; begins with SKN system entry
+57,101,1979-10-01,,4,Across Caribbean Sea; begins with SVG system entry
+57,110,1979-10-01,,5,Across Atlantic Ocean; begins with SVG system entry
+58,60,1983-09-01,,3,Across Caribbean Sea; begins with SKN system entry
+58,101,1981-11-01,,4,Across Caribbean Sea; begins with AAB system entry
+60,101,1983-09-01,,4,Across Caribbean Sea; begins with SKN system entry
+70,80,1981-09-01,,1,Begins with BLZ system entry
+70,90,1868-01-01,,1,Begins with GUA system entry
+70,91,1899-01-01,,5,Across Caribbean Sea; begins with HON system entry
+80,90,1981-09-01,,1,Begins with BLZ system entry
+80,91,1981-09-01,,4,Across Gulf of Honduras; begins with BLZ system entry
+90,91,1899-01-01,,1,Begins with HON system entry
+90,92,1875-01-01,,1,Begins with SAL system entry
+90,93,1900-01-01,,5,Across edge of Pacific Ocean; begins with NIC system entry
+90,94,1920-01-01,,5,Across edge of Pacific Ocean; begins with COS system entry
+91,92,1899-01-01,,1,Begins with HON system entry
+91,93,1900-01-01,,1,Begins with NIC system entry
+92,93,1900-01-01,,3,Across Gulf of Fonseca; begins with NIC system entry
+92,94,1920-01-01,,5,Across edge of Pacific Ocean; begins with COS system entry
+93,94,1920-01-01,,1,Begins with COS system entry
+93,95,1920-01-01,,5,Across Caribbean Sea; begins with PAN system entry
+93,100,1900-01-01,1903-11-01,5,Across Caribbean Sea; begins with NIC system entry; ends with PAN secession from COL
+93,100,1928-03-01,,4,Across Caribbean Sea; begins when San Andres & Providencia islands join COL
+94,95,1920-01-01,,1,Begins with COS and PAN system entry
+94,100,1928-03-01,,4,Across Caribbean Sea; begins when San Andres & Providencia islands join COL
+95,100,1920-01-01,,1,Begins with PAN system entry
+100,101,1841-01-01,,1,Begins with VEN system entry
+100,130,1854-01-01,,1,Begins with ECU system entry
+100,135,1916-07-01,,1,Begins with ECU-COL treaty that cedes ECU territory along PER to COL
+100,140,1831-01-01,,1,Begins with COL system entry
+101,110,1966-05-01,,1,Begins with GUY system entry
+101,140,1841-01-01,,1,Begins with VEN system entry
+110,115,1975-11-01,,1,Begins with SUR system entry
+110,140,1966-05-01,,1,Begins with GUY system entry
+115,140,1975-11-01,,1,Begins with SUR system entry
+130,135,1854-01-01,,1,Begins with ECU system entry
+130,140,1854-01-01,1916-07-01,1,Begins with ECU system entry; ends with ECU-COL treaty that cedes ECU territory along BRA to COL
+135,140,1839-01-01,,1,Begins with PER system entry
+135,145,1848-01-01,,1,Begins with BOL system entry
+135,155,1883-10-01,,1,Begins after BOL loses seacoast to CHL in War of the Pacific
+140,145,1848-01-01,,1,Begins with BOL system entry
+140,150,1846-01-01,1870-06-01,1,Begins with PAR system entry; ends with BRA/ARG occupation of PAR
+140,150,1876-01-01,,1,Resumes after BRA/ARG occupation of PAR ends
+140,160,1841-01-01,,1,Begins with ARG system entry (ARG territory between URU and PAR bordered BRA)
+140,165,1882-01-01,,1,Begins with URU system entry
+145,150,1848-01-01,1870-06-01,1,Begins with PAR system entry; ends with BRA/ARG occupation of PAR
+145,150,1876-06-01,,1,Resumes after BRA/ARG occupation of PAR ends
+145,155,1848-01-01,,1,Begins with BOL system entry
+145,160,1848-01-01,,1,Begins with BOL system entry
+150,160,1846-01-01,1870-06-01,1,Begins with PAR system entry; ends with BRA/ARG occupation of PAR
+150,160,1876-06-01,,1,Resumes after BRA/ARG occupation of PAR ends
+155,160,1841-01-01,,1,Begins with ARG system entry
+160,165,1882-01-01,,1,Begins with URU system entry
+200,205,1922-12-01,,1,Begins with IRE system entry
+200,210,1816-01-01,1940-07-01,4,Across North Sea; ends with GMY occupation of NTH
+200,210,1945-06-01,,4,Across North Sea; resumes after GMY occupation of NTH ends
+200,211,1830-12-01,1940-05-01,4,Across North Sea; begins with BEL system entry; ends with GMY occupation of BEL
+200,211,1945-06-01,,4,Across North Sea; resumes after GMY occupation of BEL ends
+200,220,1816-01-01,1940-06-01,3,Across English Channel; ends with GMY occupation of northern France
+200,220,1944-08-01,,3,Across English Channel;resumes after GMY occupation of northern France ends
+200,240,1838-01-01,1866-07-01,5,Across North Sea; begins with HAN system entry; ends with GMY absorption of HAN
+200,255,1866-07-01,1945-05-01,5,Across North Sea (through Hanover); begins with GMY absorption of HAN; ends with Allied occupation of GMY
+200,255,1990-10-01,,5,Across North Sea (through Hanover); resumes with GMY reunification
+200,260,1955-05-01,1990-10-01,5,Across North Sea (through Hanover); begins with GFR system entry after division of GMY
+200,380,1816-01-01,1905-06-01,5,Across North Sea (through Norway); ends with NOR independence from SWE
+200,385,1905-06-01,1940-04-01,5,Across North Sea; begins with NOR system entry; ends with GMY occupation of NOR
+200,385,1945-05-01,,5,Across North Sea; resumes after GMY occupation of NOR ends
+200,390,1816-01-01,1940-04-01,5,Across North Sea; ends with GMY occupation of DEN
+200,390,1945-05-01,,5,Across North Sea; resumes after GMY occupation of DEN ends
+205,220,1922-12-01,1940-06-01,5,Across Celtic Sea; begins with IRE system entry; ends with GMY occupation of northern France
+205,220,1944-08-01,,5,Across Celtic Sea; resumes after GMY occupation of northern France ends
+210,211,1830-12-01,1940-05-01,1,Begins with BEL system entry; ends with GMY occupation of BEL
+210,211,1945-05-01,,1,Resumes after GMY occupation of NTH/BEL ends
+210,220,1816-01-01,1830-12-01,1,Direct land border ends with BEL independence from NTH
+210,220,1830-12-01,1940-07-01,5,Across North Sea; begins when direct land border lost to BEL secession; ends with GMY occupation of NTH
+210,220,1945-06-01,,5,Across North Sea; resumes after GMY occupation of NTH ends
+210,240,1838-01-01,1866-07-01,1,Begins with HAN system entry; ends with GMY absorption of HAN
+210,255,1816-01-01,1940-07-01,1,Ends with GMY occupation of NTH
+210,255,1990-10-01,,1,Resumes with GMY reunification
+210,260,1955-05-01,1990-10-01,1,Begins with GFR system entry after division of GMY; ends with GMY reunification
+210,380,1816-01-01,1905-06-01,5,Across North Sea (through Norway); ends with NOR independence from SWE
+210,385,1905-06-01,1940-04-01,5,Across North Sea; begins with NOR system entry; ends with GMY occupation of NOR
+210,385,1945-05-01,,5,Across North Sea; resumes after GMY occupation of NOR ends
+210,390,1816-01-01,1940-04-01,4,Across North Sea; ends with GMY occupation of DEN
+210,390,1945-05-01,,4,Across North Sea; resumes after GMY occupation of DEN ends
+211,212,1920-11-01,1940-05-01,1,Begins with LUX system entry; ends with GMY occupation of LUX
+211,212,1945-05-01,,1,Resumes after GMY occupation of BEL ends
+211,220,1830-12-01,1940-05-01,1,Begins with BEL system entry; ends with GMY occupation of BEL
+211,220,1945-06-01,,1,Resumes after GMY occupation of BEL ends
+211,255,1830-12-01,1940-05-01,1,Begins with BEL system entry; ends with GMY occupation of BEL
+211,255,1990-10-01,,1,Resumes with GMY reunification
+211,260,1955-05-01,1990-10-01,1,Begins with GFR system entry after division of GMY; ends with GMY reunification
+211,390,1830-12-01,1940-04-01,5,Across North Sea; begins with BEL system entry; ends with GMY occupation of DEN
+211,390,1945-05-01,,5,Across North Sea; resumes after GMY occupation of BEL ends
+212,220,1920-11-01,1940-05-01,1,Begins with LUX system entry; ends with GMY occupation of LUX
+212,220,1944-09-01,,1,Resumes after GMY occupation of LUX ends
+212,255,1920-11-01,1940-05-01,1,Begins with LUX system entry; ends with GMY occupation of LUX
+212,255,1944-09-01,1945-05-01,1,Resumes after GMY occupation of LUX ends; ends with Allied occupation of GMY
+212,255,1990-10-01,,1,Resumes with GMY reunification
+212,260,1955-05-01,1990-10-01,1,Begins with GFR system entry after division of GMY; ends with GMY reunification
+220,221,1993-05-01,,1,Begins with MNC system entry
+220,225,1816-01-01,1942-11-01,1,Ends with GMY occupation of FRN
+220,225,1944-08-01,,1,Resumes after GMY occupation of FRN ends
+220,230,1816-01-01,1942-11-01,1,Ends with GMY occupation of FRN
+220,230,1944-08-01,,1,Resumes after GMY occupation of FRN ends
+220,232,1993-07-01,,1,Begins with AND system entry
+220,245,1816-01-01,1871-01-01,1,Ends with GMY absorption of BAV
+220,255,1816-01-01,1940-06-01,1,Ends with GMY occupation of northern France
+220,255,1944-08-01,1945-05-01,1,Resumes after GMY occupation of FRN ends; ends with Allied occupation of GMY
+220,255,1990-10-01,,1,Resumes with GMY reunification
+220,260,1955-05-01,1990-10-01,1,Begins with GFR system entry after division of GMY; ends with GMY reunification
+220,267,1816-01-01,1871-01-01,1,Ends with GMY absorption of BAD
+220,325,1816-01-01,1942-11-01,1,Ends with GMY occupation of FRN
+220,325,1944-08-01,,1,Resumes after GMY occupation of FRN ends
+220,327,1816-01-01,1860-11-01,4,Across Ligurian Sea; ends with ITA absorption of PAP
+220,332,1842-01-01,1860-03-01,4,Across Ligurian Sea; ends with ITA absorption of MOD
+220,337,1816-01-01,1860-03-01,3,Across Ligurian Sea; ends with ITA absorption of TUS
+220,390,1816-01-01,1940-04-01,5,Across North Sea; ends with GMY occupation of DEN
+220,390,1945-05-01,,5,Across North Sea; resumes after GMY occupation of DEN ends
+220,615,1962-07-01,,5,Across Mediterranean Sea; begins with ALG system entry
+220,616,1825-01-01,1881-05-01,5,Across Mediterranean Sea; begins with TUN system entry; ends with FRN occupation of TUN
+220,616,1956-03-01,,5,Across Mediterranean Sea; resumes with TUN system reentry
+221,230,1993-05-01,,5,Across Mediterranean Sea (closest=Menorca); begins with MNC system entry
+221,325,1993-05-01,,4,Across Ligurian Sea; begins with MNC system entry
+223,225,1990-09-01,,1,Begins with LIE system entry
+223,305,1990-09-01,,1,Begins with LIE system entry
+225,245,1816-01-01,1871-01-01,2,Across Lake Constance; ends with GMY absorption of BAV
+225,255,1871-01-01,1945-05-01,1,Through Baden; begins with GMY absorption of BAD; ends with Allied occupation of GMY
+225,255,1990-10-01,,1,Through Baden; resumes with GMY reunification
+225,260,1955-05-01,1990-10-01,1,Through Baden; begins with GFR system entry after division of GMY; ends with GMY reunification
+225,267,1816-01-01,1871-01-01,1,Ends with GMY absorption of BAD
+225,271,1816-01-01,1870-01-01,2,Across Lake Constance; ends with GMY absorption of WRT
+225,300,1816-01-01,1918-11-01,1,Ends with dissolution of AUH
+225,305,1919-09-01,1938-03-01,1,Begins with AUS system entry; ends with Anschluss
+225,305,1955-07-01,,1,Resumes when AUS rejoins system
+225,325,1816-01-01,,1,Both in system for entire COW era
+230,232,1993-07-01,,1,Begins with AND system entry
+230,235,1816-01-01,,1,Both in system for entire COW era
+230,325,1816-01-01,,5,Across Mediterranean Sea (closest=Menorca-Sardinia); both in system for entire COW era
+230,337,1816-01-01,1860-03-01,5,Across Mediterranean Sea; ends with ITA absorption of TUS
+230,435,1976-02-01,1979-08-01,5,Across Atlantic Ocean (through Western Sahara-Canary Is.); begins with MAA entry into W.Sahara; ends with MAA withdrawal from W.Sahara
+230,600,1847-01-01,1911-05-01,3,Across Strait of Gibraltar; begins with MOR system entry; ends when FRN begins protectorate over MOR
+230,600,1956-03-01,,1,Resumes with MOR system reentry
+230,615,1962-07-01,,4,Across Mediterranean Sea; begins with ALG system entry
+230,616,1825-01-01,1881-05-01,5,Across Mediterranean Sea; begins with TUN system entry; ends with FRN occupation of TUN
+230,616,1956-03-01,,5,Across Mediterranean Sea; resumes with TUN system reentry
+235,600,1847-01-01,1911-05-01,4,Across Atlantic Ocean; begins with MOR system entry; ends when FRN begins protectorate over MOR
+235,600,1956-03-01,,4,Across Atlantic Ocean; resumes with MOR system reentry
+240,255,1838-01-01,1866-07-01,1,Begins with HAN system entry; ends with GMY absorption of HAN
+240,273,1838-01-01,1866-07-01,1,Begins with HSE system entry; ends with GMY absorption of HSE
+240,280,1843-01-01,1866-07-01,1,Begins with MEC system entry; ends with GMY absorption of HAN
+240,380,1838-01-01,1866-07-01,5,Across North Sea (through Norway); begins with HAN system entry; ends with GMY absorption of HAN
+240,390,1838-01-01,1866-07-01,4,Across North Sea; begins with HAN system entry; ends with GMY absorption of HAN
+245,255,1816-01-01,1871-01-01,1,Ends with GMY absorption of BAV
+245,267,1816-01-01,1871-01-01,1,Ends with GMY absorption of BAD/BAV
+245,269,1816-01-01,1867-04-01,1,Ends with GMY absorption of SAX
+245,271,1816-01-01,1870-01-01,1,Ends with GMY absorption of WRT
+245,273,1816-01-01,1866-07-01,1,Ends with GMY absorption of HSE
+245,275,1816-01-01,1867-04-01,1,Ends with GMY absorption of HSG
+245,300,1816-01-01,1871-01-01,1,Ends with GMY absorption of BAV
+255,267,1849-12-01,1871-01-01,1,Through Hohenzollern; begins with Prussian incorporation of Hohenzollern; ends with GMY absorption of BAD
+255,269,1816-01-01,1867-04-01,1,Ends with GMY absorption of SAX
+255,271,1849-12-01,1870-01-01,1,Through Hohenzollern; begins with Prussian incorporation of Hohenzollern; ends with GMY absorption of WRT
+255,273,1816-01-01,1866-07-01,1,Ends with GMY absorption of HSE
+255,275,1816-01-01,1867-04-01,1,Ends with GMY absorption of HSG
+255,280,1843-01-01,1867-04-01,1,Begins with MEC system entry; ends with GMY absorption of HAN
+255,290,1918-11-01,1939-09-01,1,Begins with POL system entry; ends with GMY/RUS occupation of POL
+255,290,1990-10-01,,1,Resumes after GMY reunification
+255,300,1816-01-01,1918-11-01,1,Begins with POL system entry; ends with dissolution of Austria-Hungary
+255,305,1919-09-01,1938-03-01,1,Begins with AUS system entry; ends with Anschluss
+255,305,1990-10-01,,1,Resumes after GMY reunification
+255,310,1938-03-01,1945-05-01,1,Through Austria; begins after Anschluss; ends with Allied occupation of GMY
+255,315,1918-10-01,1939-03-01,1,Begins with CZE system entry; ends with GMY occupation of CZE
+255,315,1990-10-01,1992-12-01,1,Resumes after GMY reunification; ends with CZE dissolution
+255,316,1993-01-01,,1,Begins with CZR system entry
+255,325,1938-03-01,1945-05-01,1,Through Austria; begins after Anschluss; ends with Allied occupation of GMY
+255,345,1938-03-01,1941-04-01,1,Through Austria and Slovenia; begins after Anschluss; ends with GMY occupation of YUG
+255,345,1944-10-01,1945-05-01,1,Through Austria and Slovenia; begins after GMY occupation of YUG ends; ends with Allied occupation of GMY
+255,365,1816-01-01,1918-11-01,1,Through East Prussia and Poland/Lithuania; ends with independence of POL & LIT
+255,365,1939-09-01,1941-06-01,1,Through occupied Poland; begins with GMY/RUS occupation of POL; ends with removal of RUS occupiers
+255,365,1990-10-01,,5,Across Baltic Sea; through Kaliningrad; resumes after GMY reunification
+255,366,1918-02-01,1940-06-01,5,Across Baltic Sea; begins with EST system entry; ends with RUS annexation of EST
+255,366,1991-09-01,,5,Across Baltic Sea; resumes with EST independence from RUS
+255,367,1918-11-01,1940-06-01,4,Across Baltic Sea; through East Prussia; begins with LAT system entry; ends with RUS annexation of LAT
+255,367,1991-09-01,,5,Across Baltic Sea; resumes with LAT independence from RUS
+255,368,1918-02-01,1940-06-01,1,Through East Prussia; begins with LIT system entry; ends with RUS annexation of LIT
+255,368,1991-09-01,,5,Across Baltic Sea; resumes with LIT independence from RUS
+255,375,1917-12-01,1945-05-01,5,Across Baltic Sea; through East Prussia; begins with FIN system entry; ends with Allied occupation of GMY
+255,380,1816-01-01,1945-05-01,4,Across Baltic Sea; ends with Allied occupation of GMY
+255,380,1990-10-01,,4,Across Baltic Sea; resumes after GMY reunification
+255,385,1905-06-01,1940-04-01,5,Across North Sea; begins with NOR system entry; ends with GMY occupation of NOR
+255,385,1990-10-01,,5,Across North Sea; resumes after GMY reunification
+255,390,1816-01-01,1865-08-01,4,Across Brandenburger Bucht; through Holstein; ends with Prussian acquisition of direct land border after 2nd Schleswig-Holstein war
+255,390,1865-08-01,1940-04-01,1,Begins with Prussian acquisition of Schleswig; ends with GMY occupation of DEN
+255,390,1990-10-01,,1,Resumes after GMY reunification
+260,265,1955-05-01,1990-10-01,1,Begins with GFR system entry after division of GMY; ends with GMY reunification
+260,305,1955-05-01,1990-10-01,1,Begins with GFR system entry after division of GMY; ends with GMY reunification
+260,315,1955-05-01,1990-10-01,1,Begins with GFR system entry after division of GMY; ends with GMY reunification
+260,365,1955-05-01,1990-10-01,5,Across Baltic Sea; through Kaliningrad; begins with GFR system entry after division of GMY; ends with GMY reunification
+260,380,1955-05-01,1990-10-01,4,Across Baltic Sea; begins with GFR system entry after division of GMY; ends with GMY reunification
+260,385,1955-05-01,1990-10-01,5,Across North Sea; begins with GFR system entry after division of GMY; ends with GMY reunification
+260,390,1955-05-01,1990-10-01,1,Begins with GFR system entry after division of GMY; ends with GMY reunification
+265,290,1954-03-01,1990-10-01,1,Begins with GDR system entry after division of GMY; ends with GMY reunification
+265,315,1954-03-01,1990-10-01,1,Begins with GDR system entry after division of GMY; ends with GMY reunification
+265,365,1954-03-01,1990-10-01,5,Across Baltic Sea; through Kaliningrad; begins with GDR system entry after division of GMY; ends with GMY reunification
+265,380,1954-03-01,1990-10-01,4,Across Baltic Sea; begins with GDR system entry after division of GMY; ends with GMY reunification
+265,390,1954-03-01,1990-10-01,3,Across Mecklenburger Bucht; begins with GDR system entry after division of GMY; ends with GMY reunification
+267,271,1816-01-01,1870-01-01,1,Ends with GMY absorption of WRT
+267,275,1816-01-01,1866-07-01,1,Ends with GMY absorption of HSE
+267,300,1816-01-01,1871-01-01,3,Across Lake Constance; ends with GMY absorption of BAD/BAV
+269,300,1816-01-01,1867-04-01,1,Ends with GMY absorption of SAX
+271,300,1816-01-01,1870-01-01,2,Across Lake Constance; ends with GMY absorption of WRT
+273,275,1816-01-01,1866-07-01,1,Ends with GMY absorption of HSE
+280,365,1843-01-01,1867-04-01,5,Across Baltic Sea; through Lithuania; egins with MEC system entry; ends with GMY absorption of MEC
+280,380,1843-01-01,1867-04-01,4,Across Baltic Sea; begins with MEC system entry; ends with GMY absorption of MEC
+280,390,1843-01-01,1867-04-01,3,Across Mecklenburger Bucht; begins with MEC system entry; ends with GMY absorption of MEC
+290,315,1918-11-01,1939-03-01,1,Begins with POL system entry; ends with GMY occupation of CZE
+290,315,1945-06-01,1992-12-01,1,Resumes after GMY occupation ends; ends with dissolution of CZE
+290,316,1993-01-01,,1,Begins with CZR system entry
+290,317,1993-01-01,,1,Begins with SLO system entry
+290,360,1918-11-01,1939-09-01,1,Begins with POL system entry; ends with GMY/RUS occupation of POL
+290,365,1918-11-01,1939-09-01,1,Begins with POL system entry; ends with GMY/RUS occupation of POL
+290,365,1945-06-01,,1,Resumes after GMY occupation of POL ends
+290,366,1918-11-01,1939-09-01,5,Across Baltic Sea; begins with POL system entry; ends with GMY/RUS occupation of POL
+290,366,1991-09-01,,5,Across Baltic Sea; resumes with EST independence from RUS
+290,367,1918-11-01,1939-09-01,1,Begins with POL system entry; land border due to POL rule over Vilvius area; ends with GMY/RUS occupation of POL
+290,367,1991-09-01,,4,Across Baltic Sea (sea border replaces land because POL lost Vilnius to LIT); resumes with LAT independence from RUS
+290,368,1918-11-01,1939-09-01,1,Begins with POL independence; ends with GMY/RUS occupation of POL
+290,368,1991-09-01,,1,Resumes with LIT independence from RUS
+290,369,1991-12-01,,1,Begins with UKR system entry
+290,370,1991-12-01,,1,Begins with BLR system entry
+290,375,1918-11-01,1939-09-01,5,Across Baltic Sea; begins with POL system entry; ends with GMY/RUS occupation of POL
+290,375,1945-06-01,,5,Across Baltic Sea; resumes after GMY occupation of POL ends
+290,380,1918-11-01,1939-09-01,4,Across Baltic Sea; begins with POL system entry; ends with GMY/RUS occupation of POL
+290,380,1945-06-01,,4,Across Baltic Sea; resumes after GMY occupation of POL ends
+290,390,1918-11-01,1939-09-01,4,Across Baltic Sea; begins with POL system entry; ends with GMY/RUS occupation of POL
+290,390,1945-06-01,,4,Across Baltic Sea; resumes after GMY occupation of POL ends
+300,325,1816-01-01,1918-11-01,1,Ends with dissolution of Austria-Hungary
+300,327,1816-01-01,1860-11-01,1,Ends with ITA absorption of PAP
+300,329,1816-01-01,1861-02-01,4,Across Adriatic Sea; through Croatia and Naples (mainland portion of SIC); ends with ITA absorption of SIC
+300,332,1842-01-01,1860-03-01,1,Begins with MOD system entry; ends with ITA absorption of MOD
+300,335,1851-01-01,1860-03-01,1,Begins with PMA system entry; ends with ITA absorption of PMA
+300,345,1878-07-01,1918-11-01,1,Through Austria-Slovenia and Hungary-Slovenia/Croatia/Vojvodina(Serbia); begins with YUG system entry; ends with dissolution of AUH
+300,350,1864-03-01,1918-11-01,5,Across Adriatic/Strait of Otranto; hrough Croatia and Corfu; begins with GRC acquisition of Ionian Islands; ends with dissolution of AUH
+300,360,1878-07-01,1918-11-01,1,Begins with ROM system entry; ends with dissolution of AUH
+300,365,1816-01-01,1918-11-01,1,Ends with dissolution of AUH
+300,640,1816-01-01,1913-05-01,1,Through Bosnia (AUH) and Kosovo (TUR); ends with Ottoman losses in Balkan Wars (codified in Treaty of London)
+305,310,1919-09-01,1938-03-01,1,Begins with AUS system entry; ends with Anschluss
+305,310,1955-07-01,,1,Resumes with AUS system reentry
+305,315,1919-09-01,1938-03-01,1,Begins with AUS system entry; ends with Anschluss
+305,315,1955-07-01,1992-12-01,1,Resumes with AUS system reentry; ends with dissolution of CZE
+305,316,1993-01-01,,1,Begins with CZR system entry
+305,317,1993-01-01,,1,Begins with SLO system entry
+305,325,1919-09-01,1938-03-01,1,Begins with AUS system entry; ends with Anschluss
+305,325,1955-07-01,,1,Resumes with AUS system reentry
+305,345,1919-09-01,1938-03-01,1,Through Slovenia; begins with AUS system entry; ends with AUS Anschluss with GMY
+305,345,1955-07-01,1992-01-01,1,Through Slovenia; resumes when AUS rejoins system; ends when SLV becomes independent
+305,349,1992-01-01,,1,Begins with SLV system entry
+310,315,1918-11-01,1939-03-01,1,Begins with HUN system entry; ends with GMY occupation of CZE
+310,315,1945-06-01,1992-12-01,1,Through Slovakia; resumes after GMY occupation of CZE ends; ends with dissolution of CZE
+310,317,1993-01-01,,1,Begins with SLO system entry
+310,344,1992-01-01,,1,Begins with CRO system entry
+310,345,1918-11-01,1941-04-01,1,Through Slovenia/Croatia/Vojvodina(Serbia); begins with HUN system entry; ends with GMY occupation of YUG
+310,345,1944-10-01,,1,Through Vojvodina(Serbia) and (until 1992) Slovenia/Croatia; resumes after GMY occupation of YUG ends
+310,349,1992-01-01,,1,Begins with SLV system entry
+310,360,1918-11-01,,1,Begins with HUN system entry
+310,365,1939-11-01,1941-06-01,1,Through Ukraine; begins with RUS annexation of Galicia from POL; ends with WWII German occupation of USSR
+310,365,1944-08-01,1991-12-01,1,Through Ukraine; resumes after Ukraine recaptured from GMY; ends with UKR secession from RUS
+310,369,1991-12-01,,1,Begins with UKR system entry
+315,360,1918-10-01,1939-03-01,1,Begins with CZE system entry; ends with GMY occupation of CZE
+315,365,1945-06-01,1991-12-01,1,Through Slovakia & Ukraine; begins after GMY occupation of CZE ends; ends with UKR secession from RUS
+315,369,1991-12-01,1992-12-01,1,Through Slovakia; begins with UKR system entry; ends with dissolution of CZE
+316,317,1993-01-01,,1,Begins with SLO system entry
+317,369,1993-01-01,,1,Begins with SLO system entry
+325,327,1816-01-01,1860-11-01,4,Across Tyrrhenian Sea; through Sardinia; ends with ITA absorption of PAP
+325,329,1860-11-01,1861-02-01,1,Through Papal States & Naples; begins with ITA absorption of PAP; ends with ITA absorption of SIC
+325,331,1992-03-01,,1,Begins with SNM system entry
+325,332,1842-01-01,1860-03-01,1,Begins with MOD system entry; ends with ITA absorption of MOD
+325,335,1851-01-01,1860-03-01,1,Begins with PMA system entry; ends with ITA absorption of PMA
+325,337,1816-01-01,1860-03-01,4,Across Ligurian Sea; ends with ITA absorption of TUS
+325,338,1964-09-01,,4,Across Malta Channel (Mediterranean Sea); begins with MLT system entry
+325,339,1914-01-01,1939-04-01,4,Across Strait of Otranto; begins with ALB system entry; ends with ITA occupation of ALB
+325,339,1944-11-01,,4,Across Strait of Otranto; resumes after ITA occupation of ALB ends
+325,341,2006-06-01,,4,Across Adriatic Sea; begins with MNG secession from YUG
+325,344,1992-01-01,,3,Across Adriatic Sea; begins with CRO system entry
+325,345,1919-09-01,1941-04-01,1,Through Slovenia; begins with ITA acquisition of Venezia Giulia (Gorizia-Gradisca/Istria/part of Carniola); ends with GMY occupation of YUG
+325,345,1944-10-01,1992-01-01,1,Through Slovenia; resumes after GMY occupation of YUG ends
+325,345,1992-01-01,2006-06-01,4,Across Adriatic Sea; sea contiguity with MNG begins after land contiguity ends with SLV secession from YUG; ends with MNG secession from YUG
+325,349,1992-01-01,,1,Begins with SLV system entry
+325,350,1861-02-01,1864-03-01,5,Across Ionian Sea (though Salentina Peninsula); begins with ITA absorption of SIC; replaced by closer contiguity with GRC acquisition of Corfu
+325,350,1864-03-01,1941-04-01,4,Across Ionian Sea; through Corfu; begins with GRC acquisition of Ionian Islands; ends with GMY occupation of GRC
+325,350,1944-10-01,,4,Across Ionian Sea; resumes after GMY occupation of GRC ends
+325,615,1962-07-01,,4,Across Mediterranean Sea (through Sardinia); begins with ALG system entry
+325,616,1861-02-01,1881-05-01,4,Across Mediterranean Sea (through Sicily); begins with ITA absorption of SIC; ends with FRN occupation of TUN
+325,616,1956-03-01,,4,Across Mediterranean Sea (through Sicily); resumes with TUN system reentry
+325,620,1951-12-01,,5,Across Mediterranean Sea (through Sicily); begins with LIB system entry
+325,640,1861-02-01,1912-10-01,4,Across Mediterranean Sea (through Lampedusa Island & Libya); begins with ITA absorption of SIC; ends with ITA acquisition of Libya
+327,329,1816-01-01,1860-11-01,1,Ends with ITA absorption of PAP
+327,332,1842-01-01,1860-03-01,1,Begins with MOD system entry; ends with ITA absorption of MOD
+327,337,1816-01-01,1860-03-01,1,Ends with ITA absorption of TUS
+327,640,1816-01-01,1860-11-01,5,Across Adriatic Sea (through Albania); ends with ITA absorption of PAP
+329,350,1828-01-01,1861-02-01,5,Across Ionian Sea; begins with GRC system entry; ends with ITA absorption of SIC
+329,616,1825-01-01,1861-02-01,4,Across Mediterranean Sea; begins with TUN system entry; ends with ITA absorption of SIC
+329,640,1816-01-01,1861-02-01,4,Across Mediterranean Sea (through Libya); ends with ITA absorption of SIC
+332,335,1851-01-01,1860-03-01,1,Begins with PMA system entry; ends with ITA absorption of PMA and MOD
+332,337,1842-01-01,1860-03-01,1,Begins with MOD system entry; ends with ITA absorption of MOD and TUS
+338,339,1964-09-01,,5,Across Mediterranean and Ionian Seas; begins with MLT system entry
+338,350,1964-09-01,,5,Across Mediterranean Sea; begins with MLT system entry
+338,616,1964-09-01,,5,Across Mediterranean Sea; begins with MLT system entry
+338,620,1964-09-01,,5,Across Mediterranean Sea; begins with MLT system entry
+339,341,2006-06-01,,1,Begins with MNG system entry
+339,343,1993-04-01,,1,Begins with MAC system entry
+339,344,1992-01-01,,4,Across Adriatic Sea; begins with CRO system entry
+339,345,1914-01-01,1939-04-01,1,Through Montenegro and Kosovo; ends with ITA occupation of ALB
+339,345,1944-11-01,2008-02-01,1,Through Kosovo and (until 2006) Montenegro; resumes after ALB & YUG reenter system; ends with KOS independence
+339,347,2008-02-01,,1,Begins with KOS system entry
+339,350,1914-01-01,1939-04-01,1,Begins with ALB system entry; ends with ITA occupation of ALB
+339,350,1944-11-01,,1,Resumes after ITA occupation of ALB ends
+341,344,2006-06-01,,1,Begins with MNG system entry
+341,345,2006-06-01,,1,Begins with MNG system entry
+341,346,2006-06-01,,1,Begins with MNG system entry
+341,347,2008-02-01,,1,Begins with KOS system entry
+343,345,1993-04-01,,1,Through Serbia and Kosovo; begins with MAC system entry
+343,347,2008-02-01,,1,Begins with KOS system entry
+343,350,1993-04-01,,1,Begins with MAC system entry
+343,355,1993-04-01,,1,Begins with MAC system entry
+344,345,1992-01-01,,1,Through Vojvodina (Serbia) and (until 2006) Montenegro
+344,346,1992-04-01,,1,Begins with BOS system entry
+344,349,1992-01-01,,1,Begins with CRO/SLV system entry
+344,350,1992-01-01,,5,Across Adriatic and Strait of Otranto (through Othonoi Island near Corfu); begins with CRO system entry
+345,346,1992-04-01,,1,Through Serbia/Kosovo and (until 2006) Montenegro; begins with BOS system entry
+345,347,2008-02-01,,1,Begins with KOS system entry
+345,350,1913-08-01,1941-04-01,1,Through Macedonia; begins after Balkan wars; ends with WW2 occupation of YUG & GRC
+345,350,1944-11-01,1993-04-01,1,Through Macedonia (FYROM); resumes after YUG reenters system; ends with MAC secession from YUG
+345,355,1908-10-01,1941-04-01,1,Through Serbia; begins with BUL system entry; ends with GMY occupation of YUG
+345,355,1944-11-01,,1,Through Serbia; resumes after GMY occupation of YUG ends
+345,360,1878-07-01,1941-04-01,1,Through Serbia and Vojovodina; begins with YUG/ROM system entry; ends with GMY occupation of YUG
+345,360,1944-11-01,,1,Through Serbia and Vojovodina; resumes after GMY occupation of YUG ends
+345,640,1878-07-01,1913-08-01,1,Through Macedonia; begins with YUG system entry; ends with TUR losses in Balkan wars
+350,352,1960-08-01,,5,Across Mediterranean Sea (through Rhodes); begins with CYP system entry
+350,355,1913-08-01,1941-04-01,1,Through Macedonia; begins after Balkan wars; ends with GMY occupation of GRC
+350,355,1944-11-01,,1,Resumes after GMY occupation of GRC ends
+350,620,1951-12-01,,5,Across Mediterranean Sea; begins with LIB system entry
+350,640,1828-01-01,1913-08-01,1,Through Macedonia; begins with GRC system entry; land contiguity ends with TUR losses in Balkan wars
+350,640,1913-08-01,1919-11-01,2,Across Aegean Sea; sea contiguity begins with TUR losses in Balkan wars; ends with land border restoration by GRC acquisition of Western Thrace
+350,640,1919-11-01,1941-04-01,1,Land border restored by GRC acquisition of Western Thrace; ends with GMY occupation of GRC
+350,640,1944-11-01,,1,Resumes after GMY occupation of GRC ends
+350,651,1855-01-01,1882-09-01,5,Across Mediterranean Sea; begins with EGY system entry; ends with UKG occupation of EGY
+350,651,1937-05-01,1941-04-01,5,Across Mediterranean Sea; resumes with EGY system reentry; ends with GMY occupation of GRC
+350,651,1944-11-01,,5,Across Mediterranean Sea; resumes after GMY occupation of GRC ends
+352,640,1960-08-01,1974-08-01,4,Across Mediterranean Sea; begins with CYP system entry; sea contiguity replaced by land contiguity when TUR acquires TRNC (N.Cyprus)
+352,640,1974-08-01,,1,Through TRNC (N.Cyprus); land contiguity begins when TUR acquires TRNC
+352,651,1960-08-01,1961-09-01,4,Across Mediterranean Sea; through Syria (merged with EGY from 1958-61); begins with CYP system entry; ends when Syria leaves UAR
+352,651,1961-09-01,,5,Across Mediterranean Sea; closer contiguity through Syria ends with dissolution of UAR
+352,652,1961-09-01,,4,Across Mediterranean Sea; begins when SYR rejoins system separately from EGY
+352,660,1960-08-01,,4,Across Mediterranean Sea; begins with CYP system entry
+352,666,1960-08-01,,4,Across Mediterranean Sea; begins with CYP system entry
+355,360,1908-10-01,,1,Begins with BUL system entry
+355,365,1908-10-01,1942-07-01,5,Across Black Sea; through Sevastopol (Ukraine); begins with BUL system entry; ends with GMY capture of Sevastopol
+355,365,1944-05-01,1991-12-01,5,Across Black Sea; through Sevastopol (Ukraine); begins with recapture of Sevastopol from GMY; ends with UKR secession from RUS
+355,365,2014-03-01,,5,Across Black Sea; begins with RUS acquisition of Crimean Peninsula
+355,369,1991-12-01,,5,Across Black Sea; begins with UKR system entry
+355,640,1908-10-01,,1,Begins with BUL system entry
+359,360,1991-12-01,,1,Begins with MLD system entry
+359,369,1991-12-01,,1,Begins with MLD/UKR system entry
+360,365,1878-07-01,1941-06-01,1,Through Ukraine and Moldova; begins with ROM system entry; ends with WWII German occupation of Ukraine/Moldova
+360,365,1944-04-01,1991-12-01,1,Through Ukraine and Moldova; begins with end of GMY occupation of prewar Ukraine/Moldova; ends with breakup of RUS
+360,365,2014-03-01,,4,Across Black Sea; begins with RUS acquisition of Crimean Peninsula
+360,369,1991-12-01,,1,Begins with UKR system entry
+360,640,1878-07-01,1908-10-01,1,Through Bulgaria; begins with ROM system entry; direct land contiguity ends with BUL independence from TUR
+360,640,1908-10-01,1913-05-01,5,Across Black Sea; sea contiguity replaces land after BUL independence from TUR
+360,640,1913-05-01,1940-09-01,4,Across Black Sea; sea contiguity moves closer with ROM acquisition of Southern Dobrudja (moves back with BUL reacquisition)
+360,640,1940-09-01,,5,Across Black Sea; sea contiguity moves farther apart with BUL reacquisition of Southern Dobrudja
+365,366,1918-02-01,1940-06-01,1,Begins with EST system entry; ends with RUS absorption of EST
+365,366,1991-09-01,,1,Resumes after EST secession from RUS
+365,367,1918-11-01,1940-06-01,1,Begins with LAT system entry; ends with RUS absorption of LAT
+365,367,1991-09-01,,1,Resumes after LAT secession from RUS
+365,368,1918-02-01,1920-10-01,1,Begins with LIT system entry; ends with POL seizure of Vilnius
+365,368,1939-10-01,1940-06-01,1,Resumes with RUS transfer of Vilnius to LIT; ends with RUS absorption of LIT
+365,368,1991-09-01,,1,Resumes after LIT secession from RUS
+365,369,1991-12-01,,1,Begins with UKR system entry
+365,370,1991-12-01,,1,Begins with BLR system entry
+365,372,1991-12-01,,1,Begins with GRG system entry
+365,373,1991-12-01,,1,Begins with AZE system entry
+365,375,1917-12-01,,1,Begins with FIN system entry
+365,380,1816-01-01,1917-12-01,1,Direct land border ends with FIN independence from RUS
+365,380,1917-12-01,1918-11-01,4,Across Baltic Sea (closest=Gotland-LAT); begins when direct land border ended by FIN independence; ends when Baltic states become independent
+365,380,1940-06-01,1941-07-01,4,Across Baltic Sea (closest=Gotland-LAT); begins when RUS occupies Baltics; ends with GMY expels RUS from Baltics
+365,380,1944-10-01,,4,Across Baltic Sea (closest Gotland-LAT then Gotland-Kaliningrad after LAT independence in 1991); resumes after GMY occupation of RUS ends
+365,385,1905-06-01,1917-12-01,1,Direct land border begins with NOR secession from SWE; ends with FIN independence from RUS
+365,385,1917-12-01,1940-04-01,4,Across Barents Sea; sea border replaces direct land border with FIN independence from RUS; ends with GMY occupation of NOR
+365,385,1945-05-01,1947-02-01,4,Across Barents Sea; resumes after GMY occupation of NOR ends; replaced by land border after RUS acquires Pechenga from FIN
+365,385,1947-02-01,,1,Land contiguity begins when RUS acquires Pechenga area from FIN
+365,390,1816-01-01,1918-11-01,5,Across Baltic Sea (closest=Bornholm-LIT); ends when Baltic states become independent from RUS
+365,390,1945-04-01,,5,Across Baltic Sea (closest=Bornholm-Kaliningrad); begins when RUS acquires Kaliningrad from GMY
+365,630,1855-01-01,1991-12-01,1,Through ARM/AZE/TKM; begins with IRN system entry; ends with dissolution of RUS
+365,640,1816-01-01,1991-12-01,1,Through GRG/ARM; direct land border ends with dissolution of RUS
+365,640,1991-12-01,,5,Across Black Sea; sea border replaces direct land border after dissolution of RUS
+365,700,1920-01-01,1991-12-01,1,Through TKM/UZB/TAJ; begins with AFG system entry; ends with dissolution of RUS
+365,701,1991-12-01,,5,Across Caspian Sea; begins with TKM system entry
+365,705,1991-12-01,,1,Begins with KZK system entry
+365,710,1860-10-01,,1,Begins with CHN system entry
+365,712,1921-01-01,,1,Begins with MON system entry
+365,730,1887-01-01,1905-11-01,1,Begins with KOR system entry; ends with JPN protectorate over KOR
+365,731,1948-08-01,,1,Begins with PRK system entry
+365,732,1949-06-01,,5,Across Sea of Japan/East Sea; begins with ROK system entry
+365,740,1860-01-01,1945-08-01,3,Across Pacific Ocean (through RUS- and JPN-held Kurile Islands until 1875/then Kuriles-Kamchatka); begins with JPN system entry; ends with Allied occupation of JPN
+365,740,1952-04-01,,2,Across Pacific Ocean (through Kurile Islands-Hokkaido); resumes after Allied occupation of JPN ends
+366,367,1918-11-01,1940-06-01,1,Begins with LAT system entry; ends with RUS absorption of EST/LAT
+366,367,1991-09-01,,1,Resumes with EST/LAT independence from RUS
+366,375,1918-02-01,1940-06-01,3,Across Gulf of Finland; begins with EST system entry; ends with RUS absorption of EST
+366,375,1991-09-01,,3,Across Gulf of Finland; resumes with EST independence from RUS
+366,380,1918-02-01,1940-06-01,4,Across Baltic Sea; begins with EST system entry; ends with RUS absorption of EST
+366,380,1991-09-01,,4,Across Baltic Sea; resumes with EST independence from RUS
+366,390,1918-02-01,1940-06-01,5,Across Baltic Sea (through Bornholm); begins with EST system entry; ends with RUS absorption of EST
+366,390,1991-09-01,,5,Across Baltic Sea (through Bornholm); resumes with EST independence from RUS
+367,368,1918-11-01,1940-06-01,1,Begins with LAT system entry; ends with RUS absorption of LAT/LIT
+367,368,1991-09-01,,1,Resumes with LAT/LIT independence from RUS
+367,370,1991-12-01,,1,Begins with BLR system entry
+367,375,1918-11-01,1940-06-01,5,Across Baltic Sea (through Aland Islands); begins with LAT system entry; ends with RUS absorption of LAT
+367,375,1991-09-01,,5,Across Baltic Sea (through Aland Islands); resumes with LAT independence from RUS
+367,380,1918-11-01,1940-06-01,4,Across Baltic Sea (closest=Gotland); begins with LAT system entry; ends with RUS absorption of LAT
+367,380,1991-09-01,,4,Across Baltic Sea (closest=Gotland); resumes with LAT independence from RUS
+367,390,1918-11-01,1940-06-01,5,Across Baltic Sea (through Bornholm); begins with LAT system entry; ends with RUS absorption of LAT
+367,390,1991-09-01,,5,Across Baltic Sea (through Bornholm); resumes with LAT independence from RUS
+368,370,1991-12-01,,1,Begins with BLR system entry
+368,375,1918-02-01,1940-06-01,5,Across Baltic Sea (through Aland Islands); begins with LIT system entry; ends with RUS absorption of LATnds with RUS absorption of LIT
+368,375,1991-09-01,,5,Across Baltic Sea (through Aland Islands); resumes with LIT independence from RUS
+368,380,1918-02-01,1940-06-01,4,Across Baltic Sea (closest=Gotland); begins with LIT system entry; ends with RUS absorption of LATnds with RUS absorption of LIT
+368,380,1991-09-01,,4,Across Baltic Sea (closest=Gotland); resumes with LIT independence from RUS
+368,390,1918-02-01,1940-06-01,5,Across Baltic Sea (through Bornholm); begins with LIT system entry; ends with RUS absorption of LATnds with RUS absorption of LIT
+368,390,1991-09-01,,5,Across Baltic Sea (through Bornholm); resumes with LIT independence from RUS
+369,370,1991-12-01,,1,Begins with dissolution of RUS
+369,372,1991-12-01,,5,Across Black Sea (through Crimea); begins with dissolution of RUS
+369,640,1991-12-01,,5,Across Black Sea; begins with dissolution of RUS
+371,372,1991-12-01,,1,Begins with dissolution of RUS
+371,373,1991-12-01,,1,Begins with dissolution of RUS
+371,630,1991-12-01,,1,Begins with dissolution of RUS
+371,640,1991-12-01,,1,Begins with dissolution of RUS
+372,373,1991-12-01,,1,Begins with dissolution of RUS
+372,640,1991-12-01,,1,Begins with dissolution of RUS
+373,630,1991-12-01,,1,Begins with dissolution of RUS
+373,640,1991-12-01,,1,Begins with dissolution of RUS
+373,701,1991-12-01,,4,Across Caspian Sea; begins with dissolution of RUS
+373,705,1991-12-01,,4,Across Caspian Sea; begins with dissolution of RUS
+375,380,1917-12-01,,1,Begins with FIN system entry
+375,385,1917-12-01,1940-04-01,1,Begins with FIN system entry; ends with GMY occup of NOR
+375,385,1945-05-01,,1,Resumes after GMY occupation of NOR ends
+380,385,1905-06-01,1940-04-01,1,Begins with NOR secession from SWD; ends with GMY occup of NOR
+380,385,1945-05-01,,1,Resumes after GMY occupation of NOR ends
+380,390,1816-01-01,1940-04-01,2,Across Oresund; ends with GMY occup of DEN
+380,390,1945-05-01,2000-06-01,2,Across Oresund; resumes when GMY occup of DEN ends; ends when opening of Oresund Bridge creates land border
+380,390,2000-07-01,,1,Land border begins with opening of Oresund Bridge
+385,390,1905-06-01,1940-04-01,4,Across Skagerrak; begins with NOR system entry; ends with GMY occup of NOR/DEN
+385,390,1945-05-01,,4,Across Skagerrak; resumes after GMY occupation of NOR/DEN ends
+402,433,1975-07-01,,5,Across Atlantic Ocean; begins with CAP system entry
+403,411,1975-07-01,,4,Across Gulf of Guinea; begins with STP system entry
+403,471,1975-07-01,,5,Across Gulf of Guinea; begins with STP system entry
+403,475,1975-07-01,,5,Across Gulf of Guinea; begins with STP system entry
+403,481,1975-07-01,,4,Across Gulf of Guinea; begins with STP system entry
+404,433,1974-09-01,,1,Begins with GNB system entry
+404,438,1974-09-01,,1,Begins with GNB system entry
+411,471,1968-10-01,,1,Begins with EQG system entry
+411,475,1968-10-01,,4,Across Gulf of Guinea; begins with EQG system entry
+411,481,1968-10-01,,1,Begins with EQG system entry
+420,433,1965-02-01,,1,Begins with GAM system entry
+432,433,1960-08-01,,1,Begins with SEN system entry
+432,435,1960-11-01,,1,Begins with MAA system entry
+432,436,1960-10-01,,1,Begins with NIR system entry
+432,437,1960-08-01,,1,Begins with CDI system entry
+432,438,1960-06-01,,1,Begins with MLI system entry
+432,439,1960-08-01,,1,Begins with BFO system entry
+432,615,1962-07-01,,1,Begins with ALG system entry
+433,435,1960-11-01,,1,Begins with MAA system entry
+433,438,1960-08-01,,1,Begins with SEN system entry
+434,436,1960-10-01,,1,Begins with NIR system entry
+434,439,1960-08-01,,1,Begins with BFO system entry
+434,452,1960-08-01,,4,Across Bight of Benin; begins with BEN system entry
+434,461,1960-08-01,,1,Begins with BEN system entry
+434,475,1960-10-01,,1,Begins with NIG system entry
+435,600,1976-02-01,,1,Begins with MAA/MOR division of Spanish Sahara
+435,615,1962-07-01,,1,Begins with ALG system entry
+436,439,1960-10-01,,1,Begins with NIR system entry
+436,471,1960-10-01,,4,Across Lake Chad; begins with NIR system entry
+436,475,1960-10-01,,1,Begins with NIR system entry
+436,483,1960-10-01,,1,Begins with NIR system entry
+436,615,1962-07-01,,1,Begins with ALG system entry
+436,620,1960-10-01,,1,Begins with NIR system entry
+437,438,1960-08-01,,1,Begins with CDI system entry
+437,439,1960-08-01,,1,Begins with CDI system entry
+437,450,1960-08-01,,1,Begins with CDI system entry
+437,452,1960-08-01,,1,Begins with CDI system entry
+438,450,1958-10-01,,1,Begins with GUI system entry
+438,451,1961-04-01,,1,Begins with SIE system entry
+439,452,1960-08-01,,1,Begins with BFO system entry
+439,461,1960-08-01,,1,Begins with BFO system entry
+450,451,1961-04-01,,1,Begins with SIE system entry
+452,461,1960-04-01,,1,Begins with TOG system entry
+452,475,1960-10-01,,5,Across Bight of Benin; begins with NIG system entry
+461,475,1960-10-01,,5,Across Bight of Benin; begins with NIG system entry
+471,475,1960-10-01,,1,Begins with NIG system entry
+471,481,1960-08-01,,1,Begins with GAB system entry
+471,482,1960-08-01,,1,Begins with CEN system entry
+471,483,1960-08-01,,1,Begins with CHA system entry
+471,484,1960-08-01,,1,Begins with CON system entry
+475,481,1960-10-01,,5,Across Gulf of Guinea; begins with NIG system entry
+475,483,1960-10-01,,3,Across Lake Chad; begins with NIG system entry
+481,484,1960-08-01,,1,Begins with CON system entry
+481,540,1975-11-01,,5,Across Atlantic Ocean; begins with ANG system entry
+482,483,1960-08-01,,1,Begins with CEN system entry
+482,484,1960-08-01,,1,Begins with CON system entry
+482,490,1960-08-01,,1,Begins with CEN system entry
+482,625,1960-08-01,,1,Partly through South Sudan; begins with CEN system entry
+482,626,2011-07-01,,1,Begins with SSD system entry
+483,620,1960-08-01,,1,Begins with CHA system entry
+483,625,1960-08-01,,1,Begins with CHA system entry
+484,490,1960-08-01,,1,Begins with CON system entry
+484,540,1975-11-01,,1,Begins with ANG system entry
+490,500,1962-10-01,,1,Begins with UGA system entry
+490,510,1961-12-01,,3,Across Lake Tanganyika; begins with TAZ system entry
+490,516,1962-07-01,,1,Begins with BUI system entry
+490,517,1962-07-01,,1,Begins with RWA system entry
+490,540,1975-11-01,,1,Begins with ANG system entry
+490,551,1964-10-01,,1,Begins with ZAM system entry
+490,625,1960-06-01,2011-07-01,1,Through South Sudan; begins with DRC system entry; ends with SSD secession from SUD
+490,626,2011-07-01,,1,Begins with SSD system entry
+500,501,1963-12-01,,1,Begins with KEN system entry
+500,510,1962-10-01,,1,Begins with UGA system entry
+500,517,1962-10-01,,1,Begins with UGA system entry
+500,625,1962-10-01,2011-07-01,1,Through South Sudan; begins with UGA system entry; ends with SSD secession from SUD
+500,626,2011-07-01,,1,Begins with SSD system entry
+501,510,1963-12-01,,1,Begins with KEN system entry
+501,511,1963-12-01,1964-04-01,4,Across Indian Ocean; begins with ZAN system entry; ends with ZAN merger into TAZ
+501,520,1963-12-01,,1,Begins with KEN system entry
+501,530,1963-12-01,,1,Begins with KEN system entry
+501,625,1963-12-01,2011-07-01,1,Through South Sudan; begins with KEN system entry; ends with SSD secession from SUD
+501,626,2011-07-01,,1,Begins with SSD system entry
+510,511,1963-12-01,1964-04-01,3,Across Indian Ocean; begins with ZAN system entry; ends with ZAN merger into TAZ
+510,516,1962-07-01,,1,Begins with BUI system entry
+510,517,1962-07-01,,1,Begins with RWA system entry
+510,520,1961-12-01,,5,Across Indian Ocean; begins with TAZ system entry
+510,541,1975-06-01,,1,Begins with MZM system entry
+510,551,1964-10-01,,1,Begins with ZAM system entry
+510,553,1964-07-01,,1,Begins with MAW system entry
+510,581,1975-12-01,,5,Across Indian Ocean; begins with COM system entry
+510,591,1976-06-01,,5,Across Indian Ocean; begins with SEY system entry
+511,520,1963-12-01,1964-04-01,5,Across Indian Ocean; begins with ZAN system entry; ends with ZAN merger into TAZ
+516,517,1962-07-01,,1,Begins with BUI/RWA system entry
+520,522,1977-06-01,,1,Begins with DJI system entry
+520,530,1960-07-01,,1,Begins with SOM system entry
+520,678,1960-07-01,1990-05-01,4,Across Gulf of Aden; begins with SOM system entry; ends with YAR/YPR merger into YEM
+520,679,1990-05-01,,4,Across Gulf of Aden; begins with YAR/YPR merger into YEM
+520,680,1967-11-01,1990-05-01,4,Across Gulf of Aden; begins with YPR system entry; ends with YAR/YPR merger into YEM
+520,698,1971-10-01,,5,Across Gulf of Aden; begins with OMA system entry
+522,530,1977-06-01,,1,Begins with DJI system entry
+522,531,1993-05-01,,1,Begins with ERI secession from ETH
+522,670,1977-06-01,,5,Across Red Sea; begins with DJI system entry
+522,678,1977-06-01,1990-05-01,3,Across Bab el Mandeb; begins with DJI system entry; ends with YAR/YPR merger into YEM
+522,679,1990-05-01,,2,Across Bab el Mandeb; vegins with YAR/YPR merger into YEM
+522,680,1977-06-01,1990-05-01,2,Across Bab el Mandeb; begins with DJI system entry; ends with YAR/YPR merger into YEM
+530,531,1993-05-01,,1,Begins with ERI secession from ETH
+530,625,1956-01-01,,1,Begins with SUD system entry
+530,626,2011-07-01,,1,Begins with SSD system entry
+530,670,1952-09-01,1993-05-01,4,Across Red Sea (through Eritrea); begins when ERI federated with ETH; ends with ERI secession from ETH
+530,678,1952-09-01,1990-05-01,2,Across Bab el Mandeb (through Eritrea); begins when ERI federated with ETH; ends with YAR/YPR merger into YEM
+530,679,1990-05-01,1993-05-01,2,Across Bab el Mandeb (through Eritrea); begins with YAR/YPR merger into YEM; ends with ERI secession from ETH
+530,680,1967-11-01,1990-05-01,3,Across Bab el Mandeb (through Eritrea); begins with YPR system entry; ends with YAR/YPR merger into YEM
+531,625,1993-05-01,,1,Begins with ERI secession from ETH
+531,670,1993-05-01,,4,Across Red Sea; begins with ERI secession from ETH
+531,679,1993-05-01,,2,Across Bab el Mandeb; begins with ERI secession from ETH
+540,551,1975-11-01,,1,Begins with ANG system entry
+540,565,1990-03-01,,1,Begins with NAM system entry
+541,551,1975-06-01,,1,Begins with MZM system entry
+541,552,1975-06-01,,1,Begins with MZM system entry
+541,553,1975-06-01,,1,Begins with MZM system entry
+541,560,1975-06-01,,1,Begins with MZM system entry
+541,572,1975-06-01,,1,Begins with MZM system entry
+541,580,1975-06-01,,5,Across Indian Ocean; begins with MZM system entry
+541,581,1975-12-01,,5,Across Indian Ocean; begins with COM system entry
+541,591,1976-06-01,,5,Across Indian Ocean; begins with SEY system entry
+551,552,1965-11-01,,1,Begins with ZIM system entry
+551,553,1964-10-01,,1,Begins with ZAM system entry
+551,565,1990-03-01,,1,Begins with NAM system entry
+551,571,1966-09-01,,1,Begins with BOT system entry
+552,560,1965-11-01,,1,Begins with ZIM system entry
+552,571,1966-09-01,,1,Begins with BOT system entry
+560,565,1990-03-01,,1,Begins with NAM system entry
+560,570,1966-10-01,,1,Begins with LES system entry
+560,571,1966-09-01,,1,Begins with BOT system entry
+560,572,1968-09-01,,1,Begins with SWA system entry
+565,571,1990-03-01,,1,Begins with NAM system entry
+580,581,1975-12-01,,5,Across Indian Ocean; begins with COM system entry
+580,591,1976-06-01,,5,Across Indian Ocean; begins with SEY system entry
+581,591,1976-06-01,,5,Across Indian Ocean; begins with SEY system entry
+590,591,1976-06-01,,5,Across Indian Ocean; begins with SEY system entry
+600,615,1962-07-01,,1,Begins with ALG system entry
+615,616,1962-07-01,,1,Begins with ALG system entry
+615,620,1962-07-01,,1,Begins with ALG system entry
+616,620,1956-03-01,,1,Begins with TUN system reentry
+616,640,1835-05-01,1881-05-01,1,Through Libya; begins with restoration of Ottoman rule over Libya; ends with FRN occupation of TUN
+620,625,1956-03-01,,1,Begins with SUD system entry
+620,640,1951-12-01,,5,Across Mediterranean Sea; begins with LIB system entry
+620,651,1951-12-01,,1,Begins with LIB system entry
+625,626,2011-07-01,,1,Begins with SSD system entry
+625,651,1956-01-01,,1,Begins with SUD system entry
+625,670,1956-01-01,,4,Across Red Sea; begins with SUD system entry
+625,678,1956-01-01,1990-05-01,5,Across Red Sea; begins with SUD system entry; ends with YAR/YPR merger into YEM
+625,679,1990-05-01,,5,Across Red Sea; begins with YAR/YPR merger into YEM
+625,680,1967-11-01,1990-05-01,5,Across Red Sea; begins with YPR system entry; ends with YAR/YPR merger into YEM
+630,640,1855-01-01,,1,Begins with IRN system entry
+630,645,1932-10-01,,1,Begins with IRQ system entry
+630,670,1927-05-01,,4,Across Persian Gulf; begins with SAU system entry
+630,690,1961-06-01,,3,Across Persian Gulf; begins with KUW system entry
+630,692,1971-08-01,,4,Across Persian Gulf; begins with BAH system entry
+630,694,1971-09-01,,4,Across Persian Gulf; begins with QAT system entry
+630,696,1971-12-01,,4,Across Persian Gulf; begins with UAE system entry
+630,698,1971-10-01,,4,Across Persian Gulf; begins with OMA system entry
+630,700,1920-01-01,,1,Begins with AFG system entry
+630,701,1991-12-01,,1,Begins with TKM system entry
+630,705,1991-12-01,,5,Across Caspian Sea; begins with KZK system entry
+630,770,1947-08-01,,1,Begins with PAK system entry
+640,645,1932-10-01,,1,Begins with IRQ system entry
+640,651,1855-01-01,1882-09-01,1,Begins with EGY system entry; ends with UKG occupation of EGY
+640,651,1937-05-01,1958-02-01,5,Across Mediterranean Sea; resumes with EGY system reentry; sea contiguity replaced by land when SYR merges with EGY
+640,651,1958-02-01,1961-09-01,1,Through Syria (merged with EGY from 1958-61); ends when Syria ends merger with EGY
+640,651,1961-09-01,,5,Across Mediterranean Sea; sea contiguity resumes after SYR leaves merger
+640,652,1946-04-01,1958-02-01,1,Begins with SYR system entry; ends when SYR merges with EGY
+640,652,1961-09-01,,1,Resumes after SYR leaves merger with EGY
+640,660,1946-03-01,,4,Across Mediterranean Sea; begins with LEB system entry
+640,666,1948-05-01,,5,Across Mediterranean Sea; begins with ISR system entry
+645,651,1958-02-01,1961-09-01,1,Through Syria (merged with EGY from 1958-61); ends when Syria ends merger with EGY
+645,652,1946-04-01,1958-02-01,1,Begins with SYR system entry; ends when SYR merges with EGY
+645,652,1961-09-01,,1,Resumes after SYR leaves merger with EGY
+645,663,1946-03-01,,1,Begins with JOR system entry
+645,670,1932-10-01,,1,Begins with IRQ system entry
+645,690,1961-06-01,,1,Begins with KUW system entry
+645,692,1971-08-01,,5,Across Persian Gulf; begins with BAH system entry
+645,694,1971-09-01,,5,Across Persian Gulf; begins with QAT system entry
+651,652,1946-04-01,1958-02-01,5,Across Mediterranean Sea; begins with SYR system entry; ends when SYR merges with EGY
+651,652,1961-09-01,,5,Across Mediterranean Sea; resumes after SYR leaves merger with EGY
+651,660,1946-03-01,1958-02-01,5,Across Mediterranean Sea; begins with LEB system entry; sea border replaced by land border when SYR merges with EGY
+651,660,1958-02-01,1961-09-01,1,Through Syria (merged with EGY from 1958-61); ends when Syria ends merger with EGY
+651,660,1961-09-01,,5,Across Mediterranean Sea; sea contiguity resumes after SYR leaves merger
+651,663,1946-03-01,1958-02-01,2,Across Gulf of Aqaba (through Sinai Peninsula); begins with JOR system entry; sea border replaced by land border when SYR merges with EGY
+651,663,1958-02-01,1961-09-01,1,Through Syria (merged with EGY from 1958-61); ends when Syria ends merger with EGY
+651,663,1961-09-01,1967-06-01,2,Across Gulf of Aqaba (through Sinai Peninsula); sea contiguity resumes after SYR leaves merger; ends when ISR captures Sinai Peninsula
+651,663,1982-04-01,,2,Across Gulf of Aqaba (through Sinai Peninsula); resumes when EGY recovers Sinai from ISR
+651,666,1948-05-01,,1,Begins with ISR system entry
+651,670,1937-05-01,1967-06-01,2,Across Gulf of Aqaba (through Sinai Peninsula); begins with EGY system reentry; ends when ISR captures Sinai Peninsula
+651,670,1967-06-01,1982-04-01,4,Across Red Sea; farther sea contiguity due to EGY loss of Sinai
+651,670,1982-04-01,,2,Across Gulf of Aqaba (through Sinai Peninsula); resumes when EGY recovers Sinai from ISR
+652,660,1946-04-01,1958-02-01,1,Begins with SYR system entry; ends when SYR merges with EGY
+652,660,1961-09-01,,1,Resumes after SYR leaves merger with EGY
+652,663,1946-04-01,1958-02-01,1,Begins with SYR system entry; ends when SYR merges with EGY
+652,663,1961-09-01,,1,Resumes after SYR leaves merger with EGY
+652,666,1948-05-01,1958-02-01,1,Begins with ISR system entry; ends when SYR merges with EGY
+652,666,1961-09-01,,1,Resumes after SYR leaves merger with EGY
+660,666,1948-05-01,,1,Begins with ISR system entry
+663,666,1948-05-01,,1,Begins with ISR system entry
+663,670,1946-03-01,,1,Begins with JOR system entry
+666,670,1948-05-01,,2,Across Gulf of Aqaba; begins with ISR system entry
+670,678,1927-05-01,1990-05-01,1,Begins with SAU system entry; ends with YAR/YPR merger into YEM
+670,679,1990-05-01,,1,Begins with YAR/YPR merger into YEM
+670,680,1967-11-01,1990-05-01,1,Begins with YPR system entry; ends with YAR/YPR merger into YEM
+670,690,1961-06-01,,1,Begins with KUW system entry
+670,692,1971-08-01,1986-11-01,3,Across Gulf of Bahrain; begins with BAH system entry; replaced by direct land contiguity with opening of bridge
+670,692,1986-11-01,,1,Becomes land border with opening of King Fahd Causeway (25 km bridge across Gulf of Bahrain)
+670,694,1971-09-01,,1,Begins with QAT system entry
+670,696,1971-12-01,,1,Begins with UAE system entry
+670,698,1971-10-01,,1,Begins with OMA system entry
+678,680,1967-11-01,1990-05-01,1,Begins with YPR system entry; ends with YAR/YPR merger into YEM
+679,698,1990-05-01,,1,Begins with YAR/YPR merger into YEM
+680,698,1971-10-01,1990-05-01,1,Begins with OMA system entry; ends with YAR/YPR merger into YEM
+690,692,1971-08-01,,5,Across Persian Gulf; begins with BAH system entry
+690,694,1971-09-01,,5,Across Persian Gulf; begins with QAT system entry
+692,694,1971-09-01,,3,Across Gulf of Bahrain; begins with QAT system entry
+692,696,1971-12-01,,5,Across Persian Gulf; begins with UAE system entry
+692,698,1971-10-01,,5,Across Persian Gulf; begins with OMA system entry
+694,696,1971-12-01,,1,Begins with UAE system entry
+694,698,1971-10-01,,5,Across Persian Gulf; begins with OMA system entry
+696,698,1971-12-01,,1,Begins with UAE system entry
+698,770,1971-10-01,,5,Across Gulf of Oman; begins with OMA system entry
+700,701,1991-12-01,,1,Begins with TKM system entry
+700,702,1991-12-01,,1,Begins with TAJ system entry
+700,704,1991-12-01,,1,Begins with UZB system entry
+700,710,1920-01-01,,1,Begins with AFG system entry
+700,770,1947-08-01,,1,Begins with PAK system entry
+701,704,1991-12-01,,1,Begins with TKM/UZB system entry
+701,705,1991-12-01,,1,Begins with TKM/KZK system entry
+702,703,1991-12-01,,1,Begins with TAJ/KYR system entry
+702,704,1991-12-01,,1,Begins with TAJ/UZB system entry
+702,710,1991-12-01,,1,Begins with TAJ system entry
+703,704,1991-12-01,,1,Begins with KYR/UZB system entry
+703,705,1991-12-01,,1,Begins with KYZ/KZK system entry
+703,710,1991-12-01,,1,Begins with KYR system entry
+704,705,1991-12-01,,1,Begins with UZB system entry
+705,710,1991-12-01,,1,Begins with KZK system entry
+710,712,1921-01-01,,1,Begins with MON system entry
+710,713,1949-12-01,,2,Across Taiwan Strait; begins with TAW system entry
+710,730,1887-01-01,1905-11-01,1,Begins with KOR system entry; ends with JPN protectorate over KOR
+710,731,1948-09-01,,1,Begins with PRK system entry
+710,732,1949-06-01,,4,Across Yellow Sea; begins with ROK system entry
+710,740,1860-01-01,1879-03-01,5,Across East China Sea (closest=Kyushu-Shanghai); begins with JPN system entry; replaced by closer contiguity when JPN annexes Ryukyus
+710,740,1879-03-01,1895-04-01,4,Across East China Sea (closest=Formosa-Ryukyu Islands); begins with JPN annexation of Ryukyus; becomes colonial contiguity when JPN acquires Formosa
+710,740,1952-04-01,,5,Across East China Sea; esumes after Allied occupation of JPN ends
+710,750,1947-08-01,,1,Begins with IND system entry
+710,760,1971-09-01,,1,Begins with BHU system entry
+710,770,1947-08-01,,1,Begins with PAK system entry
+710,775,1948-01-01,,1,Begins with MYA system entry
+710,790,1950-10-01,,1,Begins with CHN occupation of Tibet
+710,812,1953-10-01,,1,Begins with LAO system entry
+710,816,1954-07-01,,1,Begins with DRV system entry
+710,817,1954-06-01,1975-04-01,4,Across Gulf of Tonkin; begins with RVN system entry; ends with DRV absorption of RVN
+710,840,1946-07-01,1949-12-01,4,Across South China Sea; begins with PHI system entry; changes to more distant sea contiguity when TAW becomes independent
+710,840,1949-12-01,,5,Across South China Sea; more distant sea contiguity (from CHN mainland rather than TAW) begins with TAW system entry
+713,740,1972-05-01,,4,Across East China Sea; begins with return of JPN sovereignty over Ryukyu Islands
+713,840,1949-12-01,,4,Across South China Sea; begins with TAW system entry
+730,740,1887-01-01,1905-11-01,4,Across Korea Strait; begins with KOR system entry; ends with JPN protectorate over KOR
+731,732,1949-06-01,,1,Begins with ROK system entry
+731,740,1952-04-01,,5,Across Sea of Japan; begins when Allied occupation of JPN ends
+732,740,1952-04-01,,4,Across Korea Strait; begins when Allied occupation of JPN ends
+740,840,1972-05-01,,5,Across Philippine Sea; begins with return of JPN sovereignty over Ryukyu Islands
+750,760,1971-09-01,,1,Begins with BHU system entry
+750,770,1947-08-01,,1,Begins with IND system entry
+750,771,1972-01-01,,1,Begins with BNG system entry
+750,775,1948-01-01,,1,Begins with MYA system entry
+750,780,1948-02-01,,2,Across Gulf of Mannar; begins with SRI system entry
+750,781,1965-07-01,,4,Across Laccadive Sea; begins with MAD system entry
+750,790,1947-08-01,,1,Begins with IND system entry
+750,800,1947-08-01,,5,Across Andaman Sea (through Andaman and Nicobar Islands); begins with IND system entry
+750,820,1957-08-01,,5,Across Andaman Sea (through Andaman and Nicobar Islands); begins with MAL system entry
+750,850,1949-12-01,,4,Across Great Channel (through Nicobar Islands-Sumatra); begins with INS system entry
+770,775,1948-01-01,,1,Begins with MYA system entry
+771,775,1972-01-01,,1,Begins with BNG system entry
+775,800,1948-01-01,,1,Begins with MYA system entry
+775,812,1953-10-01,,1,Begins with LAO system entry
+775,850,1949-12-01,,5,Across Andaman Sea (through Sumatra); begins with INS system entry
+800,811,1953-11-01,,1,Begins with CAM system entry
+800,812,1953-10-01,,1,Begins with LAO system entry
+800,816,1975-04-01,,5,Across Gulf of Thailand (through S.Vietnam); begins with DRV absorption of RVN
+800,817,1954-06-01,1975-04-01,5,Across Gulf of Thailand; begins with RVN system entry; ends with DRV absorption of RVN
+800,820,1957-08-01,,1,Begins with MAL system entry
+800,850,1949-12-01,,4,Across Strait of Malacca (through Sumatra); begins with INS system entry
+811,812,1953-11-01,,1,Begins with CAM system entry
+811,816,1975-04-01,,1,Through S.Vietnam; begins with DRV absorption of RVN
+811,817,1954-06-01,1975-04-01,1,Begins with RVN system entry; ends with DRV absorption of RVN
+811,820,1957-08-01,,5,Across Gulf of Thailand; begins with MAL system entry
+812,816,1954-07-01,,1,Begins with DRV system entry
+812,817,1954-06-01,1975-04-01,1,Begins with RVN system entry; ends with DRV absorption of RVN
+816,817,1954-06-01,1975-04-01,1,Begins with RVN system entry; ends with DRV absorption of RVN
+816,820,1975-04-01,,5,Across Gulf of Thailand (through S.Vietnam); begins with DRV absorption of RVN
+816,850,1975-04-01,,5,Across South China Sea (through S.Vietnam); begins with DRV absorption of RVN
+817,820,1957-08-01,1975-04-01,5,Across South China Sea; begins with MAL system entry; ends with DRV absorption of RVN
+817,850,1954-06-01,1975-04-01,5,Across Gulf of Thailand; begins with RVN system entry; ends with DRV absorption of RVN
+820,830,1965-08-01,,1,Begins with SIN system entry
+820,835,1984-01-01,,1,Begins with BRU system etry
+820,840,1963-09-01,,3,Across Balabac Strait (through Sabah-Palawan); begins when Sabah/Sarawak join MAL
+820,850,1957-08-01,1963-09-01,3,Across Strait of Malacca (through Sumatra-Malay Peninsula); begins with MAL system entry; replaced by land border when Sabah/Sarawak join MAL
+820,850,1963-09-01,,1,Begins when Sabah/Sarawak join MAL
+830,850,1965-08-01,,2,Across Singapore Strait; begins with SIN system entry
+835,840,1984-01-01,,5,Across South China Sea (through Palawan); begins with BRU system etry
+840,850,1949-12-01,,4,Across Celebes Sea (through Sulu Archipelago-Borneo); begins with INS system entry
+840,986,1994-11-01,,5,Across Pacific Ocean; begins with PAL system entry
+850,860,2002-09-01,,1,Begins with ETM system entry
+850,900,1949-12-01,1963-04-01,5,Across Timor Sea (through Timor); begins with INS system entry; replaced by closer contiguity with INS acquisition of West Irian
+850,900,1963-05-01,,4,Across Arafura Sea (through Irian Jaya); begins with INS acquisition of West Irian
+850,910,1975-09-01,,1,Begins with PNG system entry
+850,986,1994-11-01,,4,Across Pacific Ocean; begins with PAL system entry
+850,987,1991-09-01,,5,Across Pacific Ocean; begins with FSM system entry
+860,900,2002-09-01,,5,Across Timor Sea; begins with ETM system entry
+900,910,1975-09-01,,2,Across Torres Strait; begins with PNG system entry
+910,940,1978-07-01,,2,Across Solomon Sea; begins with SOL system entry
+910,987,1991-09-01,,5,Across Pacific Ocean; begins with FSM system entry
+935,940,1981-09-01,,4,Across Pacific Ocean; begins with VAN system entry
+946,947,2000-08-01,,5,Across Pacific Ocean; begins with TUV system entry
+946,970,1999-09-01,,5,Across Pacific Ocean; begins with KIR and NAU system entry
+946,983,1999-09-01,,5,Across Pacific Ocean; begins with KIR system entry
+947,950,2000-08-01,,5,Across Pacific Ocean; begins with TUV system entry
+950,955,1999-08-01,,5,Across Pacific Ocean; begins with TON system entry
+955,990,1999-08-01,,5,Across Pacific Ocean; begins with TON system entry
+986,987,1994-11-01,,4,Across Pacific Ocean; begins with PAL system entry
